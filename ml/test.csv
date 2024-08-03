@@ -1,0 +1,2001 @@
+Timestamp,User_ID,Location_Type,Environment,Noise_Level_dB,Duration_Minutes,Age,Gender,Hearing_Protection_Used,Hearing_Sensitivity,Health_Issues,Hearing_Damage_Risk
+19/06/2024 10:56,3210,Outdoor,Traffic,74.39340386,83.01492664,20,Other,Yes,Moderate,Other,0
+19/06/2024 10:41,6413,Outdoor,Traffic,73.03389869,28.30881172,40,Female,No,Normal,Hypertension,0
+19/06/2024 10:26,6305,Indoor,Traffic,64.01855313,67.15582138,30,Male,No,Moderate,Hypertension,0
+19/06/2024 10:11,9367,Outdoor,Workplace,62.27908964,96.59268192,39,Female,No,Mild,Other,0
+19/06/2024 09:56,7334,Indoor,Industrial,43.41563544,72.35564745,48,Other,No,Mild,Healthy,0
+19/06/2024 09:41,4930,Outdoor,Industrial,47.67792817,108.7696707,25,Female,No,Moderate,Other,0
+19/06/2024 09:26,8218,Indoor,Traffic,70.45766441,41.43624839,47,Other,Yes,Mild,Heart Disease,0
+19/06/2024 09:11,1833,Outdoor,Industrial,74.04731202,65.15748648,63,Other,Yes,Normal,Diabetes,0
+19/06/2024 08:56,2904,Outdoor,Workplace,75.70050248,69.75310443,29,Female,No,Mild,Hypertension,1
+19/06/2024 08:41,1334,Outdoor,Recreational,51.52825016,49.46261028,39,Male,No,Moderate,Healthy,0
+19/06/2024 08:26,5215,Indoor,Workplace,87.93451466,35.28721179,60,Female,No,Mild,Heart Disease,1
+19/06/2024 08:11,4647,Indoor,Residential,75.00291062,103.3961406,32,Female,No,Moderate,Diabetes,1
+19/06/2024 07:56,5666,Indoor,Residential,59.26548072,82.4440838,47,Male,Yes,Moderate,Healthy,0
+19/06/2024 07:41,8950,Outdoor,Traffic,66.63323388,71.15740084,41,Other,No,Mild,Hypertension,0
+19/06/2024 07:26,5343,Indoor,Residential,48.02620448,60.95745445,42,Male,Yes,Moderate,Healthy,0
+19/06/2024 07:11,6484,Outdoor,Traffic,58.83097246,62.80772797,19,Other,Yes,Severe,Heart Disease,0
+19/06/2024 06:56,1046,Indoor,Recreational,70.38262715,72.56061455,18,Other,No,Mild,Other,0
+19/06/2024 06:41,6325,Indoor,Workplace,65.62689789,88.846941,37,Female,No,Severe,Hypertension,0
+19/06/2024 06:26,5419,Outdoor,Industrial,82.4314353,45.86210717,62,Female,Yes,Normal,Diabetes,1
+19/06/2024 06:11,1588,Indoor,Residential,50.20553583,62.11296919,61,Male,Yes,Moderate,Hypertension,0
+19/06/2024 05:56,8428,Outdoor,Recreational,63.82867396,52.60031589,43,Female,Yes,Severe,Heart Disease,0
+19/06/2024 05:41,2127,Outdoor,Workplace,53.63384206,38.86210042,25,Female,Yes,Moderate,Diabetes,0
+19/06/2024 05:26,2657,Outdoor,Recreational,80.3505437,47.72611685,36,Other,No,Moderate,Heart Disease,1
+19/06/2024 05:11,8020,Indoor,Workplace,67.65356764,64.32570561,48,Female,Yes,Normal,Hypertension,0
+19/06/2024 04:56,1484,Indoor,Residential,65.08443478,54.01402009,32,Other,No,Mild,Healthy,0
+19/06/2024 04:41,5295,Indoor,Traffic,63.66862095,60.54566944,59,Female,No,Mild,Heart Disease,0
+19/06/2024 04:26,7967,Indoor,Workplace,56.22916225,74.49275764,19,Other,Yes,Normal,Other,0
+19/06/2024 04:11,2318,Outdoor,Workplace,76.98446958,83.10159835,19,Female,No,Moderate,Other,1
+19/06/2024 03:56,3514,Indoor,Recreational,66.70605586,113.0761992,46,Other,No,Normal,Hypertension,0
+19/06/2024 03:41,4149,Outdoor,Residential,67.4475192,75.42485988,50,Male,No,Mild,Diabetes,0
+19/06/2024 03:26,8043,Outdoor,Recreational,70.82321507,47.66205613,27,Male,No,Moderate,Healthy,0
+19/06/2024 03:11,9942,Indoor,Traffic,56.38217993,82.05452719,63,Female,No,Mild,Diabetes,0
+19/06/2024 02:56,7276,Indoor,Industrial,84.95287228,53.64224217,38,Male,Yes,Normal,Heart Disease,1
+19/06/2024 02:41,3923,Indoor,Recreational,80.69512494,46.01639863,38,Male,Yes,Severe,Hypertension,1
+19/06/2024 02:26,7405,Indoor,Industrial,64.6404132,72.45633116,60,Female,No,Severe,Healthy,0
+19/06/2024 02:11,8655,Outdoor,Recreational,61.9891301,88.2748139,30,Male,No,Normal,Hypertension,0
+19/06/2024 01:56,4688,Indoor,Workplace,71.39641686,47.88946611,33,Other,Yes,Moderate,Hypertension,0
+19/06/2024 01:41,9825,Outdoor,Traffic,76.20188607,66.30800341,36,Female,Yes,Severe,Hypertension,1
+19/06/2024 01:26,6586,Indoor,Industrial,82.50275316,69.1270062,41,Female,No,Severe,Diabetes,1
+19/06/2024 01:11,2513,Outdoor,Industrial,71.44814196,41.02871477,40,Other,No,Normal,Heart Disease,0
+19/06/2024 00:56,5817,Indoor,Recreational,66.36567462,31.3711169,21,Other,No,Normal,Heart Disease,0
+19/06/2024 00:41,9446,Outdoor,Traffic,66.37135049,31.94291886,48,Male,Yes,Severe,Diabetes,0
+19/06/2024 00:26,8956,Indoor,Recreational,46.19312782,85.5769865,25,Female,No,Severe,Other,0
+19/06/2024 00:11,2380,Outdoor,Industrial,60.69703564,50.72295569,59,Male,No,Moderate,Healthy,0
+18/06/2024 23:56,3512,Outdoor,Traffic,68.61221713,47.39443427,42,Female,No,Normal,Healthy,0
+18/06/2024 23:41,6790,Indoor,Recreational,42.42269234,66.36907528,40,Female,No,Moderate,Diabetes,0
+18/06/2024 23:26,5820,Indoor,Workplace,66.79936655,86.01627506,28,Female,No,Normal,Hypertension,0
+18/06/2024 23:11,7258,Outdoor,Traffic,56.87974102,36.70601485,45,Male,No,Normal,Hypertension,0
+18/06/2024 22:56,1819,Indoor,Workplace,80.77018921,22.23629756,62,Female,Yes,Normal,Heart Disease,1
+18/06/2024 22:41,1258,Indoor,Traffic,62.15318673,89.51153938,40,Male,Yes,Normal,Diabetes,0
+18/06/2024 22:26,9339,Outdoor,Industrial,62.36371271,70.27588294,62,Female,Yes,Mild,Other,0
+18/06/2024 22:11,4278,Outdoor,Traffic,63.62586199,38.54594969,62,Other,Yes,Moderate,Other,0
+18/06/2024 21:56,4693,Outdoor,Workplace,64.95349663,51.23389588,60,Male,Yes,Normal,Healthy,0
+18/06/2024 21:41,8927,Indoor,Recreational,72.92830609,39.95268227,64,Female,No,Moderate,Healthy,0
+18/06/2024 21:26,1911,Indoor,Industrial,61.55698288,72.79885183,53,Other,No,Severe,Hypertension,0
+18/06/2024 21:11,4100,Outdoor,Workplace,65.23431775,80.45656902,51,Male,Yes,Moderate,Hypertension,0
+18/06/2024 20:56,9469,Indoor,Residential,72.98792755,73.38564369,28,Other,No,Mild,Diabetes,0
+18/06/2024 20:41,6582,Outdoor,Traffic,65.08530131,63.32826171,25,Female,Yes,Normal,Hypertension,0
+18/06/2024 20:26,6204,Outdoor,Residential,71.55430836,67.561972,51,Female,No,Normal,Hypertension,0
+18/06/2024 20:11,2977,Outdoor,Workplace,60.54434268,45.16646007,25,Male,Yes,Mild,Heart Disease,0
+18/06/2024 19:56,4607,Indoor,Residential,68.51006438,51.11660236,34,Other,Yes,Normal,Diabetes,0
+18/06/2024 19:41,6572,Outdoor,Workplace,78.08991609,60.11995413,39,Other,No,Mild,Healthy,1
+18/06/2024 19:26,1779,Outdoor,Industrial,71.02453471,54.46645651,25,Female,Yes,Severe,Diabetes,0
+18/06/2024 19:11,3308,Outdoor,Recreational,46.28981572,60.01126198,18,Other,No,Severe,Other,0
+18/06/2024 18:56,3573,Outdoor,Recreational,70.55364934,27.64872156,31,Other,Yes,Normal,Hypertension,0
+18/06/2024 18:41,8934,Outdoor,Traffic,53.46011562,77.62464092,22,Male,No,Mild,Healthy,0
+18/06/2024 18:26,4248,Outdoor,Industrial,55.75021674,38.55751874,44,Other,Yes,Mild,Diabetes,0
+18/06/2024 18:11,9163,Indoor,Residential,69.91879689,17.83706617,40,Female,Yes,Severe,Healthy,0
+18/06/2024 17:56,7457,Indoor,Industrial,55.30435928,45.69384792,29,Female,No,Moderate,Hypertension,0
+18/06/2024 17:41,4427,Outdoor,Residential,53.90194463,55.68718126,47,Other,No,Mild,Healthy,0
+18/06/2024 17:26,3664,Indoor,Industrial,64.96504793,100.3533911,25,Female,No,Normal,Healthy,0
+18/06/2024 17:11,4893,Indoor,Recreational,58.86579499,50.22307989,57,Other,No,Normal,Healthy,0
+18/06/2024 16:56,3028,Indoor,Traffic,48.70241556,64.19449937,19,Other,No,Normal,Other,0
+18/06/2024 16:41,6976,Indoor,Recreational,70.55385249,66.41372842,22,Male,Yes,Mild,Heart Disease,0
+18/06/2024 16:26,1506,Indoor,Recreational,74.85420036,29.70246386,30,Male,No,Severe,Diabetes,0
+18/06/2024 16:11,3051,Indoor,Industrial,74.04704732,57.89492659,34,Other,Yes,Normal,Healthy,0
+18/06/2024 15:56,6769,Indoor,Residential,56.01684757,54.71111391,52,Male,No,Mild,Other,0
+18/06/2024 15:41,6163,Indoor,Industrial,69.10901066,61.67314472,32,Female,Yes,Mild,Healthy,0
+18/06/2024 15:26,6840,Indoor,Residential,60.05921693,68.46117698,29,Other,No,Mild,Healthy,0
+18/06/2024 15:11,1960,Outdoor,Workplace,52.32503035,77.01597224,52,Male,Yes,Normal,Heart Disease,0
+18/06/2024 14:56,3946,Indoor,Traffic,57.52672136,42.87074864,59,Male,No,Mild,Other,0
+18/06/2024 14:41,1061,Indoor,Residential,36.80662984,69.66405984,20,Male,Yes,Severe,Heart Disease,0
+18/06/2024 14:26,9541,Indoor,Workplace,54.42700936,45.43091355,27,Male,No,Normal,Other,0
+18/06/2024 14:11,1004,Outdoor,Traffic,50.33292826,41.7955235,19,Other,Yes,Normal,Diabetes,0
+18/06/2024 13:56,3091,Indoor,Residential,67.02907598,95.05155191,32,Female,No,Severe,Diabetes,0
+18/06/2024 13:41,7538,Outdoor,Recreational,67.91496329,23.7350879,24,Other,No,Moderate,Heart Disease,0
+18/06/2024 13:26,6620,Outdoor,Traffic,48.10275603,49.66720348,37,Other,Yes,Severe,Diabetes,0
+18/06/2024 13:11,6192,Outdoor,Traffic,73.27979651,64.44612194,25,Female,No,Severe,Healthy,0
+18/06/2024 12:56,1013,Outdoor,Industrial,58.92238589,48.01066875,64,Female,Yes,Mild,Diabetes,0
+18/06/2024 12:41,6644,Outdoor,Traffic,54.30600725,63.00671429,43,Other,Yes,Normal,Diabetes,0
+18/06/2024 12:26,4967,Outdoor,Industrial,47.09676708,33.14253854,25,Male,Yes,Normal,Diabetes,0
+18/06/2024 12:11,8700,Outdoor,Workplace,56.99132507,23.0953129,47,Other,Yes,Mild,Healthy,0
+18/06/2024 11:56,8102,Indoor,Traffic,63.60779132,42.51262403,62,Other,No,Mild,Other,0
+18/06/2024 11:41,8318,Indoor,Residential,74.95797282,63.0425329,37,Other,No,Moderate,Diabetes,0
+18/06/2024 11:26,3239,Indoor,Traffic,63.9470644,56.56899831,48,Male,No,Normal,Diabetes,0
+18/06/2024 11:11,4712,Outdoor,Traffic,61.85129593,72.72313745,46,Female,No,Severe,Hypertension,0
+18/06/2024 10:56,9798,Indoor,Residential,70.80494045,31.50636848,47,Male,No,Severe,Hypertension,0
+18/06/2024 10:41,3418,Indoor,Traffic,66.40093408,48.48758762,48,Male,No,Moderate,Other,0
+18/06/2024 10:26,3957,Indoor,Industrial,49.9493551,58.56111431,21,Other,Yes,Mild,Diabetes,0
+18/06/2024 10:11,2851,Indoor,Residential,60.6327566,40.620315,46,Male,No,Severe,Diabetes,0
+18/06/2024 09:56,1938,Outdoor,Recreational,59.24992722,62.75951787,61,Male,No,Severe,Other,0
+18/06/2024 09:41,7148,Indoor,Traffic,63.50060254,54.37537072,47,Female,Yes,Severe,Other,0
+18/06/2024 09:26,3506,Outdoor,Traffic,60.246964,69.73674965,39,Male,Yes,Severe,Hypertension,0
+18/06/2024 09:11,5584,Indoor,Industrial,56.93527756,65.77541638,49,Male,Yes,Mild,Healthy,0
+18/06/2024 08:56,2056,Outdoor,Residential,79.6487704,22.93120932,29,Other,No,Normal,Other,1
+18/06/2024 08:41,3885,Indoor,Traffic,64.54787677,89.45118876,47,Other,Yes,Moderate,Hypertension,0
+18/06/2024 08:26,2801,Outdoor,Industrial,69.76859154,16.55394915,22,Male,No,Moderate,Heart Disease,0
+18/06/2024 08:11,6368,Outdoor,Recreational,63.82649914,28.96210471,19,Female,Yes,Moderate,Healthy,0
+18/06/2024 07:56,3003,Indoor,Recreational,73.15216401,58.50108053,23,Other,No,Moderate,Hypertension,0
+18/06/2024 07:41,6192,Indoor,Industrial,64.09152973,65.91927022,60,Other,No,Mild,Other,0
+18/06/2024 07:26,8907,Outdoor,Residential,74.72369394,54.35441404,60,Other,Yes,Mild,Heart Disease,0
+18/06/2024 07:11,7125,Outdoor,Traffic,36.29730915,49.16009504,52,Male,Yes,Normal,Heart Disease,0
+18/06/2024 06:56,8301,Indoor,Industrial,65.99689449,58.35561421,27,Male,Yes,Mild,Other,0
+18/06/2024 06:41,3432,Indoor,Industrial,67.61092378,70.5439158,33,Other,Yes,Mild,Other,0
+18/06/2024 06:26,7410,Indoor,Industrial,68.0463539,37.06954654,39,Female,No,Normal,Heart Disease,0
+18/06/2024 06:11,4434,Indoor,Workplace,54.16187003,37.71414582,31,Other,Yes,Mild,Healthy,0
+18/06/2024 05:56,2848,Indoor,Recreational,57.77323324,42.68900777,57,Male,Yes,Normal,Heart Disease,0
+18/06/2024 05:41,7395,Outdoor,Workplace,54.56689704,86.40166742,33,Female,No,Mild,Other,0
+18/06/2024 05:26,4750,Outdoor,Industrial,69.87087593,67.45864605,56,Other,No,Mild,Healthy,0
+18/06/2024 05:11,9756,Indoor,Recreational,74.04272406,71.44761016,18,Other,Yes,Moderate,Hypertension,0
+18/06/2024 04:56,5186,Outdoor,Traffic,48.56127041,91.82062679,33,Female,No,Normal,Diabetes,0
+18/06/2024 04:41,9964,Outdoor,Traffic,67.05173123,75.7481329,37,Male,Yes,Severe,Diabetes,0
+18/06/2024 04:26,9549,Outdoor,Workplace,56.35387033,63.12872419,49,Other,No,Severe,Diabetes,0
+18/06/2024 04:11,7407,Indoor,Workplace,82.47574411,91.16623583,19,Other,No,Moderate,Hypertension,1
+18/06/2024 03:56,4528,Indoor,Recreational,70.62617077,40.56661193,39,Male,Yes,Moderate,Hypertension,0
+18/06/2024 03:41,2050,Outdoor,Traffic,61.48053551,54.69370126,22,Female,Yes,Moderate,Heart Disease,0
+18/06/2024 03:26,9501,Outdoor,Workplace,63.65099366,83.12516008,19,Female,Yes,Severe,Hypertension,0
+18/06/2024 03:11,1892,Outdoor,Industrial,77.97056546,16.12077674,56,Female,Yes,Moderate,Hypertension,1
+18/06/2024 02:56,9759,Outdoor,Industrial,65.57194239,44.0646539,61,Female,No,Moderate,Other,0
+18/06/2024 02:41,1627,Indoor,Workplace,47.11376842,75.79169415,58,Other,No,Normal,Hypertension,0
+18/06/2024 02:26,2363,Outdoor,Residential,80.17325167,62.13187391,49,Female,No,Moderate,Other,1
+18/06/2024 02:11,3330,Outdoor,Workplace,73.12837227,70.27637373,28,Male,Yes,Normal,Heart Disease,0
+18/06/2024 01:56,7161,Indoor,Residential,59.62638928,21.67161939,43,Other,No,Moderate,Diabetes,0
+18/06/2024 01:41,5067,Outdoor,Traffic,71.00714163,43.18050653,48,Female,Yes,Mild,Healthy,0
+18/06/2024 01:26,8566,Indoor,Workplace,58.86519265,72.98376428,32,Female,Yes,Mild,Diabetes,0
+18/06/2024 01:11,2442,Indoor,Traffic,58.59999484,41.96069742,29,Female,Yes,Mild,Heart Disease,0
+18/06/2024 00:56,7323,Outdoor,Workplace,63.7885515,76.49697544,43,Male,Yes,Mild,Healthy,0
+18/06/2024 00:41,4111,Indoor,Workplace,71.00002678,65.74915642,64,Male,No,Normal,Diabetes,0
+18/06/2024 00:26,5086,Indoor,Industrial,69.70455402,36.55941518,28,Female,No,Moderate,Heart Disease,0
+18/06/2024 00:11,6209,Indoor,Industrial,74.38337873,66.91003673,39,Male,Yes,Normal,Heart Disease,0
+17/06/2024 23:56,1622,Indoor,Residential,69.74816364,74.97901595,45,Female,No,Normal,Other,0
+17/06/2024 23:41,7039,Indoor,Traffic,79.53334226,67.229974,39,Male,No,Normal,Hypertension,1
+17/06/2024 23:26,6719,Outdoor,Recreational,82.2438555,70.74077898,38,Other,No,Severe,Other,1
+17/06/2024 23:11,8122,Outdoor,Residential,68.02158886,25.42542585,61,Female,Yes,Moderate,Other,0
+17/06/2024 22:56,3564,Outdoor,Workplace,61.63604673,105.1009314,27,Male,No,Severe,Diabetes,0
+17/06/2024 22:41,1387,Outdoor,Workplace,63.20545581,116.4163077,55,Female,Yes,Mild,Heart Disease,0
+17/06/2024 22:26,1476,Outdoor,Industrial,45.74536156,88.57429943,42,Other,No,Mild,Hypertension,0
+17/06/2024 22:11,9328,Outdoor,Residential,65.20639151,62.31100497,56,Other,No,Severe,Heart Disease,0
+17/06/2024 21:56,2654,Outdoor,Workplace,58.83066078,51.90144179,31,Male,Yes,Normal,Healthy,0
+17/06/2024 21:41,7706,Outdoor,Traffic,57.95069994,52.3237146,52,Other,No,Mild,Diabetes,0
+17/06/2024 21:26,1935,Outdoor,Recreational,64.62119598,75.67827933,26,Female,Yes,Mild,Other,0
+17/06/2024 21:11,9244,Indoor,Recreational,44.01055461,81.38020442,55,Other,No,Moderate,Hypertension,0
+17/06/2024 20:56,4271,Indoor,Traffic,63.21119394,47.00761871,54,Female,Yes,Normal,Hypertension,0
+17/06/2024 20:41,7113,Indoor,Residential,67.04034512,59.56969731,21,Male,Yes,Severe,Hypertension,0
+17/06/2024 20:26,4821,Outdoor,Residential,49.64467024,85.13877025,32,Other,No,Normal,Healthy,0
+17/06/2024 20:11,3911,Outdoor,Recreational,78.5437431,57.94909198,46,Other,No,Normal,Other,1
+17/06/2024 19:56,8940,Outdoor,Recreational,69.42874152,62.2386003,27,Female,No,Normal,Hypertension,0
+17/06/2024 19:41,8711,Outdoor,Traffic,77.90698966,87.53188185,50,Other,No,Mild,Heart Disease,1
+17/06/2024 19:26,2733,Indoor,Recreational,69.34209268,84.31072525,24,Male,No,Mild,Hypertension,0
+17/06/2024 19:11,3022,Indoor,Traffic,68.60843425,76.09793253,34,Other,Yes,Mild,Hypertension,0
+17/06/2024 18:56,9344,Indoor,Traffic,80.22093157,38.61819308,21,Female,No,Severe,Hypertension,1
+17/06/2024 18:41,3413,Outdoor,Industrial,78.15455058,38.86494539,27,Other,Yes,Severe,Healthy,1
+17/06/2024 18:26,1077,Outdoor,Industrial,84.41623059,45.28537952,18,Female,No,Severe,Other,1
+17/06/2024 18:11,5719,Outdoor,Workplace,63.75957211,49.56167973,59,Male,Yes,Normal,Heart Disease,0
+17/06/2024 17:56,1497,Outdoor,Traffic,57.05346934,64.31941715,37,Female,No,Severe,Diabetes,0
+17/06/2024 17:41,1599,Indoor,Traffic,53.4229044,58.13750785,24,Male,No,Moderate,Hypertension,0
+17/06/2024 17:26,9894,Outdoor,Workplace,55.22620618,56.76850858,26,Other,No,Mild,Other,0
+17/06/2024 17:11,7088,Outdoor,Industrial,71.7837188,54.8415557,49,Male,No,Normal,Healthy,0
+17/06/2024 16:56,1035,Indoor,Traffic,92.26360809,42.45210144,45,Male,No,Normal,Heart Disease,1
+17/06/2024 16:41,6350,Outdoor,Residential,80.0859452,50.77539242,45,Other,No,Severe,Other,1
+17/06/2024 16:26,9944,Indoor,Recreational,63.20376789,108.6713858,19,Female,No,Normal,Hypertension,0
+17/06/2024 16:11,1489,Outdoor,Recreational,72.66368237,73.98432362,21,Other,Yes,Mild,Other,0
+17/06/2024 15:56,2318,Indoor,Workplace,59.46601457,60.40087632,34,Other,No,Normal,Healthy,0
+17/06/2024 15:41,8209,Outdoor,Industrial,60.08801017,29.99129038,23,Male,No,Severe,Diabetes,0
+17/06/2024 15:26,6795,Outdoor,Recreational,54.65573945,40.19113026,25,Male,Yes,Severe,Healthy,0
+17/06/2024 15:11,7977,Outdoor,Workplace,55.32174397,59.15442671,63,Female,No,Moderate,Diabetes,0
+17/06/2024 14:56,8666,Indoor,Workplace,70.55402397,87.19174587,29,Male,No,Mild,Hypertension,0
+17/06/2024 14:41,5661,Outdoor,Industrial,79.82680847,64.5810358,36,Other,No,Mild,Heart Disease,1
+17/06/2024 14:26,7248,Outdoor,Industrial,75.41100767,64.3110393,46,Female,Yes,Normal,Healthy,1
+17/06/2024 14:11,2428,Indoor,Residential,79.57651074,82.2000859,49,Other,No,Mild,Heart Disease,1
+17/06/2024 13:56,7556,Indoor,Workplace,72.83804106,40.57444448,45,Male,Yes,Normal,Healthy,0
+17/06/2024 13:41,6298,Outdoor,Workplace,64.65676144,88.12351196,22,Other,Yes,Normal,Heart Disease,0
+17/06/2024 13:26,6977,Outdoor,Residential,59.74471196,52.33168949,60,Female,Yes,Normal,Diabetes,0
+17/06/2024 13:11,1806,Outdoor,Traffic,70.7685424,83.16221367,29,Female,Yes,Severe,Other,0
+17/06/2024 12:56,1324,Indoor,Industrial,48.20370486,93.40250017,22,Male,No,Mild,Other,0
+17/06/2024 12:41,3171,Indoor,Residential,58.95483154,41.85479099,50,Female,No,Normal,Diabetes,0
+17/06/2024 12:26,4069,Indoor,Recreational,57.12371399,60.0007295,48,Male,No,Moderate,Diabetes,0
+17/06/2024 12:11,2531,Outdoor,Workplace,77.44083852,75.78226386,42,Other,No,Normal,Hypertension,1
+17/06/2024 11:56,9858,Outdoor,Workplace,51.22416494,54.26636105,24,Female,No,Normal,Healthy,0
+17/06/2024 11:41,9972,Indoor,Industrial,74.29596097,54.82374794,56,Female,Yes,Mild,Heart Disease,0
+17/06/2024 11:26,1278,Outdoor,Traffic,68.8741912,52.03205895,42,Female,No,Normal,Diabetes,0
+17/06/2024 11:11,4648,Outdoor,Traffic,68.99641346,22.78813943,46,Female,Yes,Mild,Heart Disease,0
+17/06/2024 10:56,6339,Indoor,Industrial,60.32469147,81.14969555,28,Female,Yes,Severe,Healthy,0
+17/06/2024 10:41,4317,Indoor,Industrial,50.36763232,39.80642,38,Female,No,Mild,Heart Disease,0
+17/06/2024 10:26,3638,Indoor,Traffic,70.00272714,14.21473198,40,Other,No,Mild,Other,0
+17/06/2024 10:11,1999,Outdoor,Industrial,73.85881264,80.93778848,23,Other,Yes,Moderate,Hypertension,0
+17/06/2024 09:56,8236,Indoor,Traffic,69.97151225,69.69626659,55,Other,No,Moderate,Healthy,0
+17/06/2024 09:41,4929,Outdoor,Residential,63.55968421,33.63843034,40,Male,No,Moderate,Healthy,0
+17/06/2024 09:26,1494,Outdoor,Workplace,53.62079049,81.72418735,27,Other,No,Moderate,Hypertension,0
+17/06/2024 09:11,6830,Outdoor,Industrial,58.76928525,73.30955387,52,Female,No,Mild,Healthy,0
+17/06/2024 08:56,5976,Outdoor,Recreational,69.50241742,60.0064225,22,Female,No,Moderate,Hypertension,0
+17/06/2024 08:41,6781,Indoor,Recreational,57.09903609,52.99263659,35,Other,Yes,Mild,Diabetes,0
+17/06/2024 08:26,5475,Indoor,Recreational,55.3800447,57.55282674,38,Female,No,Moderate,Diabetes,0
+17/06/2024 08:11,7144,Outdoor,Traffic,50.53390622,64.12999031,32,Male,Yes,Severe,Heart Disease,0
+17/06/2024 07:56,6213,Outdoor,Residential,70.35234739,44.22703324,29,Other,Yes,Moderate,Other,0
+17/06/2024 07:41,1066,Indoor,Residential,70.14202171,82.36098317,57,Male,No,Moderate,Other,0
+17/06/2024 07:26,9645,Indoor,Industrial,76.54154284,71.11274853,24,Other,Yes,Normal,Healthy,1
+17/06/2024 07:11,6086,Indoor,Residential,43.55909216,57.29953607,45,Female,Yes,Normal,Healthy,0
+17/06/2024 06:56,6124,Outdoor,Recreational,76.71861273,94.86190476,52,Male,No,Normal,Heart Disease,1
+17/06/2024 06:41,3755,Outdoor,Residential,76.13476259,53.96867293,24,Female,Yes,Mild,Other,1
+17/06/2024 06:26,2354,Outdoor,Industrial,77.08650929,90.98567832,35,Other,No,Moderate,Diabetes,1
+17/06/2024 06:11,9253,Outdoor,Workplace,66.19616767,65.85351768,37,Female,No,Severe,Diabetes,0
+17/06/2024 05:56,1938,Outdoor,Recreational,67.21790856,75.15194435,43,Male,Yes,Normal,Hypertension,0
+17/06/2024 05:41,9560,Indoor,Traffic,67.17110023,52.65771901,51,Other,No,Mild,Diabetes,0
+17/06/2024 05:26,8544,Outdoor,Recreational,55.86996148,22.60649423,56,Other,No,Severe,Other,0
+17/06/2024 05:11,8603,Outdoor,Industrial,56.29483708,69.58598039,54,Female,No,Normal,Hypertension,0
+17/06/2024 04:56,4610,Outdoor,Recreational,67.25746423,36.24151403,31,Female,No,Severe,Healthy,0
+17/06/2024 04:41,8219,Outdoor,Residential,62.50891395,47.74605413,32,Male,No,Mild,Heart Disease,0
+17/06/2024 04:26,9959,Indoor,Industrial,72.16108547,61.51634639,33,Male,Yes,Mild,Other,0
+17/06/2024 04:11,3877,Outdoor,Industrial,61.43476915,47.16477847,40,Other,No,Severe,Diabetes,0
+17/06/2024 03:56,3239,Indoor,Workplace,50.31307002,59.36575028,51,Other,Yes,Normal,Hypertension,0
+17/06/2024 03:41,3663,Indoor,Recreational,50.77996119,63.99125996,37,Other,Yes,Mild,Diabetes,0
+17/06/2024 03:26,1100,Outdoor,Recreational,57.38731617,30.51585988,36,Male,No,Severe,Healthy,0
+17/06/2024 03:11,5475,Indoor,Recreational,72.26129325,65.48368051,27,Female,Yes,Normal,Diabetes,0
+17/06/2024 02:56,1833,Indoor,Industrial,59.80737232,47.57597825,51,Female,No,Moderate,Diabetes,0
+17/06/2024 02:41,7514,Indoor,Residential,67.98472598,38.6389545,57,Other,Yes,Moderate,Heart Disease,0
+17/06/2024 02:26,9209,Outdoor,Workplace,48.27724694,19.97241095,55,Other,No,Severe,Diabetes,0
+17/06/2024 02:11,8694,Indoor,Workplace,66.62039044,28.91245198,25,Female,No,Mild,Heart Disease,0
+17/06/2024 01:56,3080,Outdoor,Traffic,65.37782584,60.47917238,38,Other,Yes,Severe,Hypertension,0
+17/06/2024 01:41,5828,Indoor,Workplace,76.90203441,60.84919754,18,Other,No,Normal,Healthy,1
+17/06/2024 01:26,3588,Outdoor,Recreational,66.54243771,70.36791275,62,Male,Yes,Moderate,Heart Disease,0
+17/06/2024 01:11,9128,Indoor,Traffic,72.62867079,94.314888,59,Female,No,Mild,Diabetes,0
+17/06/2024 00:56,6994,Outdoor,Traffic,84.45742946,87.12225459,35,Female,Yes,Moderate,Hypertension,1
+17/06/2024 00:41,6940,Outdoor,Residential,65.39900323,79.91538806,40,Male,Yes,Normal,Heart Disease,0
+17/06/2024 00:26,1585,Outdoor,Workplace,80.33798812,83.72862721,33,Male,No,Severe,Heart Disease,1
+17/06/2024 00:11,9965,Indoor,Workplace,66.23962068,63.61651377,64,Male,No,Mild,Hypertension,0
+16/06/2024 23:56,8980,Outdoor,Recreational,59.65730899,63.25467206,59,Female,No,Severe,Healthy,0
+16/06/2024 23:41,1574,Indoor,Residential,63.91350496,90.74523396,42,Female,Yes,Mild,Hypertension,0
+16/06/2024 23:26,2152,Indoor,Industrial,59.93324505,64.32830792,22,Male,Yes,Severe,Healthy,0
+16/06/2024 23:11,3568,Outdoor,Industrial,60.29419964,64.75519266,28,Female,No,Severe,Healthy,0
+16/06/2024 22:56,5913,Indoor,Industrial,59.26520453,83.31401514,60,Female,No,Mild,Diabetes,0
+16/06/2024 22:41,6610,Indoor,Traffic,61.96648938,54.46954854,63,Male,No,Severe,Heart Disease,0
+16/06/2024 22:26,2400,Outdoor,Industrial,72.10747316,57.30947639,23,Other,No,Mild,Hypertension,0
+16/06/2024 22:11,2961,Outdoor,Recreational,47.98730173,32.77337366,64,Female,Yes,Mild,Healthy,0
+16/06/2024 21:56,7599,Indoor,Industrial,67.87132156,50.74872935,31,Other,Yes,Moderate,Hypertension,0
+16/06/2024 21:41,3653,Indoor,Workplace,66.20226479,53.40587364,61,Female,No,Mild,Heart Disease,0
+16/06/2024 21:26,5753,Outdoor,Residential,78.84415077,54.53443936,43,Other,Yes,Severe,Hypertension,1
+16/06/2024 21:11,1828,Indoor,Residential,61.34329862,76.20950006,44,Other,Yes,Severe,Other,0
+16/06/2024 20:56,3565,Outdoor,Workplace,76.31701573,39.82533929,31,Female,No,Moderate,Hypertension,1
+16/06/2024 20:41,8148,Indoor,Residential,56.4010072,89.78250957,60,Female,No,Moderate,Healthy,0
+16/06/2024 20:26,9818,Indoor,Residential,60.45003548,18.79664402,46,Female,No,Mild,Diabetes,0
+16/06/2024 20:11,8789,Outdoor,Workplace,69.16656506,71.96386235,35,Female,No,Severe,Other,0
+16/06/2024 19:56,5876,Outdoor,Recreational,71.07768288,76.33290637,35,Other,No,Mild,Diabetes,0
+16/06/2024 19:41,3574,Outdoor,Traffic,62.34834931,73.83921987,31,Male,No,Normal,Diabetes,0
+16/06/2024 19:26,7741,Indoor,Industrial,67.22842282,81.91123326,24,Female,No,Severe,Heart Disease,0
+16/06/2024 19:11,5178,Outdoor,Workplace,63.35651223,55.76735273,45,Female,Yes,Normal,Diabetes,0
+16/06/2024 18:56,7349,Outdoor,Workplace,72.91379594,85.06031108,22,Male,No,Severe,Diabetes,0
+16/06/2024 18:41,9352,Outdoor,Residential,63.53407883,46.18409168,57,Female,No,Normal,Hypertension,0
+16/06/2024 18:26,6952,Indoor,Industrial,62.7705655,47.86179006,32,Female,No,Moderate,Other,0
+16/06/2024 18:11,4984,Outdoor,Traffic,74.91276277,101.3800173,51,Female,No,Normal,Other,0
+16/06/2024 17:56,6585,Outdoor,Traffic,67.10255466,63.53633622,22,Other,Yes,Severe,Hypertension,0
+16/06/2024 17:41,7616,Indoor,Workplace,71.68327444,79.03502156,21,Other,No,Moderate,Healthy,0
+16/06/2024 17:26,6682,Indoor,Recreational,89.98567514,69.92262533,34,Male,Yes,Severe,Other,1
+16/06/2024 17:11,2595,Outdoor,Recreational,45.14802022,74.46639796,18,Male,No,Moderate,Other,0
+16/06/2024 16:56,6047,Indoor,Workplace,54.72534657,19.894864,27,Male,No,Severe,Other,0
+16/06/2024 16:41,5893,Indoor,Recreational,55.72217804,67.52618717,51,Other,No,Moderate,Heart Disease,0
+16/06/2024 16:26,8256,Indoor,Industrial,56.46430093,60.31546301,50,Female,Yes,Severe,Other,0
+16/06/2024 16:11,5641,Outdoor,Recreational,79.23133469,79.46608592,59,Other,Yes,Mild,Healthy,1
+16/06/2024 15:56,6642,Indoor,Industrial,38.32864105,44.08587178,44,Female,No,Moderate,Other,0
+16/06/2024 15:41,4278,Outdoor,Recreational,69.81667326,83.86528187,41,Female,Yes,Severe,Healthy,0
+16/06/2024 15:26,6618,Indoor,Traffic,49.67281866,35.8719246,60,Other,Yes,Normal,Other,0
+16/06/2024 15:11,2308,Outdoor,Workplace,65.2557241,50.96586888,45,Female,No,Normal,Healthy,0
+16/06/2024 14:56,3781,Outdoor,Industrial,67.59398684,28.43414667,36,Other,Yes,Normal,Hypertension,0
+16/06/2024 14:41,7666,Indoor,Traffic,74.06288749,38.38884755,19,Other,No,Normal,Other,0
+16/06/2024 14:26,1384,Outdoor,Workplace,62.34474658,60.13894906,18,Other,Yes,Moderate,Healthy,0
+16/06/2024 14:11,6584,Indoor,Traffic,63.26893653,87.36812928,62,Male,Yes,Severe,Heart Disease,0
+16/06/2024 13:56,6066,Indoor,Industrial,44.5049293,60.69942758,42,Female,Yes,Normal,Heart Disease,0
+16/06/2024 13:41,8883,Indoor,Recreational,87.80142357,34.32112572,20,Male,No,Moderate,Hypertension,1
+16/06/2024 13:26,5829,Outdoor,Workplace,68.06427086,17.78225411,24,Male,Yes,Mild,Diabetes,0
+16/06/2024 13:11,3618,Indoor,Traffic,69.3878677,73.47202733,42,Female,Yes,Normal,Heart Disease,0
+16/06/2024 12:56,5750,Outdoor,Recreational,75.730356,46.85226767,32,Other,Yes,Moderate,Other,1
+16/06/2024 12:41,3760,Indoor,Residential,64.32548734,49.52587403,21,Male,Yes,Moderate,Hypertension,0
+16/06/2024 12:26,3749,Outdoor,Industrial,69.23859741,81.53305424,19,Male,Yes,Severe,Healthy,0
+16/06/2024 12:11,6408,Indoor,Industrial,72.153472,57.30231736,23,Other,No,Moderate,Healthy,0
+16/06/2024 11:56,9223,Indoor,Recreational,50.25242977,54.02725155,52,Other,No,Normal,Healthy,0
+16/06/2024 11:41,6198,Indoor,Recreational,70.30631604,63.23115618,51,Other,No,Normal,Healthy,0
+16/06/2024 11:26,1539,Indoor,Workplace,85.75166366,89.63899785,38,Female,Yes,Normal,Other,1
+16/06/2024 11:11,3937,Outdoor,Traffic,82.46833549,65.08027472,39,Female,Yes,Moderate,Heart Disease,1
+16/06/2024 10:56,5884,Indoor,Residential,80.3206441,16.81399818,58,Other,Yes,Moderate,Healthy,1
+16/06/2024 10:41,8778,Outdoor,Workplace,84.1052936,43.64089345,46,Female,No,Mild,Other,1
+16/06/2024 10:26,6093,Indoor,Workplace,52.40406816,54.30982339,31,Other,Yes,Moderate,Hypertension,0
+16/06/2024 10:11,7982,Outdoor,Residential,59.75125619,77.26878308,63,Other,No,Moderate,Other,0
+16/06/2024 09:56,9213,Indoor,Industrial,55.88568631,35.14792029,59,Female,No,Mild,Hypertension,0
+16/06/2024 09:41,5120,Indoor,Workplace,99.95113214,62.97665838,24,Female,No,Normal,Heart Disease,1
+16/06/2024 09:26,2065,Indoor,Industrial,67.4392277,58.36328943,22,Other,Yes,Moderate,Healthy,0
+16/06/2024 09:11,3592,Outdoor,Traffic,50.85739444,80.33061885,32,Female,Yes,Mild,Diabetes,0
+16/06/2024 08:56,3554,Indoor,Recreational,53.98332301,40.06146997,31,Male,No,Severe,Hypertension,0
+16/06/2024 08:41,1345,Indoor,Traffic,66.07109102,63.34561788,54,Male,No,Moderate,Diabetes,0
+16/06/2024 08:26,5910,Indoor,Recreational,51.37053299,90.66221929,52,Male,Yes,Mild,Other,0
+16/06/2024 08:11,1466,Outdoor,Workplace,83.68682723,77.97886277,45,Other,Yes,Severe,Other,1
+16/06/2024 07:56,4383,Outdoor,Recreational,72.90518822,71.98561335,54,Male,Yes,Severe,Diabetes,0
+16/06/2024 07:41,1152,Indoor,Residential,68.13086745,53.78910253,43,Other,Yes,Normal,Heart Disease,0
+16/06/2024 07:26,8481,Outdoor,Residential,54.46396228,63.02773905,23,Female,No,Severe,Healthy,0
+16/06/2024 07:11,5202,Outdoor,Traffic,51.78946523,57.74398318,64,Female,Yes,Moderate,Other,0
+16/06/2024 06:56,8369,Indoor,Residential,68.49166855,77.13137326,25,Male,No,Severe,Diabetes,0
+16/06/2024 06:41,3511,Outdoor,Traffic,66.3745283,70.52911158,27,Other,No,Mild,Diabetes,0
+16/06/2024 06:26,3416,Outdoor,Industrial,52.1664339,47.44950008,63,Other,No,Normal,Hypertension,0
+16/06/2024 06:11,6037,Indoor,Industrial,64.46148619,94.90870017,39,Male,No,Mild,Diabetes,0
+16/06/2024 05:56,7247,Outdoor,Traffic,64.48721606,84.08707598,27,Male,No,Severe,Diabetes,0
+16/06/2024 05:41,6941,Indoor,Traffic,72.38065795,42.66822171,36,Female,No,Mild,Hypertension,0
+16/06/2024 05:26,7589,Indoor,Traffic,86.06398599,53.12210809,49,Female,Yes,Moderate,Hypertension,1
+16/06/2024 05:11,6114,Indoor,Recreational,44.20475141,56.83161228,31,Female,No,Normal,Other,0
+16/06/2024 04:56,9338,Outdoor,Residential,73.01174796,76.32557159,41,Male,No,Severe,Heart Disease,0
+16/06/2024 04:41,5547,Indoor,Recreational,58.03506092,43.81776041,35,Female,No,Moderate,Other,0
+16/06/2024 04:26,2673,Outdoor,Recreational,69.21541809,46.6162345,44,Female,No,Severe,Heart Disease,0
+16/06/2024 04:11,5727,Outdoor,Recreational,66.30709313,77.56728827,35,Other,Yes,Normal,Healthy,0
+16/06/2024 03:56,1170,Outdoor,Industrial,70.00134138,71.17345551,21,Female,No,Moderate,Hypertension,0
+16/06/2024 03:41,9572,Indoor,Industrial,52.56903368,21.03057952,46,Female,Yes,Severe,Other,0
+16/06/2024 03:26,3678,Outdoor,Recreational,74.69621284,73.15192494,48,Other,No,Normal,Hypertension,0
+16/06/2024 03:11,4317,Indoor,Workplace,65.40857788,30.51456737,20,Female,Yes,Mild,Hypertension,0
+16/06/2024 02:56,1743,Outdoor,Recreational,78.91732961,47.30751346,34,Other,Yes,Normal,Heart Disease,1
+16/06/2024 02:41,5928,Indoor,Workplace,80.9244695,52.7031687,20,Female,Yes,Severe,Diabetes,1
+16/06/2024 02:26,9882,Indoor,Workplace,67.36837236,50.61434218,24,Female,No,Severe,Diabetes,0
+16/06/2024 02:11,8614,Outdoor,Residential,74.89888269,47.0129223,48,Female,No,Mild,Hypertension,0
+16/06/2024 01:56,6815,Outdoor,Traffic,74.03376451,39.24450968,44,Female,No,Mild,Other,0
+16/06/2024 01:41,9912,Outdoor,Recreational,78.38707425,70.24831549,55,Female,Yes,Moderate,Other,1
+16/06/2024 01:26,5328,Indoor,Recreational,77.66319056,27.73830003,20,Male,Yes,Severe,Heart Disease,1
+16/06/2024 01:11,8131,Outdoor,Recreational,53.3601482,49.36627201,30,Male,No,Normal,Healthy,0
+16/06/2024 00:56,7526,Indoor,Traffic,67.78234616,75.82175081,35,Male,Yes,Moderate,Other,0
+16/06/2024 00:41,1557,Outdoor,Workplace,51.1166846,67.94927703,39,Male,No,Normal,Healthy,0
+16/06/2024 00:26,6903,Outdoor,Recreational,59.78091506,32.30846176,62,Male,Yes,Normal,Hypertension,0
+16/06/2024 00:11,3606,Indoor,Recreational,60.18662507,21.40875039,29,Female,Yes,Severe,Heart Disease,0
+15/06/2024 23:56,5539,Outdoor,Traffic,70.85103708,38.21555306,56,Other,No,Moderate,Heart Disease,0
+15/06/2024 23:41,1568,Indoor,Industrial,62.69838004,16.43838184,36,Other,No,Severe,Hypertension,0
+15/06/2024 23:26,6405,Outdoor,Traffic,63.40370679,61.83355354,63,Female,No,Normal,Hypertension,0
+15/06/2024 23:11,8916,Indoor,Traffic,74.99150537,50.8099635,47,Other,Yes,Severe,Healthy,0
+15/06/2024 22:56,5569,Outdoor,Industrial,73.79426451,52.34959014,61,Male,Yes,Moderate,Other,0
+15/06/2024 22:41,5100,Indoor,Residential,67.75961921,70.20787045,48,Male,No,Mild,Other,0
+15/06/2024 22:26,6774,Outdoor,Traffic,72.49169172,77.4724489,34,Other,Yes,Mild,Diabetes,0
+15/06/2024 22:11,9057,Indoor,Traffic,71.45941108,64.76549371,45,Female,No,Normal,Healthy,0
+15/06/2024 21:56,8966,Outdoor,Recreational,84.64852356,55.54216037,58,Male,Yes,Moderate,Heart Disease,1
+15/06/2024 21:41,5522,Indoor,Workplace,62.91219472,45.95196071,21,Female,No,Normal,Healthy,0
+15/06/2024 21:26,5106,Outdoor,Workplace,57.4803986,52.98280463,22,Female,Yes,Mild,Healthy,0
+15/06/2024 21:11,3027,Indoor,Traffic,67.03896227,64.14595847,52,Male,Yes,Normal,Hypertension,0
+15/06/2024 20:56,2791,Outdoor,Workplace,55.4962753,78.50905811,24,Female,Yes,Mild,Hypertension,0
+15/06/2024 20:41,3098,Indoor,Recreational,61.32050516,32.20964628,33,Other,No,Severe,Hypertension,0
+15/06/2024 20:26,2419,Indoor,Traffic,69.50122264,37.44164499,43,Male,No,Severe,Hypertension,0
+15/06/2024 20:11,3420,Indoor,Traffic,59.92644334,59.87701649,37,Female,No,Severe,Hypertension,0
+15/06/2024 19:56,6522,Outdoor,Traffic,62.71903636,17.77810082,21,Male,No,Mild,Healthy,0
+15/06/2024 19:41,4408,Outdoor,Recreational,62.27031314,65.70654523,49,Female,Yes,Severe,Hypertension,0
+15/06/2024 19:26,6734,Outdoor,Workplace,60.66718709,81.12867821,26,Male,Yes,Severe,Other,0
+15/06/2024 19:11,6624,Outdoor,Traffic,54.03527974,107.1681535,20,Female,No,Mild,Other,0
+15/06/2024 18:56,1421,Outdoor,Industrial,75.1223398,61.64139835,49,Female,Yes,Moderate,Diabetes,1
+15/06/2024 18:41,8124,Indoor,Traffic,78.70078638,77.18620565,62,Male,Yes,Moderate,Other,1
+15/06/2024 18:26,9371,Outdoor,Workplace,74.51613477,60.43776635,19,Other,Yes,Mild,Diabetes,0
+15/06/2024 18:11,3624,Indoor,Residential,74.42734083,92.3916733,45,Other,Yes,Severe,Other,0
+15/06/2024 17:56,2443,Outdoor,Residential,60.84302712,51.53544717,22,Male,No,Mild,Heart Disease,0
+15/06/2024 17:41,1829,Outdoor,Residential,66.75218977,66.58685134,31,Male,No,Mild,Diabetes,0
+15/06/2024 17:26,7593,Outdoor,Industrial,57.20626674,72.073473,62,Other,No,Mild,Healthy,0
+15/06/2024 17:11,4564,Outdoor,Residential,63.65196635,67.77123057,27,Female,No,Moderate,Hypertension,0
+15/06/2024 16:56,2802,Indoor,Recreational,64.54082577,44.5670369,61,Female,No,Moderate,Diabetes,0
+15/06/2024 16:41,3671,Indoor,Recreational,51.14878268,32.52438257,49,Female,No,Moderate,Other,0
+15/06/2024 16:26,3185,Outdoor,Residential,66.32147483,80.42419428,55,Other,No,Severe,Healthy,0
+15/06/2024 16:11,5099,Indoor,Residential,59.69158668,65.02403001,64,Male,No,Moderate,Other,0
+15/06/2024 15:56,8989,Outdoor,Workplace,67.65229085,61.50588801,45,Female,No,Normal,Healthy,0
+15/06/2024 15:41,7054,Outdoor,Recreational,62.64906807,77.83824398,18,Male,No,Normal,Other,0
+15/06/2024 15:26,1465,Indoor,Workplace,68.46417574,76.90307301,20,Other,Yes,Moderate,Hypertension,0
+15/06/2024 15:11,9191,Indoor,Workplace,71.97790555,67.16469062,56,Other,No,Severe,Heart Disease,0
+15/06/2024 14:56,5669,Indoor,Residential,52.46621998,72.7117021,42,Other,Yes,Normal,Other,0
+15/06/2024 14:41,8196,Indoor,Workplace,61.80388838,49.49717496,47,Female,No,Mild,Other,0
+15/06/2024 14:26,8562,Outdoor,Residential,58.52015847,70.67638196,53,Female,Yes,Normal,Diabetes,0
+15/06/2024 14:11,8891,Indoor,Residential,76.78318979,28.61224108,55,Male,No,Moderate,Hypertension,1
+15/06/2024 13:56,8642,Outdoor,Traffic,81.97783906,60.39520948,47,Female,No,Severe,Healthy,1
+15/06/2024 13:41,7786,Indoor,Recreational,65.42421271,74.94444734,32,Male,Yes,Severe,Diabetes,0
+15/06/2024 13:26,6147,Indoor,Industrial,69.04499605,45.62341677,48,Male,Yes,Moderate,Hypertension,0
+15/06/2024 13:11,4187,Indoor,Recreational,50.26019668,62.84847892,60,Other,No,Mild,Hypertension,0
+15/06/2024 12:56,6556,Outdoor,Industrial,68.03093644,66.02555574,42,Male,No,Moderate,Diabetes,0
+15/06/2024 12:41,1751,Outdoor,Traffic,62.4123504,42.18571958,40,Female,No,Moderate,Healthy,0
+15/06/2024 12:26,7691,Indoor,Traffic,78.58553841,82.58168487,63,Female,No,Moderate,Heart Disease,1
+15/06/2024 12:11,3330,Indoor,Recreational,62.72513265,66.40693638,43,Male,No,Severe,Diabetes,0
+15/06/2024 11:56,9589,Indoor,Traffic,56.79404333,26.48128118,39,Male,Yes,Moderate,Other,0
+15/06/2024 11:41,4670,Indoor,Traffic,51.57197173,61.81406458,33,Male,No,Severe,Heart Disease,0
+15/06/2024 11:26,3235,Outdoor,Residential,66.81057064,89.07537751,34,Female,Yes,Moderate,Healthy,0
+15/06/2024 11:11,9613,Outdoor,Traffic,59.56561262,59.92057494,44,Male,No,Moderate,Healthy,0
+15/06/2024 10:56,2665,Indoor,Workplace,77.1729321,46.98685563,34,Male,Yes,Normal,Diabetes,1
+15/06/2024 10:41,3162,Outdoor,Traffic,71.33242856,49.10727075,34,Male,No,Moderate,Diabetes,0
+15/06/2024 10:26,5558,Outdoor,Industrial,63.99029785,56.79762697,37,Other,Yes,Mild,Heart Disease,0
+15/06/2024 10:11,6953,Outdoor,Recreational,71.27270633,35.75235566,19,Other,No,Severe,Heart Disease,0
+15/06/2024 09:56,5195,Outdoor,Industrial,82.43199731,88.048721,53,Female,Yes,Severe,Other,1
+15/06/2024 09:41,9909,Indoor,Residential,53.40090578,78.48129835,40,Other,Yes,Normal,Other,0
+15/06/2024 09:26,4101,Outdoor,Traffic,58.64911176,81.54565898,45,Female,Yes,Moderate,Other,0
+15/06/2024 09:11,1903,Outdoor,Workplace,84.4165437,29.92907909,43,Other,Yes,Normal,Heart Disease,1
+15/06/2024 08:56,1765,Outdoor,Residential,57.45568764,62.57089032,60,Other,No,Severe,Hypertension,0
+15/06/2024 08:41,2811,Outdoor,Recreational,71.62327489,81.56242473,62,Other,Yes,Moderate,Heart Disease,0
+15/06/2024 08:26,5174,Outdoor,Traffic,76.8704345,41.06237238,29,Female,No,Moderate,Other,1
+15/06/2024 08:11,9382,Indoor,Recreational,64.84226684,58.55518371,34,Female,No,Normal,Hypertension,0
+15/06/2024 07:56,5941,Indoor,Residential,71.89450545,38.01113955,58,Male,No,Normal,Other,0
+15/06/2024 07:41,4992,Indoor,Workplace,62.06072415,76.67849804,45,Other,No,Mild,Hypertension,0
+15/06/2024 07:26,1824,Outdoor,Recreational,83.16664768,55.70726488,28,Female,No,Normal,Healthy,1
+15/06/2024 07:11,5923,Indoor,Traffic,60.58122713,58.15050555,55,Male,Yes,Moderate,Heart Disease,0
+15/06/2024 06:56,5210,Indoor,Industrial,55.45409134,37.42758352,62,Female,Yes,Moderate,Healthy,0
+15/06/2024 06:41,4353,Indoor,Industrial,73.88717455,90.95987217,28,Female,No,Severe,Diabetes,0
+15/06/2024 06:26,8160,Indoor,Recreational,72.09955441,61.01849335,32,Male,No,Mild,Healthy,0
+15/06/2024 06:11,3527,Indoor,Workplace,66.49056481,75.83012425,43,Female,Yes,Severe,Healthy,0
+15/06/2024 05:56,4862,Outdoor,Residential,65.33049427,67.68097746,46,Male,No,Normal,Diabetes,0
+15/06/2024 05:41,6645,Outdoor,Traffic,60.04004042,41.81876236,43,Other,No,Severe,Heart Disease,0
+15/06/2024 05:26,1733,Outdoor,Recreational,57.65317098,27.17622662,40,Other,Yes,Normal,Other,0
+15/06/2024 05:11,8771,Outdoor,Traffic,58.94271333,56.17213129,28,Female,Yes,Mild,Heart Disease,0
+15/06/2024 04:56,3597,Indoor,Workplace,68.12703492,82.12963811,21,Other,Yes,Normal,Other,0
+15/06/2024 04:41,2208,Indoor,Industrial,62.93258479,20.60901174,27,Other,No,Normal,Diabetes,0
+15/06/2024 04:26,2565,Indoor,Residential,50.08972858,98.9643693,59,Female,Yes,Normal,Hypertension,0
+15/06/2024 04:11,4826,Indoor,Industrial,60.79492461,76.67414584,57,Male,Yes,Normal,Diabetes,0
+15/06/2024 03:56,9951,Outdoor,Residential,62.87306515,63.81400831,50,Other,Yes,Moderate,Heart Disease,0
+15/06/2024 03:41,6686,Outdoor,Industrial,70.09795543,57.68321368,21,Male,Yes,Normal,Hypertension,0
+15/06/2024 03:26,6094,Outdoor,Recreational,67.92006621,77.17472915,53,Other,No,Mild,Diabetes,0
+15/06/2024 03:11,6473,Outdoor,Workplace,82.55428068,35.58596568,25,Female,Yes,Mild,Heart Disease,1
+15/06/2024 02:56,4180,Outdoor,Industrial,55.20484965,68.84816388,39,Female,Yes,Severe,Hypertension,0
+15/06/2024 02:41,7721,Outdoor,Workplace,70.53048836,66.16363025,38,Male,No,Severe,Heart Disease,0
+15/06/2024 02:26,9116,Indoor,Industrial,71.34798863,95.90838965,47,Female,Yes,Mild,Diabetes,0
+15/06/2024 02:11,8837,Indoor,Traffic,67.7925822,52.69500321,47,Male,No,Normal,Healthy,0
+15/06/2024 01:56,7581,Indoor,Industrial,62.02885275,60.89288697,33,Male,Yes,Moderate,Healthy,0
+15/06/2024 01:41,4414,Indoor,Residential,58.16438723,58.66843436,63,Other,Yes,Mild,Diabetes,0
+15/06/2024 01:26,9110,Indoor,Traffic,64.59207057,49.66209463,19,Male,No,Mild,Other,0
+15/06/2024 01:11,8504,Outdoor,Recreational,47.12082265,89.56485185,40,Male,No,Moderate,Heart Disease,0
+15/06/2024 00:56,6841,Indoor,Recreational,55.76090837,40.50703559,51,Female,No,Mild,Diabetes,0
+15/06/2024 00:41,4743,Outdoor,Recreational,55.25169819,29.64724088,47,Male,Yes,Normal,Healthy,0
+15/06/2024 00:26,6952,Outdoor,Workplace,70.03703517,64.87842122,45,Other,Yes,Severe,Heart Disease,0
+15/06/2024 00:11,1141,Outdoor,Recreational,71.25384454,45.50574892,22,Male,Yes,Mild,Other,0
+14/06/2024 23:56,9257,Outdoor,Industrial,54.27722095,65.0828753,52,Female,Yes,Normal,Healthy,0
+14/06/2024 23:41,8129,Indoor,Traffic,51.92397117,72.66782887,26,Male,Yes,Moderate,Hypertension,0
+14/06/2024 23:26,7070,Outdoor,Residential,50.36838664,62.92246404,55,Male,No,Moderate,Other,0
+14/06/2024 23:11,5651,Outdoor,Recreational,74.77764651,60.47955301,63,Female,Yes,Mild,Heart Disease,0
+14/06/2024 22:56,1038,Outdoor,Residential,74.15061606,18.76388582,36,Male,No,Normal,Healthy,0
+14/06/2024 22:41,5522,Outdoor,Workplace,71.49498399,71.19059746,58,Male,No,Severe,Heart Disease,0
+14/06/2024 22:26,4614,Outdoor,Workplace,80.03287457,63.92453375,24,Female,No,Moderate,Healthy,1
+14/06/2024 22:11,9255,Outdoor,Residential,82.77878736,97.48437812,43,Other,Yes,Mild,Healthy,1
+14/06/2024 21:56,1298,Outdoor,Industrial,55.06609721,82.74445936,31,Other,Yes,Mild,Hypertension,0
+14/06/2024 21:41,6671,Outdoor,Residential,61.05592503,30.3603125,49,Other,Yes,Mild,Hypertension,0
+14/06/2024 21:26,7229,Indoor,Traffic,72.80277673,81.21404008,56,Other,Yes,Moderate,Healthy,0
+14/06/2024 21:11,3559,Indoor,Recreational,37.39302726,34.00767248,47,Other,No,Normal,Hypertension,0
+14/06/2024 20:56,8926,Indoor,Industrial,62.49274642,76.67399398,27,Other,Yes,Severe,Hypertension,0
+14/06/2024 20:41,2433,Outdoor,Residential,74.62673329,89.07194644,19,Female,No,Severe,Other,0
+14/06/2024 20:26,1746,Outdoor,Traffic,61.51378494,97.34023141,55,Female,No,Normal,Hypertension,0
+14/06/2024 20:11,4316,Indoor,Residential,72.31734899,52.07866156,22,Male,Yes,Normal,Other,0
+14/06/2024 19:56,5317,Indoor,Recreational,44.99617392,74.12024691,23,Male,Yes,Severe,Diabetes,0
+14/06/2024 19:41,9520,Indoor,Workplace,67.84037432,80.18975415,45,Female,Yes,Mild,Other,0
+14/06/2024 19:26,5777,Outdoor,Residential,60.39112838,69.41239428,32,Other,Yes,Severe,Other,0
+14/06/2024 19:11,9436,Indoor,Traffic,62.74724927,26.57117879,46,Other,Yes,Normal,Healthy,0
+14/06/2024 18:56,7687,Outdoor,Residential,55.52132558,63.08907079,47,Female,No,Moderate,Diabetes,0
+14/06/2024 18:41,5094,Outdoor,Recreational,80.99213264,71.38075264,61,Other,No,Mild,Diabetes,1
+14/06/2024 18:26,8547,Outdoor,Traffic,65.68935692,59.96809055,61,Other,Yes,Moderate,Heart Disease,0
+14/06/2024 18:11,7859,Outdoor,Workplace,66.45726635,42.82651518,48,Female,Yes,Severe,Diabetes,0
+14/06/2024 17:56,1090,Outdoor,Recreational,85.61591625,55.98224123,48,Other,Yes,Moderate,Heart Disease,1
+14/06/2024 17:41,9493,Indoor,Residential,55.75118255,78.02385812,52,Other,No,Severe,Heart Disease,0
+14/06/2024 17:26,9729,Outdoor,Industrial,66.39913155,67.87054309,43,Male,Yes,Moderate,Other,0
+14/06/2024 17:11,1106,Indoor,Residential,58.18786468,69.30922852,26,Male,No,Normal,Other,0
+14/06/2024 16:56,4853,Outdoor,Workplace,57.70376823,55.02775756,24,Other,No,Severe,Healthy,0
+14/06/2024 16:41,1394,Indoor,Residential,68.07810409,68.52956204,30,Female,No,Mild,Healthy,0
+14/06/2024 16:26,4079,Indoor,Industrial,62.18144231,17.87193328,37,Male,Yes,Mild,Hypertension,0
+14/06/2024 16:11,9870,Indoor,Workplace,84.7821389,59.1193277,45,Other,No,Moderate,Heart Disease,1
+14/06/2024 15:56,7158,Outdoor,Workplace,82.82258115,52.381141,64,Other,No,Mild,Hypertension,1
+14/06/2024 15:41,8939,Outdoor,Residential,63.37517905,60.54293662,47,Male,Yes,Mild,Healthy,0
+14/06/2024 15:26,5288,Indoor,Recreational,49.5898003,36.54391606,58,Female,Yes,Normal,Diabetes,0
+14/06/2024 15:11,1005,Outdoor,Workplace,62.08835697,67.40500478,44,Male,No,Mild,Hypertension,0
+14/06/2024 14:56,8233,Indoor,Traffic,75.47519344,98.44777095,47,Female,No,Moderate,Healthy,1
+14/06/2024 14:41,2774,Outdoor,Workplace,56.13486586,61.61526394,58,Female,Yes,Mild,Other,0
+14/06/2024 14:26,1978,Indoor,Traffic,81.04644738,60.93044464,41,Female,No,Severe,Heart Disease,1
+14/06/2024 14:11,8348,Indoor,Recreational,70.81164668,110.154778,47,Other,No,Severe,Hypertension,0
+14/06/2024 13:56,3770,Indoor,Industrial,53.29144255,41.04963697,18,Male,No,Severe,Healthy,0
+14/06/2024 13:41,9136,Indoor,Traffic,58.39896158,69.89808965,41,Female,Yes,Moderate,Hypertension,0
+14/06/2024 13:26,7162,Indoor,Traffic,59.81188545,91.60764507,37,Other,No,Mild,Hypertension,0
+14/06/2024 13:11,1524,Outdoor,Industrial,56.93976307,52.19309089,25,Male,No,Moderate,Healthy,0
+14/06/2024 12:56,9455,Indoor,Workplace,53.54539569,77.05730297,34,Male,No,Severe,Healthy,0
+14/06/2024 12:41,3424,Indoor,Traffic,59.24931294,63.33588731,48,Female,Yes,Severe,Heart Disease,0
+14/06/2024 12:26,4901,Outdoor,Traffic,61.19303216,38.50737838,21,Male,Yes,Moderate,Hypertension,0
+14/06/2024 12:11,6211,Indoor,Industrial,77.99093835,56.7138251,51,Female,No,Mild,Diabetes,1
+14/06/2024 11:56,4418,Outdoor,Workplace,69.38674259,59.36423923,50,Other,No,Moderate,Hypertension,0
+14/06/2024 11:41,7711,Indoor,Residential,69.98181282,47.28109452,46,Male,No,Normal,Other,0
+14/06/2024 11:26,6413,Indoor,Traffic,68.495986,27.8679362,36,Male,No,Normal,Healthy,0
+14/06/2024 11:11,7505,Indoor,Recreational,57.0388912,51.76172611,31,Male,No,Moderate,Other,0
+14/06/2024 10:56,7984,Outdoor,Industrial,76.47109937,30.09829279,42,Male,Yes,Moderate,Other,1
+14/06/2024 10:41,8950,Outdoor,Traffic,60.65639231,70.83390149,18,Female,Yes,Moderate,Hypertension,0
+14/06/2024 10:26,2597,Outdoor,Workplace,61.64156804,70.98384116,39,Male,Yes,Mild,Hypertension,0
+14/06/2024 10:11,6308,Indoor,Recreational,68.79114925,34.50551454,63,Male,Yes,Severe,Hypertension,0
+14/06/2024 09:56,6537,Indoor,Residential,89.99736871,61.63992981,21,Other,No,Normal,Hypertension,1
+14/06/2024 09:41,4608,Outdoor,Recreational,59.34626616,33.11930557,52,Male,Yes,Mild,Heart Disease,0
+14/06/2024 09:26,4584,Indoor,Traffic,48.70513796,52.76238574,56,Female,No,Mild,Other,0
+14/06/2024 09:11,3506,Indoor,Recreational,67.8933544,46.62360426,50,Female,Yes,Severe,Diabetes,0
+14/06/2024 08:56,8438,Indoor,Residential,71.83855798,69.60425939,33,Male,Yes,Normal,Heart Disease,0
+14/06/2024 08:41,3521,Indoor,Workplace,60.65642237,27.61384698,62,Female,No,Mild,Other,0
+14/06/2024 08:26,6280,Outdoor,Residential,59.06250724,79.66177628,52,Male,No,Severe,Healthy,0
+14/06/2024 08:11,7960,Outdoor,Residential,52.2866513,84.55527654,29,Female,No,Mild,Hypertension,0
+14/06/2024 07:56,5962,Indoor,Industrial,68.37046654,57.11566236,53,Other,Yes,Normal,Hypertension,0
+14/06/2024 07:41,2005,Outdoor,Industrial,84.44332526,33.09003607,63,Other,No,Moderate,Hypertension,1
+14/06/2024 07:26,3458,Indoor,Residential,82.12455878,18.1314564,24,Male,Yes,Mild,Other,1
+14/06/2024 07:11,1723,Outdoor,Recreational,68.00821568,81.90535255,21,Other,No,Mild,Healthy,0
+14/06/2024 06:56,2291,Outdoor,Recreational,60.83807002,99.67815989,29,Female,No,Mild,Healthy,0
+14/06/2024 06:41,7521,Outdoor,Residential,68.81973936,60.87109331,24,Female,Yes,Normal,Heart Disease,0
+14/06/2024 06:26,1761,Indoor,Recreational,61.75118163,36.74498808,63,Male,Yes,Moderate,Heart Disease,0
+14/06/2024 06:11,7588,Outdoor,Workplace,58.59377124,38.0969203,32,Male,Yes,Moderate,Other,0
+14/06/2024 05:56,6075,Outdoor,Recreational,66.62859078,83.63232385,23,Other,Yes,Mild,Heart Disease,0
+14/06/2024 05:41,6334,Indoor,Recreational,77.77922128,63.37887685,34,Female,No,Mild,Heart Disease,1
+14/06/2024 05:26,9654,Indoor,Residential,63.10693346,40.6139957,34,Female,No,Severe,Hypertension,0
+14/06/2024 05:11,4419,Indoor,Recreational,62.98920424,105.9837998,61,Female,No,Mild,Heart Disease,0
+14/06/2024 04:56,6511,Indoor,Recreational,62.35240497,80.90824881,21,Other,Yes,Severe,Heart Disease,0
+14/06/2024 04:41,5613,Indoor,Industrial,72.92637113,70.98940072,24,Other,No,Severe,Heart Disease,0
+14/06/2024 04:26,5283,Indoor,Industrial,73.52155904,48.84057012,53,Female,No,Normal,Other,0
+14/06/2024 04:11,4248,Outdoor,Recreational,54.23609354,84.77964102,24,Male,No,Mild,Heart Disease,0
+14/06/2024 03:56,4213,Indoor,Recreational,63.23414235,77.63775176,55,Other,No,Mild,Diabetes,0
+14/06/2024 03:41,4670,Indoor,Residential,76.06257769,57.87014403,53,Male,Yes,Normal,Diabetes,1
+14/06/2024 03:26,2853,Indoor,Workplace,61.65363918,81.76702808,59,Other,No,Moderate,Heart Disease,0
+14/06/2024 03:11,5518,Outdoor,Industrial,78.92498746,80.91492353,50,Other,Yes,Severe,Diabetes,1
+14/06/2024 02:56,1914,Outdoor,Traffic,71.86481305,65.47886529,40,Female,Yes,Moderate,Hypertension,0
+14/06/2024 02:41,3711,Indoor,Recreational,82.56385821,37.0624959,45,Female,No,Severe,Other,1
+14/06/2024 02:26,5980,Outdoor,Traffic,61.88752942,39.57291403,45,Other,Yes,Mild,Heart Disease,0
+14/06/2024 02:11,4819,Outdoor,Residential,72.01751323,28.30435051,50,Other,Yes,Moderate,Diabetes,0
+14/06/2024 01:56,5343,Outdoor,Traffic,72.32878125,86.49222706,39,Female,No,Normal,Hypertension,0
+14/06/2024 01:41,5509,Indoor,Workplace,75.77455681,30.78399795,56,Female,Yes,Severe,Hypertension,1
+14/06/2024 01:26,2164,Indoor,Workplace,68.53386982,60.68203823,39,Male,Yes,Normal,Heart Disease,0
+14/06/2024 01:11,9530,Outdoor,Residential,76.13403033,28.18176942,21,Male,No,Severe,Hypertension,1
+14/06/2024 00:56,1491,Indoor,Industrial,58.6921988,93.67301976,41,Male,Yes,Normal,Hypertension,0
+14/06/2024 00:41,9229,Indoor,Recreational,64.44192072,36.74946922,33,Female,Yes,Normal,Heart Disease,0
+14/06/2024 00:26,4222,Indoor,Traffic,50.119476,66.45566232,63,Female,No,Severe,Diabetes,0
+14/06/2024 00:11,6165,Indoor,Residential,62.30253977,28.64093826,30,Male,No,Normal,Healthy,0
+13/06/2024 23:56,3558,Outdoor,Workplace,56.4895162,77.41600572,32,Female,No,Severe,Other,0
+13/06/2024 23:41,7257,Indoor,Workplace,68.31050971,81.69531215,50,Male,Yes,Moderate,Heart Disease,0
+13/06/2024 23:26,3767,Outdoor,Residential,74.86063642,60.35168153,47,Male,Yes,Moderate,Diabetes,0
+13/06/2024 23:11,7095,Indoor,Residential,70.64620595,58.68392762,40,Male,Yes,Moderate,Hypertension,0
+13/06/2024 22:56,7158,Outdoor,Residential,72.80222467,76.21918519,59,Other,Yes,Moderate,Healthy,0
+13/06/2024 22:41,8185,Indoor,Traffic,65.95544742,47.80790513,22,Male,No,Severe,Hypertension,0
+13/06/2024 22:26,4268,Indoor,Workplace,63.59244993,81.77722574,56,Other,Yes,Severe,Healthy,0
+13/06/2024 22:11,8453,Indoor,Residential,53.27017354,65.93056206,51,Male,No,Mild,Healthy,0
+13/06/2024 21:56,7302,Outdoor,Recreational,45.75436662,28.53928193,58,Other,Yes,Mild,Diabetes,0
+13/06/2024 21:41,4736,Outdoor,Residential,49.92062167,96.93379165,22,Male,No,Normal,Heart Disease,0
+13/06/2024 21:26,2386,Indoor,Residential,58.36898135,63.6802334,61,Female,No,Mild,Diabetes,0
+13/06/2024 21:11,1862,Indoor,Traffic,74.12378704,53.23603747,21,Other,No,Severe,Heart Disease,0
+13/06/2024 20:56,3038,Indoor,Industrial,52.71236969,63.30737721,33,Male,No,Mild,Diabetes,0
+13/06/2024 20:41,3257,Indoor,Workplace,56.7830655,45.63212504,28,Female,No,Moderate,Healthy,0
+13/06/2024 20:26,3543,Indoor,Residential,60.29574748,56.94229931,44,Female,Yes,Mild,Diabetes,0
+13/06/2024 20:11,1928,Outdoor,Traffic,77.88210003,75.78666729,40,Male,Yes,Severe,Other,1
+13/06/2024 19:56,6100,Indoor,Industrial,64.61737504,73.7539062,50,Female,Yes,Severe,Heart Disease,0
+13/06/2024 19:41,3178,Outdoor,Industrial,66.34988644,72.39389689,40,Female,No,Normal,Heart Disease,0
+13/06/2024 19:26,9627,Indoor,Industrial,69.10699927,47.97937317,30,Female,Yes,Severe,Diabetes,0
+13/06/2024 19:11,8455,Outdoor,Residential,78.9491941,42.78401801,22,Male,Yes,Mild,Healthy,1
+13/06/2024 18:56,3212,Indoor,Residential,65.83717993,67.75785124,49,Other,No,Severe,Healthy,0
+13/06/2024 18:41,9360,Outdoor,Traffic,47.34721247,75.41559551,57,Male,Yes,Moderate,Hypertension,0
+13/06/2024 18:26,1419,Indoor,Workplace,66.26928924,45.34793653,27,Male,Yes,Mild,Diabetes,0
+13/06/2024 18:11,4976,Indoor,Traffic,79.40482305,55.44418282,32,Other,Yes,Mild,Hypertension,1
+13/06/2024 17:56,6904,Outdoor,Industrial,71.41029666,67.84968093,32,Male,No,Mild,Healthy,0
+13/06/2024 17:41,8177,Outdoor,Recreational,67.15027785,58.084977,40,Other,Yes,Mild,Hypertension,0
+13/06/2024 17:26,5841,Indoor,Workplace,68.53741586,83.1439942,62,Female,Yes,Severe,Heart Disease,0
+13/06/2024 17:11,9330,Indoor,Traffic,46.62835764,33.84098985,51,Female,Yes,Moderate,Heart Disease,0
+13/06/2024 16:56,9492,Outdoor,Workplace,45.23415979,30.94022964,21,Male,Yes,Moderate,Other,0
+13/06/2024 16:41,3904,Indoor,Recreational,73.94114214,81.91736694,30,Male,No,Severe,Heart Disease,0
+13/06/2024 16:26,1528,Outdoor,Industrial,77.8567537,72.34217758,46,Female,No,Normal,Other,1
+13/06/2024 16:11,7335,Outdoor,Traffic,58.7050672,61.81063358,26,Other,Yes,Normal,Healthy,0
+13/06/2024 15:56,4705,Indoor,Workplace,66.93291943,53.32208192,22,Female,No,Moderate,Other,0
+13/06/2024 15:41,7350,Outdoor,Workplace,71.20794774,69.41336178,29,Male,No,Normal,Diabetes,0
+13/06/2024 15:26,1106,Indoor,Residential,81.6006577,63.7771415,51,Female,Yes,Moderate,Diabetes,1
+13/06/2024 15:11,6452,Outdoor,Industrial,64.20059409,65.98908644,25,Female,Yes,Normal,Heart Disease,0
+13/06/2024 14:56,2861,Outdoor,Traffic,72.37774015,58.64805414,37,Other,No,Normal,Other,0
+13/06/2024 14:41,9233,Indoor,Industrial,84.93186021,70.70168717,33,Female,Yes,Mild,Diabetes,1
+13/06/2024 14:26,7867,Outdoor,Residential,62.19551124,78.36695875,41,Other,No,Moderate,Other,0
+13/06/2024 14:11,6954,Outdoor,Recreational,65.64794229,78.07892886,37,Female,No,Normal,Healthy,0
+13/06/2024 13:56,9322,Indoor,Industrial,53.94422962,69.14515389,25,Other,Yes,Normal,Hypertension,0
+13/06/2024 13:41,7648,Outdoor,Residential,54.44718494,59.9262217,46,Other,No,Mild,Diabetes,0
+13/06/2024 13:26,9164,Outdoor,Recreational,73.75446834,68.8902965,36,Female,No,Severe,Other,0
+13/06/2024 13:11,8629,Indoor,Industrial,76.93881078,83.90089461,59,Female,No,Normal,Diabetes,1
+13/06/2024 12:56,5998,Outdoor,Recreational,76.63626604,56.91030775,42,Female,Yes,Normal,Diabetes,1
+13/06/2024 12:41,2643,Outdoor,Traffic,54.66865523,54.5506885,54,Other,No,Normal,Healthy,0
+13/06/2024 12:26,7787,Outdoor,Workplace,62.94305949,69.87151952,20,Male,Yes,Normal,Diabetes,0
+13/06/2024 12:11,1788,Indoor,Recreational,69.78475895,74.76625203,36,Male,Yes,Severe,Hypertension,0
+13/06/2024 11:56,2240,Outdoor,Workplace,42.23691307,57.99009883,51,Other,No,Severe,Diabetes,0
+13/06/2024 11:41,5488,Indoor,Traffic,69.56979663,69.01018893,24,Other,Yes,Normal,Healthy,0
+13/06/2024 11:26,7155,Outdoor,Recreational,83.80468494,43.19359007,26,Other,Yes,Mild,Heart Disease,1
+13/06/2024 11:11,3359,Indoor,Workplace,76.36692118,59.78070651,25,Female,No,Normal,Healthy,1
+13/06/2024 10:56,5612,Outdoor,Recreational,40.89686922,91.05873086,36,Female,No,Normal,Healthy,0
+13/06/2024 10:41,9126,Indoor,Residential,68.97344343,72.15449116,54,Female,No,Severe,Other,0
+13/06/2024 10:26,4548,Indoor,Recreational,67.15963527,47.05931133,25,Male,Yes,Normal,Other,0
+13/06/2024 10:11,2818,Outdoor,Recreational,67.71661094,49.73714915,64,Female,No,Moderate,Heart Disease,0
+13/06/2024 09:56,2638,Indoor,Industrial,66.07133318,35.12999535,41,Male,Yes,Severe,Hypertension,0
+13/06/2024 09:41,2299,Indoor,Industrial,61.73543334,92.46987757,19,Female,No,Moderate,Diabetes,0
+13/06/2024 09:26,9831,Indoor,Traffic,41.7465283,40.10833099,46,Male,No,Normal,Healthy,0
+13/06/2024 09:11,1284,Outdoor,Traffic,68.10921535,9.419430799,29,Other,No,Mild,Heart Disease,0
+13/06/2024 08:56,7435,Outdoor,Traffic,71.27382992,31.86858666,22,Other,Yes,Normal,Hypertension,0
+13/06/2024 08:41,9839,Indoor,Workplace,59.44639334,61.06015643,18,Other,Yes,Severe,Diabetes,0
+13/06/2024 08:26,4229,Indoor,Traffic,77.5857415,45.65969546,30,Male,Yes,Moderate,Other,1
+13/06/2024 08:11,8356,Indoor,Traffic,48.59813723,62.58709048,56,Male,Yes,Moderate,Heart Disease,0
+13/06/2024 07:56,4323,Outdoor,Industrial,47.7467859,66.8302243,25,Female,No,Mild,Healthy,0
+13/06/2024 07:41,8161,Outdoor,Recreational,65.84987278,47.52031034,36,Male,No,Normal,Heart Disease,0
+13/06/2024 07:26,2014,Outdoor,Traffic,58.18292781,41.60583955,63,Male,Yes,Moderate,Diabetes,0
+13/06/2024 07:11,6805,Indoor,Traffic,74.7204122,78.21746812,45,Female,No,Moderate,Healthy,0
+13/06/2024 06:56,3833,Outdoor,Recreational,60.72433272,65.96812422,27,Male,Yes,Mild,Healthy,0
+13/06/2024 06:41,3640,Indoor,Industrial,78.58037642,6.478957419,51,Male,No,Severe,Hypertension,1
+13/06/2024 06:26,9297,Indoor,Industrial,57.77973493,29.25583491,27,Other,No,Moderate,Healthy,0
+13/06/2024 06:11,3590,Outdoor,Recreational,66.43707962,24.14419952,35,Female,No,Moderate,Diabetes,0
+13/06/2024 05:56,8543,Indoor,Industrial,45.15500343,56.81035579,27,Other,No,Mild,Diabetes,0
+13/06/2024 05:41,7374,Indoor,Industrial,64.46745316,64.05635121,38,Male,No,Mild,Diabetes,0
+13/06/2024 05:26,5052,Outdoor,Residential,65.72694265,56.57005651,19,Female,Yes,Mild,Healthy,0
+13/06/2024 05:11,3230,Indoor,Workplace,77.09579119,47.43175704,26,Female,No,Severe,Other,1
+13/06/2024 04:56,1925,Indoor,Recreational,49.88916116,80.43872822,55,Other,No,Moderate,Heart Disease,0
+13/06/2024 04:41,3705,Outdoor,Workplace,62.1701479,66.40977808,24,Other,No,Moderate,Diabetes,0
+13/06/2024 04:26,3992,Indoor,Recreational,79.52832952,41.75761147,20,Other,Yes,Severe,Hypertension,1
+13/06/2024 04:11,5361,Indoor,Residential,80.85386995,43.05679819,43,Female,No,Normal,Hypertension,1
+13/06/2024 03:56,6659,Outdoor,Recreational,56.6563292,44.75654091,24,Female,Yes,Severe,Healthy,0
+13/06/2024 03:41,2376,Indoor,Recreational,58.14310165,53.05147142,57,Female,Yes,Normal,Healthy,0
+13/06/2024 03:26,5582,Indoor,Recreational,48.00330607,60.70369825,42,Female,No,Normal,Hypertension,0
+13/06/2024 03:11,1913,Indoor,Residential,43.76996822,68.26770058,54,Male,No,Mild,Healthy,0
+13/06/2024 02:56,6994,Outdoor,Industrial,61.11117135,43.53345147,52,Other,No,Severe,Hypertension,0
+13/06/2024 02:41,3952,Indoor,Traffic,58.54721558,32.87270533,63,Female,No,Moderate,Heart Disease,0
+13/06/2024 02:26,8387,Indoor,Workplace,85.61519485,67.86985546,44,Male,Yes,Moderate,Other,1
+13/06/2024 02:11,8867,Outdoor,Workplace,68.47709232,76.57810094,55,Other,No,Severe,Diabetes,0
+13/06/2024 01:56,3713,Indoor,Workplace,62.91361161,94.20311714,52,Female,No,Severe,Heart Disease,0
+13/06/2024 01:41,6104,Outdoor,Traffic,71.55999541,68.09495142,24,Male,Yes,Normal,Healthy,0
+13/06/2024 01:26,7931,Outdoor,Industrial,75.28456916,45.40132934,55,Female,Yes,Mild,Heart Disease,1
+13/06/2024 01:11,2039,Indoor,Residential,77.1367533,72.2132392,37,Male,No,Moderate,Other,1
+13/06/2024 00:56,7815,Indoor,Recreational,67.59580393,56.98332407,40,Other,No,Normal,Hypertension,0
+13/06/2024 00:41,8797,Outdoor,Recreational,64.76370525,33.09549999,46,Male,Yes,Mild,Hypertension,0
+13/06/2024 00:26,9714,Outdoor,Industrial,66.58189237,59.03074468,39,Other,No,Moderate,Hypertension,0
+13/06/2024 00:11,5413,Outdoor,Residential,64.41528115,65.65227561,38,Male,Yes,Severe,Healthy,0
+12/06/2024 23:56,2142,Indoor,Recreational,59.70772335,88.67154902,59,Male,Yes,Normal,Other,0
+12/06/2024 23:41,1741,Outdoor,Residential,75.43190503,61.42693217,22,Female,Yes,Mild,Other,1
+12/06/2024 23:26,5875,Indoor,Industrial,63.07142899,43.69326063,57,Male,No,Normal,Healthy,0
+12/06/2024 23:11,1312,Outdoor,Industrial,54.85657154,22.26174646,64,Female,Yes,Normal,Diabetes,0
+12/06/2024 22:56,4144,Indoor,Industrial,65.20573313,35.41823132,60,Other,Yes,Moderate,Hypertension,0
+12/06/2024 22:41,7471,Outdoor,Recreational,72.16663955,40.59542063,27,Male,No,Severe,Heart Disease,0
+12/06/2024 22:26,9798,Outdoor,Residential,50.44060986,93.32504988,50,Female,No,Normal,Heart Disease,0
+12/06/2024 22:11,2631,Outdoor,Workplace,62.31127813,56.18048318,18,Female,Yes,Moderate,Heart Disease,0
+12/06/2024 21:56,7262,Indoor,Workplace,56.97889039,58.20801595,53,Other,Yes,Moderate,Diabetes,0
+12/06/2024 21:41,1021,Indoor,Recreational,86.82692251,82.02381408,33,Male,Yes,Mild,Healthy,1
+12/06/2024 21:26,3404,Outdoor,Traffic,65.91760033,72.05274672,36,Male,Yes,Mild,Healthy,0
+12/06/2024 21:11,3625,Outdoor,Traffic,80.5219476,54.75841566,22,Female,No,Mild,Hypertension,1
+12/06/2024 20:56,1953,Outdoor,Industrial,67.4411982,82.9293801,40,Female,No,Normal,Diabetes,0
+12/06/2024 20:41,8098,Indoor,Residential,68.33449179,46.31980279,20,Male,Yes,Moderate,Heart Disease,0
+12/06/2024 20:26,4908,Indoor,Workplace,64.38584132,65.67325289,63,Other,Yes,Moderate,Healthy,0
+12/06/2024 20:11,5614,Outdoor,Industrial,62.76987577,34.89482926,35,Female,No,Severe,Diabetes,0
+12/06/2024 19:56,4659,Indoor,Recreational,64.26128231,65.20422522,20,Male,No,Mild,Other,0
+12/06/2024 19:41,9394,Outdoor,Traffic,58.42614486,80.35484888,59,Male,No,Moderate,Diabetes,0
+12/06/2024 19:26,8725,Outdoor,Recreational,64.88940454,77.42603146,20,Female,No,Moderate,Hypertension,0
+12/06/2024 19:11,5091,Indoor,Residential,48.76308284,78.04291359,31,Male,No,Moderate,Heart Disease,0
+12/06/2024 18:56,2830,Indoor,Residential,66.73445518,117.7554509,25,Other,Yes,Severe,Healthy,0
+12/06/2024 18:41,9386,Outdoor,Residential,52.95167979,54.64867609,49,Female,No,Mild,Healthy,0
+12/06/2024 18:26,5054,Indoor,Traffic,65.94431028,41.92507338,47,Other,No,Mild,Other,0
+12/06/2024 18:11,7466,Outdoor,Traffic,68.20958184,69.12088799,36,Other,No,Normal,Other,0
+12/06/2024 17:56,6731,Outdoor,Industrial,79.17069178,42.39336418,23,Other,No,Normal,Other,1
+12/06/2024 17:41,6877,Indoor,Recreational,68.16770422,37.3417964,26,Other,Yes,Normal,Hypertension,0
+12/06/2024 17:26,2638,Indoor,Workplace,62.33647047,54.95195785,47,Other,Yes,Severe,Heart Disease,0
+12/06/2024 17:11,9407,Indoor,Workplace,58.71133295,99.60557328,23,Female,No,Mild,Other,0
+12/06/2024 16:56,3781,Outdoor,Workplace,72.16321914,73.78067204,48,Male,No,Mild,Heart Disease,0
+12/06/2024 16:41,1675,Outdoor,Traffic,64.00878554,67.60987943,59,Female,Yes,Moderate,Heart Disease,0
+12/06/2024 16:26,3946,Outdoor,Industrial,57.47595209,26.54439313,38,Male,No,Severe,Other,0
+12/06/2024 16:11,6573,Indoor,Residential,66.53385737,47.54156179,57,Male,No,Normal,Heart Disease,0
+12/06/2024 15:56,6983,Indoor,Residential,46.43056898,88.65119905,32,Male,No,Mild,Healthy,0
+12/06/2024 15:41,4141,Outdoor,Industrial,65.79997615,54.60063335,60,Other,Yes,Severe,Heart Disease,0
+12/06/2024 15:26,7762,Outdoor,Traffic,57.19569361,103.8987814,38,Other,Yes,Severe,Heart Disease,0
+12/06/2024 15:11,8235,Indoor,Workplace,61.73652257,68.96096786,60,Male,Yes,Moderate,Healthy,0
+12/06/2024 14:56,4212,Indoor,Recreational,84.94193849,56.99069974,31,Male,No,Normal,Healthy,1
+12/06/2024 14:41,2258,Indoor,Traffic,60.14711079,53.720466,55,Male,Yes,Severe,Diabetes,0
+12/06/2024 14:26,1962,Indoor,Workplace,72.89836148,58.69898744,29,Male,No,Severe,Diabetes,0
+12/06/2024 14:11,6474,Indoor,Residential,75.49213931,30.96358829,32,Other,No,Moderate,Other,1
+12/06/2024 13:56,5587,Indoor,Industrial,73.53760953,79.46123533,54,Female,Yes,Mild,Hypertension,0
+12/06/2024 13:41,6143,Indoor,Industrial,68.71163947,68.83396352,28,Female,Yes,Normal,Heart Disease,0
+12/06/2024 13:26,8831,Outdoor,Workplace,53.92373188,54.87614455,47,Other,No,Mild,Heart Disease,0
+12/06/2024 13:11,8480,Outdoor,Traffic,58.49452124,57.76978096,52,Female,No,Moderate,Hypertension,0
+12/06/2024 12:56,7509,Outdoor,Workplace,53.34234043,76.19580311,52,Other,No,Normal,Other,0
+12/06/2024 12:41,4301,Outdoor,Traffic,61.48044085,100.5953289,59,Other,Yes,Normal,Heart Disease,0
+12/06/2024 12:26,3884,Outdoor,Residential,61.59680188,90.63144948,59,Male,No,Normal,Diabetes,0
+12/06/2024 12:11,8486,Outdoor,Industrial,55.86241135,63.71513503,54,Male,No,Severe,Heart Disease,0
+12/06/2024 11:56,9691,Indoor,Traffic,70.4735331,43.54779826,45,Male,Yes,Moderate,Healthy,0
+12/06/2024 11:41,7017,Indoor,Residential,60.06573627,29.3337913,58,Other,No,Severe,Heart Disease,0
+12/06/2024 11:26,6319,Indoor,Recreational,61.37239008,62.45388436,27,Female,No,Moderate,Heart Disease,0
+12/06/2024 11:11,1247,Outdoor,Workplace,49.31143795,44.33525802,28,Other,Yes,Severe,Healthy,0
+12/06/2024 10:56,4309,Outdoor,Traffic,65.69277562,63.10396259,19,Female,No,Mild,Diabetes,0
+12/06/2024 10:41,9176,Outdoor,Workplace,64.05777631,65.8129673,19,Other,No,Moderate,Healthy,0
+12/06/2024 10:26,8045,Outdoor,Workplace,59.00523603,74.3385336,63,Male,Yes,Severe,Hypertension,0
+12/06/2024 10:11,4824,Outdoor,Industrial,68.81121169,36.56938697,34,Other,No,Moderate,Diabetes,0
+12/06/2024 09:56,8655,Indoor,Workplace,66.18866866,42.25731117,57,Other,No,Normal,Heart Disease,0
+12/06/2024 09:41,6762,Outdoor,Recreational,70.87574385,53.71622571,30,Other,Yes,Severe,Healthy,0
+12/06/2024 09:26,3606,Indoor,Industrial,71.32657106,65.21001504,55,Female,Yes,Moderate,Healthy,0
+12/06/2024 09:11,4546,Indoor,Workplace,72.15057502,64.03166858,19,Female,Yes,Normal,Diabetes,0
+12/06/2024 08:56,9015,Indoor,Recreational,81.68695619,111.5614504,43,Male,No,Moderate,Healthy,1
+12/06/2024 08:41,8951,Outdoor,Traffic,66.28598146,14.8147769,44,Other,No,Mild,Hypertension,0
+12/06/2024 08:26,4568,Indoor,Residential,55.53932916,82.20468783,56,Male,Yes,Normal,Other,0
+12/06/2024 08:11,3954,Indoor,Recreational,60.70049497,81.17439211,54,Other,Yes,Moderate,Heart Disease,0
+12/06/2024 07:56,6143,Indoor,Traffic,60.96753398,41.69402605,50,Male,No,Severe,Hypertension,0
+12/06/2024 07:41,6278,Outdoor,Traffic,55.80185985,50.55357569,35,Male,Yes,Moderate,Healthy,0
+12/06/2024 07:26,6463,Indoor,Traffic,39.86653489,95.23148808,46,Female,No,Mild,Other,0
+12/06/2024 07:11,2399,Outdoor,Residential,67.31223834,47.55666672,21,Female,No,Severe,Heart Disease,0
+12/06/2024 06:56,9191,Indoor,Workplace,65.3366665,47.88900127,47,Other,No,Normal,Hypertension,0
+12/06/2024 06:41,6475,Outdoor,Workplace,84.13906218,62.39867618,55,Female,No,Mild,Diabetes,1
+12/06/2024 06:26,5255,Indoor,Workplace,83.50410933,70.24690452,34,Other,Yes,Severe,Heart Disease,1
+12/06/2024 06:11,4150,Indoor,Recreational,71.79824563,79.95119967,57,Other,Yes,Severe,Diabetes,0
+12/06/2024 05:56,6589,Indoor,Residential,70.6268078,80.81363019,30,Female,No,Severe,Heart Disease,0
+12/06/2024 05:41,4553,Outdoor,Industrial,56.70365029,75.63701854,37,Other,No,Severe,Healthy,0
+12/06/2024 05:26,8912,Indoor,Residential,66.88632805,21.83963657,53,Other,Yes,Severe,Hypertension,0
+12/06/2024 05:11,3665,Outdoor,Industrial,63.83465626,59.17311055,22,Other,No,Mild,Heart Disease,0
+12/06/2024 04:56,4061,Outdoor,Traffic,66.45774669,73.29738464,44,Female,Yes,Mild,Diabetes,0
+12/06/2024 04:41,3865,Outdoor,Workplace,57.31067708,73.69503345,40,Female,No,Mild,Heart Disease,0
+12/06/2024 04:26,2950,Outdoor,Industrial,69.19115172,45.8006423,28,Female,No,Moderate,Heart Disease,0
+12/06/2024 04:11,1152,Indoor,Workplace,51.30657894,39.5464299,52,Female,No,Moderate,Heart Disease,0
+12/06/2024 03:56,3294,Indoor,Residential,95.35493411,38.16884945,35,Female,Yes,Mild,Healthy,1
+12/06/2024 03:41,4884,Indoor,Workplace,79.47067149,69.31055009,61,Female,No,Mild,Hypertension,1
+12/06/2024 03:26,1281,Outdoor,Workplace,78.2722549,80.14512193,20,Male,Yes,Moderate,Other,1
+12/06/2024 03:11,3243,Indoor,Recreational,52.24624666,62.83748224,48,Other,Yes,Normal,Heart Disease,0
+12/06/2024 02:56,5124,Indoor,Industrial,48.79290665,38.60147384,60,Female,No,Moderate,Heart Disease,0
+12/06/2024 02:41,3126,Outdoor,Recreational,67.74771097,63.59208864,32,Other,Yes,Severe,Healthy,0
+12/06/2024 02:26,2916,Outdoor,Residential,61.95549506,40.96230852,52,Male,Yes,Moderate,Diabetes,0
+12/06/2024 02:11,6472,Indoor,Traffic,83.47725954,45.26027797,56,Male,No,Moderate,Other,1
+12/06/2024 01:56,2615,Indoor,Traffic,71.27769479,52.62768444,23,Male,No,Mild,Other,0
+12/06/2024 01:41,7076,Indoor,Workplace,64.58757894,44.02956975,46,Female,No,Mild,Other,0
+12/06/2024 01:26,9228,Indoor,Traffic,79.79883268,37.39564537,44,Female,No,Mild,Healthy,1
+12/06/2024 01:11,5169,Indoor,Recreational,66.82126667,90.98744292,45,Male,Yes,Severe,Other,0
+12/06/2024 00:56,2144,Indoor,Workplace,67.28996384,22.24294074,20,Other,Yes,Severe,Diabetes,0
+12/06/2024 00:41,2566,Outdoor,Workplace,75.42121836,48.1684105,40,Female,No,Mild,Hypertension,1
+12/06/2024 00:26,9481,Outdoor,Industrial,58.2250227,55.68436226,43,Male,Yes,Normal,Other,0
+12/06/2024 00:11,5660,Indoor,Workplace,75.18694185,84.55924974,44,Other,Yes,Moderate,Heart Disease,1
+11/06/2024 23:56,6458,Indoor,Traffic,70.66027943,65.89334163,23,Female,No,Normal,Diabetes,0
+11/06/2024 23:41,5628,Indoor,Industrial,55.79268886,54.36911664,50,Male,Yes,Mild,Diabetes,0
+11/06/2024 23:26,4679,Indoor,Recreational,84.58054095,45.17617173,31,Male,No,Moderate,Other,1
+11/06/2024 23:11,6951,Outdoor,Traffic,60.42530556,82.94544109,20,Other,No,Mild,Heart Disease,0
+11/06/2024 22:56,4300,Indoor,Traffic,48.65518299,43.86750451,36,Male,Yes,Normal,Diabetes,0
+11/06/2024 22:41,9976,Outdoor,Traffic,57.22412795,64.22299318,57,Male,No,Normal,Healthy,0
+11/06/2024 22:26,5909,Outdoor,Recreational,54.64270439,56.61213221,36,Other,Yes,Mild,Other,0
+11/06/2024 22:11,3275,Outdoor,Industrial,66.95693503,69.60106704,44,Male,Yes,Normal,Heart Disease,0
+11/06/2024 21:56,8217,Indoor,Industrial,81.22517772,91.42215412,54,Female,Yes,Mild,Hypertension,1
+11/06/2024 21:41,9490,Indoor,Traffic,67.48699155,74.10989744,59,Male,Yes,Mild,Diabetes,0
+11/06/2024 21:26,1528,Indoor,Workplace,80.85862701,57.42166068,57,Other,Yes,Normal,Hypertension,1
+11/06/2024 21:11,3781,Outdoor,Workplace,75.66610955,93.51413161,58,Female,No,Normal,Heart Disease,1
+11/06/2024 20:56,6041,Outdoor,Traffic,38.33510368,91.59629695,19,Female,Yes,Mild,Healthy,0
+11/06/2024 20:41,2946,Outdoor,Workplace,73.99469072,82.79042873,62,Other,No,Mild,Heart Disease,0
+11/06/2024 20:26,4623,Outdoor,Recreational,59.19016428,65.64071508,31,Female,Yes,Mild,Hypertension,0
+11/06/2024 20:11,5751,Indoor,Industrial,70.12704255,44.57780735,45,Female,Yes,Moderate,Heart Disease,0
+11/06/2024 19:56,1076,Indoor,Recreational,64.42123887,12.67919659,27,Other,Yes,Normal,Heart Disease,0
+11/06/2024 19:41,5558,Indoor,Traffic,92.8613747,64.2287404,55,Other,Yes,Severe,Diabetes,1
+11/06/2024 19:26,2561,Outdoor,Workplace,69.36068447,75.47987137,45,Female,No,Normal,Heart Disease,0
+11/06/2024 19:11,3524,Indoor,Traffic,70.83803118,33.25763116,30,Other,Yes,Normal,Healthy,0
+11/06/2024 18:56,2728,Indoor,Recreational,75.78254043,68.30969404,45,Male,No,Severe,Diabetes,1
+11/06/2024 18:41,5000,Outdoor,Industrial,50.10886605,51.09132115,62,Female,No,Normal,Healthy,0
+11/06/2024 18:26,7459,Indoor,Residential,75.83457636,70.20500574,34,Male,No,Normal,Hypertension,1
+11/06/2024 18:11,1123,Outdoor,Traffic,62.84395424,47.66901171,22,Female,Yes,Mild,Heart Disease,0
+11/06/2024 17:56,6554,Outdoor,Traffic,58.08549582,45.47891841,64,Male,Yes,Mild,Other,0
+11/06/2024 17:41,5415,Indoor,Traffic,73.20030962,58.77827804,22,Female,No,Moderate,Heart Disease,0
+11/06/2024 17:26,7127,Outdoor,Traffic,50.11676776,36.47228931,36,Female,Yes,Severe,Other,0
+11/06/2024 17:11,2404,Outdoor,Industrial,74.38938911,79.23129575,51,Male,No,Normal,Diabetes,0
+11/06/2024 16:56,8313,Outdoor,Industrial,63.4251475,60.40483766,58,Male,Yes,Severe,Hypertension,0
+11/06/2024 16:41,3527,Indoor,Recreational,63.99859345,37.10839362,60,Female,Yes,Mild,Other,0
+11/06/2024 16:26,8646,Indoor,Residential,42.55795958,47.68840403,56,Male,Yes,Severe,Heart Disease,0
+11/06/2024 16:11,5796,Indoor,Traffic,74.00420452,71.80447341,48,Male,Yes,Severe,Heart Disease,0
+11/06/2024 15:56,3175,Outdoor,Recreational,67.47626487,53.97133216,42,Female,Yes,Normal,Heart Disease,0
+11/06/2024 15:41,8932,Outdoor,Industrial,60.32822268,74.19835353,18,Male,Yes,Moderate,Hypertension,0
+11/06/2024 15:26,4281,Indoor,Workplace,55.7256184,40.0975455,39,Female,No,Moderate,Other,0
+11/06/2024 15:11,3880,Outdoor,Industrial,72.81581136,54.40567128,55,Female,Yes,Moderate,Other,0
+11/06/2024 14:56,7588,Outdoor,Industrial,68.48182777,58.55594024,46,Female,No,Severe,Hypertension,0
+11/06/2024 14:41,7123,Indoor,Workplace,65.05183428,104.5381265,19,Male,Yes,Mild,Healthy,0
+11/06/2024 14:26,8498,Outdoor,Workplace,55.11746689,45.44094698,58,Female,No,Moderate,Diabetes,0
+11/06/2024 14:11,1893,Outdoor,Recreational,68.02786589,72.5306846,59,Female,No,Severe,Hypertension,0
+11/06/2024 13:56,7335,Indoor,Residential,67.432401,69.42928094,47,Male,No,Severe,Heart Disease,0
+11/06/2024 13:41,9477,Outdoor,Residential,78.158901,94.95599268,34,Female,Yes,Normal,Healthy,1
+11/06/2024 13:26,1744,Outdoor,Industrial,53.02551572,87.19150278,53,Male,Yes,Moderate,Other,0
+11/06/2024 13:11,2661,Outdoor,Workplace,57.84167872,50.74882998,31,Other,No,Moderate,Diabetes,0
+11/06/2024 12:56,1603,Outdoor,Industrial,84.43613169,39.01389223,34,Other,No,Severe,Heart Disease,1
+11/06/2024 12:41,3006,Indoor,Residential,66.91542981,31.68499949,45,Male,No,Moderate,Heart Disease,0
+11/06/2024 12:26,7730,Indoor,Residential,67.52729358,64.71946962,23,Female,No,Normal,Heart Disease,0
+11/06/2024 12:11,8798,Outdoor,Traffic,74.65958775,80.27614949,26,Other,No,Normal,Hypertension,0
+11/06/2024 11:56,5165,Indoor,Residential,83.12376902,82.87628825,28,Other,Yes,Moderate,Other,1
+11/06/2024 11:41,7165,Indoor,Traffic,53.38146449,54.77813877,25,Male,No,Severe,Healthy,0
+11/06/2024 11:26,3347,Outdoor,Industrial,86.81834115,60.88749094,64,Male,Yes,Mild,Diabetes,1
+11/06/2024 11:11,7206,Outdoor,Recreational,64.56353339,88.52100881,40,Other,No,Mild,Heart Disease,0
+11/06/2024 10:56,7833,Outdoor,Residential,67.63849496,44.73608568,23,Other,Yes,Mild,Hypertension,0
+11/06/2024 10:41,4065,Outdoor,Traffic,65.60064805,10.49341965,38,Female,Yes,Moderate,Hypertension,0
+11/06/2024 10:26,4446,Indoor,Recreational,79.97814014,83.06395771,34,Female,Yes,Moderate,Diabetes,1
+11/06/2024 10:11,8996,Indoor,Recreational,74.5845811,36.79261497,56,Male,No,Mild,Healthy,0
+11/06/2024 09:56,9641,Indoor,Industrial,63.55041119,54.1882804,28,Other,No,Mild,Hypertension,0
+11/06/2024 09:41,8787,Outdoor,Workplace,53.73081636,69.13182156,56,Female,No,Mild,Hypertension,0
+11/06/2024 09:26,4726,Outdoor,Recreational,62.57103278,50.75639385,22,Female,No,Severe,Other,0
+11/06/2024 09:11,5086,Indoor,Industrial,51.6259288,81.60677379,48,Male,No,Normal,Other,0
+11/06/2024 08:56,7565,Outdoor,Workplace,73.91114494,113.4265468,33,Other,No,Normal,Healthy,0
+11/06/2024 08:41,3318,Indoor,Recreational,58.21557355,43.85910141,29,Other,Yes,Mild,Diabetes,0
+11/06/2024 08:26,7105,Indoor,Industrial,63.97549275,62.67782756,47,Male,No,Normal,Heart Disease,0
+11/06/2024 08:11,5530,Indoor,Industrial,76.73164538,60.09975285,42,Female,No,Severe,Hypertension,1
+11/06/2024 07:56,1032,Outdoor,Traffic,73.07065524,66.25607645,29,Male,No,Normal,Heart Disease,0
+11/06/2024 07:41,5708,Indoor,Industrial,68.83194744,47.93194987,20,Male,No,Moderate,Heart Disease,0
+11/06/2024 07:26,8331,Outdoor,Recreational,57.04361847,46.99628571,34,Other,No,Severe,Heart Disease,0
+11/06/2024 07:11,6477,Outdoor,Recreational,69.85198187,47.46965788,21,Other,Yes,Normal,Healthy,0
+11/06/2024 06:56,1330,Indoor,Residential,57.04684226,50.77074718,23,Male,Yes,Severe,Diabetes,0
+11/06/2024 06:41,5086,Outdoor,Recreational,69.94353998,51.08702617,32,Female,No,Severe,Diabetes,0
+11/06/2024 06:26,5920,Indoor,Workplace,51.92948905,9.895649729,49,Female,Yes,Severe,Other,0
+11/06/2024 06:11,9511,Indoor,Residential,77.0717,61.77228413,38,Female,No,Moderate,Heart Disease,1
+11/06/2024 05:56,9392,Outdoor,Industrial,66.99549935,53.97612742,19,Male,No,Moderate,Heart Disease,0
+11/06/2024 05:41,3976,Outdoor,Residential,64.87228502,45.63114405,63,Male,Yes,Mild,Hypertension,0
+11/06/2024 05:26,7892,Indoor,Workplace,68.91185696,61.8607,20,Other,Yes,Normal,Healthy,0
+11/06/2024 05:11,1913,Indoor,Residential,63.84534212,59.89012256,42,Male,No,Mild,Heart Disease,0
+11/06/2024 04:56,2117,Outdoor,Workplace,65.68006697,52.04655338,44,Other,Yes,Moderate,Healthy,0
+11/06/2024 04:41,1316,Indoor,Industrial,77.91298553,60.17545122,44,Female,No,Severe,Other,1
+11/06/2024 04:26,5431,Indoor,Residential,75.5713174,48.36211903,40,Male,No,Severe,Healthy,1
+11/06/2024 04:11,4914,Indoor,Recreational,72.12986151,36.62009944,26,Other,Yes,Severe,Diabetes,0
+11/06/2024 03:56,8429,Indoor,Recreational,67.51986515,99.22166455,53,Female,Yes,Severe,Healthy,0
+11/06/2024 03:41,5171,Indoor,Workplace,61.8354175,50.08125706,28,Other,Yes,Normal,Heart Disease,0
+11/06/2024 03:26,5377,Outdoor,Workplace,75.72894717,65.31083349,56,Male,Yes,Mild,Heart Disease,1
+11/06/2024 03:11,2874,Outdoor,Workplace,55.89463645,111.9292005,24,Female,No,Mild,Heart Disease,0
+11/06/2024 02:56,1960,Indoor,Industrial,82.83984495,51.72605541,30,Female,Yes,Mild,Heart Disease,1
+11/06/2024 02:41,4316,Outdoor,Workplace,72.11591962,69.20398531,24,Female,No,Moderate,Healthy,0
+11/06/2024 02:26,6459,Indoor,Recreational,76.81833754,106.5338279,59,Male,Yes,Mild,Heart Disease,1
+11/06/2024 02:11,8675,Outdoor,Recreational,69.67823243,27.00088221,64,Male,No,Mild,Diabetes,0
+11/06/2024 01:56,5902,Outdoor,Workplace,63.77663304,86.67644867,60,Male,No,Severe,Hypertension,0
+11/06/2024 01:41,7985,Indoor,Traffic,74.48352656,64.44248317,30,Female,Yes,Normal,Heart Disease,0
+11/06/2024 01:26,9111,Indoor,Workplace,50.92647185,49.89640278,23,Male,No,Moderate,Other,0
+11/06/2024 01:11,9443,Indoor,Traffic,59.11373871,60.96956123,21,Other,No,Moderate,Hypertension,0
+11/06/2024 00:56,9174,Indoor,Residential,63.08924076,52.76327589,60,Other,Yes,Normal,Healthy,0
+11/06/2024 00:41,6325,Outdoor,Residential,51.19070459,91.52504949,42,Female,No,Mild,Diabetes,0
+11/06/2024 00:26,4587,Outdoor,Recreational,71.37035538,59.67978881,37,Other,Yes,Mild,Diabetes,0
+11/06/2024 00:11,4100,Indoor,Residential,77.65883968,73.9564164,26,Other,Yes,Normal,Other,1
+10/06/2024 23:56,2590,Indoor,Residential,47.91161228,49.42189762,42,Male,Yes,Normal,Heart Disease,0
+10/06/2024 23:41,3793,Outdoor,Residential,60.84503745,65.84742172,54,Female,No,Moderate,Other,0
+10/06/2024 23:26,1614,Outdoor,Industrial,63.30417764,52.34385979,26,Male,No,Normal,Heart Disease,0
+10/06/2024 23:11,6558,Outdoor,Industrial,68.22934548,31.60163426,58,Other,No,Mild,Heart Disease,0
+10/06/2024 22:56,9437,Outdoor,Workplace,73.54957063,86.16815732,61,Other,No,Mild,Diabetes,0
+10/06/2024 22:41,9112,Indoor,Traffic,62.21142629,66.96248172,36,Other,No,Severe,Diabetes,0
+10/06/2024 22:26,1408,Outdoor,Recreational,74.40858724,75.4244969,29,Female,Yes,Mild,Heart Disease,0
+10/06/2024 22:11,7648,Indoor,Industrial,65.88382076,45.431615,52,Other,Yes,Severe,Diabetes,0
+10/06/2024 21:56,4850,Indoor,Industrial,58.97154016,83.69426999,21,Other,No,Moderate,Diabetes,0
+10/06/2024 21:41,4456,Outdoor,Recreational,67.30602761,69.35665939,36,Female,Yes,Mild,Diabetes,0
+10/06/2024 21:26,2477,Indoor,Industrial,52.36734828,63.0046415,61,Male,No,Normal,Heart Disease,0
+10/06/2024 21:11,3405,Outdoor,Recreational,62.45430201,80.58540962,63,Female,Yes,Moderate,Heart Disease,0
+10/06/2024 20:56,3440,Indoor,Workplace,63.24505996,53.41502655,23,Female,No,Moderate,Hypertension,0
+10/06/2024 20:41,1097,Outdoor,Workplace,58.9518264,85.89463895,48,Male,Yes,Moderate,Diabetes,0
+10/06/2024 20:26,4120,Outdoor,Residential,90.32600697,46.75495788,64,Female,Yes,Mild,Heart Disease,1
+10/06/2024 20:11,2985,Outdoor,Recreational,78.01550186,60.66548156,49,Male,No,Normal,Diabetes,1
+10/06/2024 19:56,5006,Outdoor,Recreational,66.99807684,41.26999748,26,Other,No,Moderate,Hypertension,0
+10/06/2024 19:41,6362,Outdoor,Workplace,69.27658768,37.03564711,43,Female,Yes,Moderate,Hypertension,0
+10/06/2024 19:26,2395,Outdoor,Industrial,70.16934974,50.68478483,23,Male,No,Moderate,Healthy,0
+10/06/2024 19:11,5930,Outdoor,Recreational,71.2456584,56.78223423,54,Female,Yes,Normal,Heart Disease,0
+10/06/2024 18:56,9618,Outdoor,Recreational,80.6208168,71.035557,60,Male,Yes,Severe,Hypertension,1
+10/06/2024 18:41,8503,Outdoor,Industrial,74.27450431,47.13902845,51,Male,Yes,Normal,Heart Disease,0
+10/06/2024 18:26,9797,Indoor,Workplace,45.14301722,71.73815911,57,Male,Yes,Severe,Heart Disease,0
+10/06/2024 18:11,9338,Outdoor,Recreational,73.33579423,53.60103214,38,Other,Yes,Mild,Diabetes,0
+10/06/2024 17:56,9491,Indoor,Recreational,56.63295009,50.11859509,59,Female,No,Normal,Heart Disease,0
+10/06/2024 17:41,6145,Indoor,Industrial,59.45784633,72.58883884,44,Male,Yes,Severe,Diabetes,0
+10/06/2024 17:26,3965,Indoor,Residential,74.81320966,49.11123805,36,Other,Yes,Severe,Diabetes,0
+10/06/2024 17:11,6765,Indoor,Industrial,46.36829184,96.50409858,44,Other,Yes,Mild,Diabetes,0
+10/06/2024 16:56,9740,Outdoor,Industrial,82.1257297,68.64663835,20,Male,No,Severe,Other,1
+10/06/2024 16:41,4012,Indoor,Residential,73.17329497,32.64806823,42,Other,No,Normal,Heart Disease,0
+10/06/2024 16:26,5074,Indoor,Recreational,68.33713433,57.6161709,51,Female,No,Mild,Hypertension,0
+10/06/2024 16:11,5301,Outdoor,Residential,73.33854641,47.05576292,38,Female,No,Mild,Heart Disease,0
+10/06/2024 15:56,7311,Outdoor,Traffic,76.48490103,27.17412709,28,Female,Yes,Mild,Healthy,1
+10/06/2024 15:41,1375,Indoor,Residential,67.22889095,81.15760373,44,Male,Yes,Severe,Heart Disease,0
+10/06/2024 15:26,6322,Indoor,Workplace,72.74042659,81.61803062,45,Male,No,Severe,Other,0
+10/06/2024 15:11,9060,Outdoor,Recreational,55.20125753,45.50471017,21,Male,Yes,Moderate,Healthy,0
+10/06/2024 14:56,2182,Indoor,Traffic,73.11932249,74.21244986,61,Female,Yes,Mild,Healthy,0
+10/06/2024 14:41,7648,Indoor,Traffic,71.07697446,77.53933446,58,Female,Yes,Moderate,Diabetes,0
+10/06/2024 14:26,9847,Outdoor,Residential,79.39225528,59.74709458,43,Other,Yes,Normal,Hypertension,1
+10/06/2024 14:11,6476,Outdoor,Traffic,66.74142633,79.04560516,38,Male,Yes,Moderate,Healthy,0
+10/06/2024 13:56,5394,Outdoor,Recreational,68.06425353,65.89026534,56,Male,No,Mild,Other,0
+10/06/2024 13:41,9314,Indoor,Recreational,55.76680468,82.90887845,21,Other,Yes,Moderate,Hypertension,0
+10/06/2024 13:26,4338,Indoor,Industrial,64.99452273,36.55056415,54,Other,No,Mild,Heart Disease,0
+10/06/2024 13:11,2654,Indoor,Industrial,71.11375293,62.95936963,60,Male,Yes,Severe,Other,0
+10/06/2024 12:56,2447,Indoor,Workplace,72.06087423,64.03063882,21,Female,Yes,Severe,Hypertension,0
+10/06/2024 12:41,9082,Outdoor,Residential,82.13146353,36.87024842,40,Female,Yes,Moderate,Other,1
+10/06/2024 12:26,4257,Indoor,Traffic,69.61485433,38.78301348,26,Male,No,Severe,Healthy,0
+10/06/2024 12:11,9346,Outdoor,Industrial,64.07238837,28.31899549,57,Female,Yes,Normal,Diabetes,0
+10/06/2024 11:56,7100,Indoor,Recreational,70.56666149,60.90405841,41,Male,No,Moderate,Diabetes,0
+10/06/2024 11:41,3216,Outdoor,Traffic,59.4257806,51.19313048,46,Male,Yes,Mild,Hypertension,0
+10/06/2024 11:26,8928,Outdoor,Residential,78.25059431,34.18470764,24,Female,Yes,Moderate,Diabetes,1
+10/06/2024 11:11,5435,Indoor,Traffic,58.06473019,84.34517466,35,Female,Yes,Mild,Healthy,0
+10/06/2024 10:56,6988,Indoor,Traffic,60.94837975,68.00606431,19,Male,Yes,Mild,Other,0
+10/06/2024 10:41,9414,Indoor,Workplace,54.24501868,45.50901351,45,Male,Yes,Severe,Diabetes,0
+10/06/2024 10:26,4537,Indoor,Residential,65.82856282,64.0648392,60,Male,No,Normal,Healthy,0
+10/06/2024 10:11,9181,Outdoor,Traffic,71.45184975,55.24034514,58,Male,Yes,Severe,Other,0
+10/06/2024 09:56,2036,Outdoor,Recreational,81.53274638,28.75228277,46,Other,Yes,Mild,Healthy,1
+10/06/2024 09:41,9907,Outdoor,Recreational,64.42612264,65.47729524,62,Other,No,Mild,Hypertension,0
+10/06/2024 09:26,1213,Indoor,Workplace,62.75585154,92.79715591,34,Male,No,Normal,Other,0
+10/06/2024 09:11,1014,Indoor,Industrial,38.31442218,88.24014701,48,Male,Yes,Mild,Other,0
+10/06/2024 08:56,5522,Indoor,Residential,67.23133834,62.06764978,34,Female,No,Severe,Healthy,0
+10/06/2024 08:41,3932,Outdoor,Traffic,65.27599654,51.2801875,48,Male,Yes,Moderate,Diabetes,0
+10/06/2024 08:26,2831,Outdoor,Workplace,65.1579821,71.25731069,40,Male,No,Normal,Hypertension,0
+10/06/2024 08:11,3343,Indoor,Recreational,80.058063,65.33085602,27,Female,No,Normal,Diabetes,1
+10/06/2024 07:56,4324,Indoor,Traffic,70.46130025,57.22775794,23,Female,No,Severe,Heart Disease,0
+10/06/2024 07:41,9876,Indoor,Recreational,60.83902146,97.20248901,55,Male,No,Mild,Hypertension,0
+10/06/2024 07:26,4823,Indoor,Traffic,55.94243878,52.07786455,64,Female,Yes,Mild,Hypertension,0
+10/06/2024 07:11,8353,Indoor,Residential,53.42677461,79.14237541,44,Other,Yes,Normal,Healthy,0
+10/06/2024 06:56,5593,Outdoor,Recreational,60.54428899,62.87717049,28,Other,Yes,Severe,Healthy,0
+10/06/2024 06:41,3194,Outdoor,Workplace,68.74011051,62.97373612,37,Other,Yes,Moderate,Hypertension,0
+10/06/2024 06:26,4191,Outdoor,Workplace,43.9030424,26.98146233,63,Other,Yes,Severe,Hypertension,0
+10/06/2024 06:11,7319,Outdoor,Workplace,63.64952903,82.028345,22,Other,Yes,Mild,Other,0
+10/06/2024 05:56,2451,Indoor,Workplace,73.01828867,76.73510222,49,Other,No,Moderate,Diabetes,0
+10/06/2024 05:41,3006,Indoor,Industrial,54.64687131,63.76038154,22,Other,Yes,Severe,Healthy,0
+10/06/2024 05:26,5117,Outdoor,Traffic,63.21834276,80.69598313,39,Female,No,Severe,Other,0
+10/06/2024 05:11,7625,Outdoor,Traffic,55.0841953,68.31092165,18,Female,Yes,Severe,Heart Disease,0
+10/06/2024 04:56,1495,Outdoor,Traffic,37.91825964,34.05192399,37,Female,Yes,Severe,Hypertension,0
+10/06/2024 04:41,3078,Outdoor,Industrial,56.9963954,40.58811549,32,Female,No,Mild,Healthy,0
+10/06/2024 04:26,4332,Indoor,Workplace,54.36461854,58.78769591,28,Female,No,Mild,Hypertension,0
+10/06/2024 04:11,8580,Outdoor,Residential,72.75103407,26.17095926,49,Other,No,Normal,Other,0
+10/06/2024 03:56,1126,Outdoor,Workplace,69.80536328,82.44867553,45,Male,No,Normal,Hypertension,0
+10/06/2024 03:41,2873,Outdoor,Industrial,54.5819745,55.68899713,45,Male,Yes,Moderate,Hypertension,0
+10/06/2024 03:26,3140,Indoor,Residential,77.9264911,62.73860341,34,Female,No,Normal,Other,1
+10/06/2024 03:11,7849,Outdoor,Industrial,72.25204755,40.37021869,51,Male,No,Moderate,Diabetes,0
+10/06/2024 02:56,8437,Indoor,Recreational,62.43556952,72.92994773,41,Male,Yes,Moderate,Other,0
+10/06/2024 02:41,7102,Indoor,Traffic,68.30055628,57.14571619,19,Other,No,Severe,Hypertension,0
+10/06/2024 02:26,5538,Indoor,Traffic,55.54628091,53.47836195,44,Other,No,Severe,Diabetes,0
+10/06/2024 02:11,6684,Outdoor,Industrial,40.38047676,88.2190651,26,Male,Yes,Severe,Other,0
+10/06/2024 01:56,7118,Indoor,Residential,65.90876088,86.18865723,36,Other,No,Normal,Other,0
+10/06/2024 01:41,5324,Indoor,Recreational,51.35893471,74.99433969,53,Other,Yes,Moderate,Healthy,0
+10/06/2024 01:26,3352,Outdoor,Recreational,62.73165361,64.18109927,46,Male,Yes,Severe,Other,0
+10/06/2024 01:11,8035,Indoor,Workplace,69.11008406,49.67820304,28,Other,Yes,Normal,Hypertension,0
+10/06/2024 00:56,2408,Outdoor,Workplace,45.56344146,54.22343409,49,Female,No,Moderate,Healthy,0
+10/06/2024 00:41,1898,Indoor,Residential,67.06652729,53.30494458,44,Female,No,Moderate,Diabetes,0
+10/06/2024 00:26,7610,Outdoor,Workplace,73.26445747,67.84341173,56,Male,Yes,Severe,Healthy,0
+10/06/2024 00:11,7349,Indoor,Traffic,44.21039533,59.36545633,41,Male,No,Mild,Heart Disease,0
+09/06/2024 23:56,1278,Outdoor,Industrial,72.05437759,59.86397509,44,Female,Yes,Severe,Diabetes,0
+09/06/2024 23:41,5074,Indoor,Traffic,83.98980892,90.81778282,44,Other,Yes,Normal,Heart Disease,1
+09/06/2024 23:26,5074,Outdoor,Recreational,62.44922906,82.87444731,57,Male,Yes,Normal,Hypertension,0
+09/06/2024 23:11,8630,Outdoor,Recreational,72.40418587,44.37612168,49,Other,Yes,Normal,Diabetes,0
+09/06/2024 22:56,9419,Indoor,Industrial,54.95320436,65.93954006,62,Other,Yes,Severe,Diabetes,0
+09/06/2024 22:41,8146,Outdoor,Residential,74.20232434,44.48541255,61,Male,No,Normal,Healthy,0
+09/06/2024 22:26,7933,Outdoor,Recreational,70.10138439,72.0540987,39,Female,No,Severe,Heart Disease,0
+09/06/2024 22:11,7718,Outdoor,Residential,67.17753861,98.58415769,59,Female,Yes,Mild,Heart Disease,0
+09/06/2024 21:56,1623,Indoor,Traffic,66.60860244,52.87880809,49,Female,Yes,Severe,Healthy,0
+09/06/2024 21:41,7030,Indoor,Workplace,68.94448728,75.81195538,63,Female,Yes,Severe,Healthy,0
+09/06/2024 21:26,3633,Outdoor,Industrial,64.35999973,92.27117948,52,Female,No,Mild,Healthy,0
+09/06/2024 21:11,5586,Outdoor,Workplace,55.27069865,57.27535551,18,Female,No,Severe,Healthy,0
+09/06/2024 20:56,2140,Outdoor,Residential,63.52148698,69.88605155,51,Other,No,Mild,Other,0
+09/06/2024 20:41,6085,Outdoor,Residential,64.52315668,94.2966411,18,Female,No,Mild,Healthy,0
+09/06/2024 20:26,8086,Outdoor,Traffic,53.26093608,41.27878646,59,Male,Yes,Normal,Healthy,0
+09/06/2024 20:11,5084,Outdoor,Traffic,63.89516613,39.26647857,52,Male,No,Severe,Healthy,0
+09/06/2024 19:56,7293,Outdoor,Residential,64.38248523,35.11470842,46,Female,Yes,Moderate,Other,0
+09/06/2024 19:41,7288,Outdoor,Traffic,59.79379153,75.09907729,35,Female,No,Normal,Hypertension,0
+09/06/2024 19:26,2041,Indoor,Industrial,68.52290708,39.73724636,23,Male,No,Normal,Hypertension,0
+09/06/2024 19:11,2956,Outdoor,Recreational,70.89527417,71.19695976,23,Male,Yes,Severe,Healthy,0
+09/06/2024 18:56,4643,Outdoor,Industrial,58.36316035,87.19228509,44,Male,Yes,Mild,Diabetes,0
+09/06/2024 18:41,6404,Indoor,Residential,66.49130111,46.76243913,56,Female,No,Mild,Other,0
+09/06/2024 18:26,7888,Indoor,Recreational,74.09192162,44.75832123,36,Male,Yes,Normal,Healthy,0
+09/06/2024 18:11,3665,Outdoor,Residential,54.89630934,73.39840694,55,Female,Yes,Severe,Other,0
+09/06/2024 17:56,5440,Outdoor,Industrial,48.36780335,60.95721413,20,Female,Yes,Severe,Other,0
+09/06/2024 17:41,8418,Outdoor,Residential,55.58850775,12.74203544,55,Female,Yes,Normal,Hypertension,0
+09/06/2024 17:26,7549,Outdoor,Traffic,70.26892268,90.63752871,37,Female,No,Moderate,Heart Disease,0
+09/06/2024 17:11,9757,Indoor,Residential,60.43286805,71.03995809,19,Male,No,Mild,Heart Disease,0
+09/06/2024 16:56,1972,Indoor,Industrial,52.61458331,52.39266208,24,Other,No,Moderate,Heart Disease,0
+09/06/2024 16:41,9528,Outdoor,Traffic,77.69398059,51.58259299,22,Other,Yes,Severe,Healthy,1
+09/06/2024 16:26,2638,Indoor,Recreational,53.19656561,74.0054234,42,Other,Yes,Normal,Heart Disease,0
+09/06/2024 16:11,2971,Outdoor,Industrial,63.29422786,59.10241888,59,Male,No,Mild,Healthy,0
+09/06/2024 15:56,2152,Outdoor,Workplace,72.36573649,61.14497894,30,Male,Yes,Severe,Diabetes,0
+09/06/2024 15:41,9425,Indoor,Workplace,71.70135369,63.01419211,29,Female,Yes,Normal,Hypertension,0
+09/06/2024 15:26,3926,Indoor,Industrial,69.17315003,43.61898708,22,Other,Yes,Mild,Diabetes,0
+09/06/2024 15:11,6420,Indoor,Industrial,58.32048075,52.78498735,29,Male,No,Moderate,Healthy,0
+09/06/2024 14:56,6904,Outdoor,Workplace,70.57899538,56.23349053,35,Female,Yes,Severe,Diabetes,0
+09/06/2024 14:41,2651,Indoor,Workplace,65.14767478,44.78723329,20,Female,No,Moderate,Heart Disease,0
+09/06/2024 14:26,3649,Outdoor,Workplace,69.06559035,65.49449195,21,Female,Yes,Mild,Diabetes,0
+09/06/2024 14:11,7240,Indoor,Industrial,78.70641082,69.68660659,60,Female,No,Moderate,Other,1
+09/06/2024 13:56,6195,Outdoor,Traffic,53.06252488,93.72990076,36,Female,Yes,Moderate,Other,0
+09/06/2024 13:41,8914,Outdoor,Residential,68.8523278,44.78054304,38,Female,Yes,Normal,Hypertension,0
+09/06/2024 13:26,7762,Indoor,Residential,66.42141504,77.8091419,42,Male,Yes,Mild,Diabetes,0
+09/06/2024 13:11,1654,Outdoor,Traffic,74.44353327,88.49861051,20,Female,No,Severe,Healthy,0
+09/06/2024 12:56,3509,Outdoor,Residential,82.78316095,78.9917755,24,Male,No,Normal,Hypertension,1
+09/06/2024 12:41,2182,Indoor,Traffic,82.47159568,50.0386133,26,Male,Yes,Severe,Heart Disease,1
+09/06/2024 12:26,2409,Outdoor,Traffic,73.35005341,53.81452805,21,Other,No,Moderate,Heart Disease,0
+09/06/2024 12:11,5709,Outdoor,Residential,59.01313793,90.35862751,40,Other,Yes,Normal,Other,0
+09/06/2024 11:56,3425,Outdoor,Residential,60.7769551,56.27020525,28,Female,Yes,Moderate,Hypertension,0
+09/06/2024 11:41,9832,Outdoor,Residential,72.21389291,59.39745651,36,Female,Yes,Moderate,Heart Disease,0
+09/06/2024 11:26,2004,Indoor,Recreational,52.1344777,50.26583631,18,Other,Yes,Normal,Diabetes,0
+09/06/2024 11:11,1367,Indoor,Residential,62.66507748,75.47636717,21,Female,Yes,Normal,Hypertension,0
+09/06/2024 10:56,6640,Indoor,Industrial,57.61804612,10.78378505,26,Male,Yes,Mild,Diabetes,0
+09/06/2024 10:41,1262,Outdoor,Industrial,53.23252807,43.79987734,59,Male,Yes,Mild,Diabetes,0
+09/06/2024 10:26,2581,Outdoor,Recreational,67.47801683,40.40209491,24,Female,Yes,Severe,Diabetes,0
+09/06/2024 10:11,3980,Indoor,Industrial,72.89583962,91.76768809,43,Other,No,Normal,Hypertension,0
+09/06/2024 09:56,8801,Outdoor,Residential,71.002995,64.64427034,38,Female,No,Moderate,Hypertension,0
+09/06/2024 09:41,5784,Indoor,Recreational,66.18175392,55.96494266,27,Other,No,Moderate,Other,0
+09/06/2024 09:26,9967,Indoor,Workplace,61.47735757,55.91974726,27,Male,No,Severe,Hypertension,0
+09/06/2024 09:11,1374,Indoor,Workplace,59.75379795,32.368762,18,Other,No,Mild,Healthy,0
+09/06/2024 08:56,6619,Outdoor,Traffic,73.71448211,87.12390094,53,Other,No,Normal,Hypertension,0
+09/06/2024 08:41,3092,Indoor,Residential,59.88499261,52.97265882,20,Female,No,Mild,Other,0
+09/06/2024 08:26,3980,Indoor,Traffic,59.59901529,71.8623411,52,Other,Yes,Severe,Hypertension,0
+09/06/2024 08:11,6427,Indoor,Workplace,69.11158252,46.86978485,62,Other,Yes,Mild,Healthy,0
+09/06/2024 07:56,2756,Indoor,Industrial,55.18916955,58.80076451,29,Male,No,Normal,Hypertension,0
+09/06/2024 07:41,6842,Outdoor,Recreational,65.85168069,41.62256649,44,Other,Yes,Moderate,Other,0
+09/06/2024 07:26,7942,Indoor,Workplace,59.70805995,55.03915928,34,Female,Yes,Mild,Healthy,0
+09/06/2024 07:11,9102,Indoor,Traffic,58.28551263,80.81564751,36,Male,Yes,Normal,Other,0
+09/06/2024 06:56,3866,Outdoor,Industrial,62.50043545,62.11643135,27,Other,Yes,Normal,Heart Disease,0
+09/06/2024 06:41,3870,Outdoor,Recreational,72.54449793,67.48249127,60,Other,Yes,Normal,Diabetes,0
+09/06/2024 06:26,7665,Outdoor,Industrial,66.76756199,61.25302763,43,Male,Yes,Moderate,Other,0
+09/06/2024 06:11,8480,Outdoor,Workplace,67.93124741,92.62315064,25,Other,No,Normal,Heart Disease,0
+09/06/2024 05:56,5730,Outdoor,Industrial,72.58944462,43.66921117,56,Male,No,Mild,Hypertension,0
+09/06/2024 05:41,8305,Outdoor,Industrial,71.23692052,57.23802498,19,Male,No,Mild,Healthy,0
+09/06/2024 05:26,1578,Outdoor,Traffic,63.21412109,63.75815864,29,Female,No,Severe,Other,0
+09/06/2024 05:11,5231,Outdoor,Industrial,70.56521346,40.08067244,56,Other,No,Normal,Healthy,0
+09/06/2024 04:56,7468,Outdoor,Recreational,63.31560345,62.52927585,57,Male,Yes,Moderate,Heart Disease,0
+09/06/2024 04:41,2635,Indoor,Workplace,69.38228772,60.59289985,48,Male,No,Moderate,Other,0
+09/06/2024 04:26,8317,Outdoor,Residential,75.41618521,62.27824316,46,Female,Yes,Normal,Hypertension,1
+09/06/2024 04:11,6763,Outdoor,Industrial,70.20638168,62.36591388,25,Female,No,Moderate,Hypertension,0
+09/06/2024 03:56,6007,Outdoor,Workplace,52.53591593,46.56801801,32,Female,Yes,Normal,Hypertension,0
+09/06/2024 03:41,9100,Indoor,Industrial,60.03216271,27.50852553,43,Male,No,Moderate,Diabetes,0
+09/06/2024 03:26,1573,Indoor,Industrial,71.4756645,63.66163289,53,Male,Yes,Severe,Hypertension,0
+09/06/2024 03:11,3171,Outdoor,Traffic,43.44918692,42.13243944,58,Female,Yes,Severe,Diabetes,0
+09/06/2024 02:56,4633,Outdoor,Workplace,68.23585071,58.15110055,21,Female,Yes,Severe,Other,0
+09/06/2024 02:41,8706,Outdoor,Recreational,67.67354744,45.0311515,50,Female,Yes,Moderate,Other,0
+09/06/2024 02:26,5787,Indoor,Residential,92.27347689,30.38485159,29,Female,No,Normal,Heart Disease,1
+09/06/2024 02:11,3503,Outdoor,Industrial,69.3227958,67.21268282,28,Male,No,Mild,Heart Disease,0
+09/06/2024 01:56,3409,Indoor,Workplace,63.91508658,74.00699732,47,Female,Yes,Mild,Healthy,0
+09/06/2024 01:41,2249,Outdoor,Workplace,76.6367361,82.06576863,62,Male,No,Severe,Other,1
+09/06/2024 01:26,4613,Outdoor,Industrial,61.5560047,51.05898131,43,Female,No,Mild,Healthy,0
+09/06/2024 01:11,7437,Indoor,Residential,65.42268782,60.79380005,47,Other,Yes,Mild,Heart Disease,0
+09/06/2024 00:56,4598,Indoor,Industrial,65.8884948,66.81249588,53,Other,Yes,Severe,Healthy,0
+09/06/2024 00:41,9091,Indoor,Residential,71.00220512,80.42444516,50,Male,No,Mild,Heart Disease,0
+09/06/2024 00:26,9264,Indoor,Workplace,55.76714318,24.99854031,62,Female,Yes,Severe,Diabetes,0
+09/06/2024 00:11,7276,Indoor,Industrial,73.33506204,30.62560611,48,Female,No,Severe,Heart Disease,0
+08/06/2024 23:56,1484,Indoor,Workplace,59.74261572,87.76571703,19,Female,Yes,Severe,Other,0
+08/06/2024 23:41,9614,Outdoor,Industrial,85.594368,26.29870716,32,Female,Yes,Mild,Other,1
+08/06/2024 23:26,3407,Indoor,Industrial,49.86888213,78.34738641,19,Other,No,Severe,Diabetes,0
+08/06/2024 23:11,3427,Outdoor,Recreational,57.42640634,86.62022726,29,Male,Yes,Normal,Diabetes,0
+08/06/2024 22:56,7455,Outdoor,Traffic,44.70710756,76.06803263,35,Other,No,Moderate,Heart Disease,0
+08/06/2024 22:41,8184,Outdoor,Industrial,94.6485133,39.93552619,25,Other,Yes,Severe,Other,1
+08/06/2024 22:26,5242,Indoor,Industrial,52.73091335,42.16383019,20,Female,Yes,Mild,Heart Disease,0
+08/06/2024 22:11,1385,Outdoor,Workplace,72.60050674,58.8483276,52,Male,No,Mild,Heart Disease,0
+08/06/2024 21:56,3127,Indoor,Residential,72.27035544,95.02998438,50,Male,No,Moderate,Diabetes,0
+08/06/2024 21:41,3335,Outdoor,Workplace,55.93997847,94.86766385,48,Other,No,Normal,Heart Disease,0
+08/06/2024 21:26,5517,Indoor,Traffic,72.73034591,65.97866595,21,Other,Yes,Normal,Heart Disease,0
+08/06/2024 21:11,5595,Outdoor,Industrial,54.31010088,28.11225282,40,Female,Yes,Normal,Diabetes,0
+08/06/2024 20:56,6985,Indoor,Workplace,56.86446855,63.24618756,54,Male,Yes,Moderate,Diabetes,0
+08/06/2024 20:41,6358,Indoor,Residential,49.38099597,55.84500907,62,Other,Yes,Normal,Hypertension,0
+08/06/2024 20:26,7627,Indoor,Traffic,71.69658757,60.45491894,62,Other,No,Severe,Heart Disease,0
+08/06/2024 20:11,3781,Indoor,Traffic,45.41142441,26.87138862,52,Other,No,Mild,Hypertension,0
+08/06/2024 19:56,3942,Outdoor,Industrial,68.93458026,64.87671616,57,Female,Yes,Mild,Diabetes,0
+08/06/2024 19:41,8236,Outdoor,Traffic,63.76395238,29.93375591,55,Female,No,Severe,Other,0
+08/06/2024 19:26,9263,Outdoor,Residential,82.43025279,9.400375488,18,Male,No,Normal,Hypertension,1
+08/06/2024 19:11,5757,Outdoor,Workplace,65.32611675,64.48805192,20,Female,No,Moderate,Healthy,0
+08/06/2024 18:56,9048,Indoor,Traffic,73.47967583,98.37253805,27,Male,Yes,Severe,Healthy,0
+08/06/2024 18:41,9448,Indoor,Recreational,70.11336164,43.28729932,47,Other,No,Normal,Hypertension,0
+08/06/2024 18:26,2610,Indoor,Workplace,63.96805533,50.54435634,45,Male,No,Severe,Healthy,0
+08/06/2024 18:11,2718,Outdoor,Residential,76.14921911,77.9149937,33,Male,No,Severe,Other,1
+08/06/2024 17:56,2279,Indoor,Residential,68.7989918,83.25270146,21,Other,No,Severe,Heart Disease,0
+08/06/2024 17:41,2853,Indoor,Industrial,73.98694117,62.11044989,62,Other,Yes,Moderate,Other,0
+08/06/2024 17:26,4142,Indoor,Traffic,55.72229718,45.83168376,21,Female,Yes,Severe,Healthy,0
+08/06/2024 17:11,8385,Outdoor,Industrial,70.28277825,86.52234164,40,Other,Yes,Mild,Heart Disease,0
+08/06/2024 16:56,5591,Outdoor,Traffic,73.01754056,35.394836,57,Other,Yes,Severe,Healthy,0
+08/06/2024 16:41,1885,Outdoor,Workplace,54.10996219,49.57672171,40,Other,No,Mild,Hypertension,0
+08/06/2024 16:26,8861,Indoor,Industrial,64.26124777,71.76560311,32,Other,Yes,Normal,Other,0
+08/06/2024 16:11,1946,Outdoor,Industrial,47.61660559,28.6262661,30,Female,No,Moderate,Heart Disease,0
+08/06/2024 15:56,9587,Indoor,Industrial,49.13000022,67.76672999,18,Other,No,Severe,Diabetes,0
+08/06/2024 15:41,5561,Indoor,Industrial,64.40123069,82.77239584,54,Male,No,Mild,Other,0
+08/06/2024 15:26,6665,Indoor,Recreational,83.00234137,93.53078682,41,Male,Yes,Moderate,Diabetes,1
+08/06/2024 15:11,9406,Indoor,Recreational,83.77544523,52.19863358,61,Other,Yes,Mild,Hypertension,1
+08/06/2024 14:56,2980,Indoor,Industrial,61.95089739,51.19708502,18,Male,No,Severe,Healthy,0
+08/06/2024 14:41,6960,Outdoor,Traffic,55.4852048,74.29920093,62,Female,Yes,Normal,Hypertension,0
+08/06/2024 14:26,7950,Outdoor,Industrial,74.27141147,47.64392489,62,Other,Yes,Normal,Diabetes,0
+08/06/2024 14:11,4019,Outdoor,Recreational,44.96444317,53.82531828,30,Other,Yes,Mild,Heart Disease,0
+08/06/2024 13:56,4876,Indoor,Recreational,60.96824393,66.4420827,55,Female,No,Severe,Hypertension,0
+08/06/2024 13:41,9587,Outdoor,Industrial,57.51825509,67.44601125,34,Other,No,Severe,Healthy,0
+08/06/2024 13:26,2664,Indoor,Industrial,64.13681877,21.85769141,47,Other,Yes,Mild,Heart Disease,0
+08/06/2024 13:11,8872,Indoor,Traffic,78.75318513,36.67185068,37,Female,Yes,Moderate,Heart Disease,1
+08/06/2024 12:56,6939,Indoor,Recreational,39.11701245,23.33973459,59,Male,Yes,Severe,Healthy,0
+08/06/2024 12:41,6757,Outdoor,Industrial,68.1035599,26.64452248,22,Other,No,Mild,Heart Disease,0
+08/06/2024 12:26,6244,Indoor,Residential,68.43235956,37.62579223,58,Other,Yes,Severe,Other,0
+08/06/2024 12:11,7376,Outdoor,Industrial,64.39011708,55.55471965,22,Other,No,Normal,Heart Disease,0
+08/06/2024 11:56,7017,Indoor,Recreational,67.91378239,57.49057689,63,Male,Yes,Severe,Diabetes,0
+08/06/2024 11:41,9396,Outdoor,Residential,70.14263207,16.96482417,54,Female,No,Mild,Other,0
+08/06/2024 11:26,9451,Outdoor,Residential,66.58331708,41.33650986,33,Female,No,Normal,Hypertension,0
+08/06/2024 11:11,8570,Outdoor,Residential,44.64994063,29.63592449,38,Other,No,Moderate,Heart Disease,0
+08/06/2024 10:56,6292,Outdoor,Traffic,56.10800237,55.99538468,51,Female,Yes,Mild,Healthy,0
+08/06/2024 10:41,6280,Indoor,Industrial,80.97594254,46.87480721,63,Male,Yes,Severe,Other,1
+08/06/2024 10:26,2296,Indoor,Residential,53.32969475,85.17069786,23,Male,No,Normal,Heart Disease,0
+08/06/2024 10:11,5871,Outdoor,Traffic,65.80614164,57.21066383,59,Other,No,Severe,Diabetes,0
+08/06/2024 09:56,6235,Outdoor,Recreational,57.78672351,47.8600865,23,Female,Yes,Normal,Heart Disease,0
+08/06/2024 09:41,2647,Outdoor,Residential,70.94806382,54.75420829,27,Male,Yes,Severe,Heart Disease,0
+08/06/2024 09:26,7041,Outdoor,Industrial,62.9735896,47.12718503,48,Male,Yes,Normal,Other,0
+08/06/2024 09:11,9488,Outdoor,Residential,71.54737844,86.82884275,23,Male,No,Moderate,Diabetes,0
+08/06/2024 08:56,3444,Outdoor,Recreational,68.83036789,53.29506003,20,Male,Yes,Normal,Heart Disease,0
+08/06/2024 08:41,8890,Indoor,Recreational,61.10223224,69.12094708,61,Female,Yes,Moderate,Other,0
+08/06/2024 08:26,5247,Indoor,Residential,42.70905571,75.79330663,42,Other,No,Severe,Healthy,0
+08/06/2024 08:11,2736,Outdoor,Industrial,56.33600965,46.78048792,37,Female,Yes,Severe,Heart Disease,0
+08/06/2024 07:56,7589,Indoor,Traffic,52.93709253,23.92725596,52,Other,No,Moderate,Hypertension,0
+08/06/2024 07:41,9799,Indoor,Residential,52.86169959,50.38584048,18,Male,Yes,Mild,Healthy,0
+08/06/2024 07:26,2438,Indoor,Recreational,70.03525611,72.74599956,48,Male,No,Moderate,Heart Disease,0
+08/06/2024 07:11,3193,Outdoor,Traffic,85.24612351,26.09026489,31,Male,No,Mild,Healthy,1
+08/06/2024 06:56,4581,Outdoor,Industrial,40.34822826,65.05615677,20,Other,No,Severe,Hypertension,0
+08/06/2024 06:41,1576,Outdoor,Residential,49.93742751,76.79464649,33,Female,Yes,Mild,Healthy,0
+08/06/2024 06:26,4441,Outdoor,Recreational,67.32091729,87.83227158,31,Male,Yes,Mild,Heart Disease,0
+08/06/2024 06:11,5914,Indoor,Traffic,62.46586191,73.55642315,20,Other,No,Normal,Hypertension,0
+08/06/2024 05:56,1531,Outdoor,Workplace,69.53317947,65.85404413,23,Male,Yes,Mild,Diabetes,0
+08/06/2024 05:41,9541,Indoor,Traffic,64.53215104,63.72159879,26,Other,Yes,Normal,Other,0
+08/06/2024 05:26,8219,Outdoor,Recreational,78.17544602,35.84172881,50,Female,No,Mild,Other,1
+08/06/2024 05:11,5860,Indoor,Recreational,70.70335858,41.06897673,58,Male,Yes,Mild,Heart Disease,0
+08/06/2024 04:56,5216,Outdoor,Workplace,73.76957568,25.3555701,29,Male,No,Severe,Other,0
+08/06/2024 04:41,5157,Indoor,Workplace,75.17945239,61.43889317,19,Female,No,Normal,Other,1
+08/06/2024 04:26,1553,Outdoor,Workplace,53.07384637,68.81442108,60,Male,Yes,Mild,Heart Disease,0
+08/06/2024 04:11,2272,Indoor,Industrial,70.87178511,62.35416577,63,Female,No,Mild,Heart Disease,0
+08/06/2024 03:56,1088,Outdoor,Recreational,71.42858587,65.67355754,20,Female,No,Normal,Healthy,0
+08/06/2024 03:41,6622,Indoor,Residential,61.58310823,75.19331976,30,Male,Yes,Normal,Other,0
+08/06/2024 03:26,7316,Indoor,Industrial,61.5193307,33.45771015,48,Other,No,Severe,Healthy,0
+08/06/2024 03:11,7117,Indoor,Recreational,61.79933338,61.2569085,26,Female,No,Normal,Other,0
+08/06/2024 02:56,5536,Outdoor,Traffic,56.20559836,64.93007795,57,Male,No,Mild,Other,0
+08/06/2024 02:41,9870,Outdoor,Workplace,51.19576981,50.62174521,58,Female,Yes,Moderate,Diabetes,0
+08/06/2024 02:26,7695,Indoor,Traffic,86.4561931,17.48502282,25,Other,No,Severe,Other,1
+08/06/2024 02:11,4296,Indoor,Residential,75.80138793,39.51600516,39,Other,Yes,Normal,Heart Disease,1
+08/06/2024 01:56,7534,Indoor,Industrial,65.25961537,49.83465238,43,Female,Yes,Severe,Other,0
+08/06/2024 01:41,9657,Outdoor,Traffic,50.32578575,62.99194456,33,Other,No,Mild,Hypertension,0
+08/06/2024 01:26,9555,Indoor,Residential,70.45792183,60.6691469,49,Female,Yes,Moderate,Diabetes,0
+08/06/2024 01:11,4239,Indoor,Traffic,61.3585028,98.46638753,52,Other,Yes,Moderate,Healthy,0
+08/06/2024 00:56,9610,Outdoor,Recreational,63.433809,78.87342738,53,Male,Yes,Severe,Other,0
+08/06/2024 00:41,6833,Outdoor,Traffic,87.47854786,59.53960409,18,Other,Yes,Mild,Other,1
+08/06/2024 00:26,8894,Indoor,Workplace,83.97936081,62.42359702,24,Other,Yes,Moderate,Healthy,1
+08/06/2024 00:11,1525,Outdoor,Workplace,41.34947635,85.41354281,57,Female,Yes,Normal,Diabetes,0
+07/06/2024 23:56,7866,Indoor,Recreational,68.65314197,86.18164209,59,Male,Yes,Mild,Healthy,0
+07/06/2024 23:41,7130,Outdoor,Industrial,66.65574322,66.68188801,28,Male,No,Severe,Other,0
+07/06/2024 23:26,1221,Outdoor,Workplace,68.55154277,94.66625669,28,Other,No,Mild,Healthy,0
+07/06/2024 23:11,7280,Indoor,Traffic,59.42180417,42.04008006,30,Male,Yes,Severe,Healthy,0
+07/06/2024 22:56,7212,Outdoor,Workplace,65.02894665,59.42297466,58,Male,No,Severe,Other,0
+07/06/2024 22:41,5902,Indoor,Recreational,54.06108631,123.3248066,21,Other,Yes,Normal,Diabetes,0
+07/06/2024 22:26,4692,Outdoor,Industrial,75.37502586,74.20565071,42,Male,No,Moderate,Heart Disease,1
+07/06/2024 22:11,4807,Indoor,Recreational,75.06943011,57.18068722,20,Other,Yes,Mild,Diabetes,1
+07/06/2024 21:56,9871,Indoor,Traffic,81.40981846,62.07873447,27,Male,No,Mild,Heart Disease,1
+07/06/2024 21:41,1155,Indoor,Workplace,57.26271701,63.59287501,22,Male,Yes,Normal,Other,0
+07/06/2024 21:26,7640,Indoor,Traffic,67.69684865,93.39877842,29,Male,No,Mild,Other,0
+07/06/2024 21:11,9387,Indoor,Workplace,85.43435937,76.08396799,51,Female,No,Severe,Heart Disease,1
+07/06/2024 20:56,7820,Indoor,Workplace,58.24677234,58.42560653,29,Other,No,Mild,Other,0
+07/06/2024 20:41,5571,Indoor,Residential,54.90598937,26.47939168,55,Male,Yes,Mild,Other,0
+07/06/2024 20:26,7372,Indoor,Recreational,68.00300398,45.46613568,32,Male,Yes,Severe,Heart Disease,0
+07/06/2024 20:11,8575,Indoor,Residential,76.6511715,61.20130841,38,Other,No,Normal,Healthy,1
+07/06/2024 19:56,6025,Indoor,Traffic,58.32890741,57.40789821,21,Other,No,Mild,Diabetes,0
+07/06/2024 19:41,1490,Indoor,Traffic,84.32852214,81.91724617,28,Other,Yes,Normal,Diabetes,1
+07/06/2024 19:26,7164,Indoor,Industrial,55.84247097,55.37293928,27,Male,Yes,Mild,Hypertension,0
+07/06/2024 19:11,8110,Indoor,Workplace,71.58173875,76.77338472,24,Other,Yes,Moderate,Other,0
+07/06/2024 18:56,8591,Outdoor,Residential,58.2333882,30.5585083,26,Female,No,Moderate,Healthy,0
+07/06/2024 18:41,7251,Outdoor,Industrial,60.34076798,49.51033108,35,Male,Yes,Severe,Healthy,0
+07/06/2024 18:26,4421,Outdoor,Residential,73.2262902,73.89359187,64,Male,Yes,Mild,Other,0
+07/06/2024 18:11,7451,Outdoor,Traffic,62.90781668,101.3457214,44,Other,Yes,Mild,Diabetes,0
+07/06/2024 17:56,9770,Indoor,Industrial,49.80862178,57.15969759,60,Other,No,Normal,Hypertension,0
+07/06/2024 17:41,7560,Indoor,Recreational,57.01344364,76.57584955,45,Female,No,Severe,Hypertension,0
+07/06/2024 17:26,5106,Indoor,Industrial,72.21693713,86.72292446,49,Female,Yes,Moderate,Hypertension,0
+07/06/2024 17:11,4496,Outdoor,Workplace,68.97479748,79.06403327,27,Male,Yes,Severe,Heart Disease,0
+07/06/2024 16:56,8512,Indoor,Traffic,72.2556691,74.96546724,51,Male,No,Moderate,Heart Disease,0
+07/06/2024 16:41,8399,Outdoor,Recreational,58.97325064,52.92080251,22,Other,No,Severe,Other,0
+07/06/2024 16:26,6424,Indoor,Traffic,54.40041916,90.38959373,37,Other,Yes,Mild,Hypertension,0
+07/06/2024 16:11,9379,Indoor,Workplace,56.81195407,33.63932892,47,Female,Yes,Mild,Healthy,0
+07/06/2024 15:56,2503,Indoor,Traffic,57.49649798,34.66125519,50,Female,Yes,Normal,Heart Disease,0
+07/06/2024 15:41,5111,Indoor,Recreational,64.53165674,97.34791942,36,Female,No,Normal,Heart Disease,0
+07/06/2024 15:26,3771,Outdoor,Industrial,53.16027345,67.23239798,19,Other,No,Normal,Other,0
+07/06/2024 15:11,2347,Indoor,Industrial,75.65416642,35.24040053,35,Female,Yes,Mild,Heart Disease,1
+07/06/2024 14:56,1308,Outdoor,Industrial,70.15744663,31.32784191,31,Other,No,Severe,Other,0
+07/06/2024 14:41,4566,Outdoor,Recreational,56.35367283,30.48427688,22,Other,No,Mild,Healthy,0
+07/06/2024 14:26,8616,Outdoor,Industrial,63.01412545,100.6871291,35,Female,No,Normal,Other,0
+07/06/2024 14:11,6786,Indoor,Residential,56.1328485,58.37510016,62,Other,Yes,Moderate,Hypertension,0
+07/06/2024 13:56,3526,Outdoor,Residential,63.50688222,49.65389285,32,Other,No,Mild,Heart Disease,0
+07/06/2024 13:41,9405,Outdoor,Industrial,56.65175981,92.575649,40,Other,Yes,Mild,Diabetes,0
+07/06/2024 13:26,5230,Outdoor,Workplace,86.42335643,65.02552673,21,Female,Yes,Severe,Other,1
+07/06/2024 13:11,5506,Outdoor,Recreational,49.09223515,53.45147079,51,Other,No,Mild,Healthy,0
+07/06/2024 12:56,7722,Indoor,Workplace,52.30443531,81.21746414,41,Other,Yes,Normal,Hypertension,0
+07/06/2024 12:41,5689,Indoor,Traffic,62.62206982,71.95416576,29,Female,Yes,Mild,Other,0
+07/06/2024 12:26,5365,Outdoor,Workplace,65.93733728,72.0091529,46,Other,Yes,Severe,Hypertension,0
+07/06/2024 12:11,5480,Indoor,Workplace,66.00135496,54.59564511,23,Female,No,Mild,Healthy,0
+07/06/2024 11:56,5114,Outdoor,Workplace,74.17774093,42.0931425,41,Female,No,Moderate,Hypertension,0
+07/06/2024 11:41,3370,Outdoor,Industrial,69.42509021,39.79061915,64,Other,Yes,Normal,Healthy,0
+07/06/2024 11:26,1853,Outdoor,Traffic,55.78296249,62.05818668,39,Other,No,Severe,Heart Disease,0
+07/06/2024 11:11,7830,Indoor,Traffic,75.62123172,60.15053778,34,Male,Yes,Normal,Hypertension,1
+07/06/2024 10:56,6096,Outdoor,Industrial,71.28261743,69.65616761,49,Male,No,Normal,Diabetes,0
+07/06/2024 10:41,9384,Indoor,Residential,78.86845948,51.5036049,42,Other,No,Normal,Diabetes,1
+07/06/2024 10:26,1988,Outdoor,Residential,65.51362327,85.6061346,43,Female,No,Mild,Diabetes,0
+07/06/2024 10:11,2010,Outdoor,Traffic,75.90105321,33.48913592,44,Female,Yes,Normal,Other,1
+07/06/2024 09:56,4295,Outdoor,Recreational,37.77331419,68.36097659,24,Male,Yes,Severe,Heart Disease,0
+07/06/2024 09:41,4641,Outdoor,Industrial,60.14340046,41.81037624,52,Female,Yes,Mild,Heart Disease,0
+07/06/2024 09:26,1351,Outdoor,Workplace,55.87361886,55.13658803,51,Male,No,Severe,Healthy,0
+07/06/2024 09:11,4151,Indoor,Recreational,72.01878588,41.58527486,44,Female,Yes,Mild,Healthy,0
+07/06/2024 08:56,1175,Outdoor,Residential,57.60423967,52.64724452,25,Other,No,Normal,Other,0
+07/06/2024 08:41,1165,Indoor,Traffic,74.75626098,38.59418884,52,Female,No,Normal,Hypertension,0
+07/06/2024 08:26,9615,Indoor,Residential,72.87389891,39.98334169,35,Female,Yes,Mild,Other,0
+07/06/2024 08:11,7752,Indoor,Traffic,58.92602928,79.27528615,40,Female,No,Moderate,Diabetes,0
+07/06/2024 07:56,7820,Outdoor,Industrial,67.38756783,32.21138814,47,Male,No,Moderate,Heart Disease,0
+07/06/2024 07:41,9946,Outdoor,Traffic,62.85542297,72.99915721,33,Male,No,Normal,Healthy,0
+07/06/2024 07:26,6353,Indoor,Recreational,66.16359862,77.03661116,48,Female,Yes,Severe,Healthy,0
+07/06/2024 07:11,8247,Indoor,Recreational,72.49643223,74.60828447,55,Other,No,Mild,Heart Disease,0
+07/06/2024 06:56,4835,Indoor,Recreational,61.74054078,59.4674076,51,Other,No,Severe,Diabetes,0
+07/06/2024 06:41,5241,Outdoor,Recreational,48.43914834,38.15831467,18,Other,Yes,Mild,Diabetes,0
+07/06/2024 06:26,5694,Indoor,Workplace,70.95602962,29.09563385,26,Male,No,Normal,Diabetes,0
+07/06/2024 06:11,4511,Outdoor,Residential,75.72469618,36.39850387,53,Other,Yes,Moderate,Heart Disease,1
+07/06/2024 05:56,3275,Indoor,Industrial,48.00252614,36.52358623,61,Male,Yes,Moderate,Other,0
+07/06/2024 05:41,4488,Indoor,Industrial,64.63456261,65.50001777,21,Female,No,Moderate,Diabetes,0
+07/06/2024 05:26,3988,Outdoor,Industrial,55.68270928,31.68935038,62,Male,No,Severe,Other,0
+07/06/2024 05:11,6331,Outdoor,Residential,76.26937742,55.86543066,37,Other,No,Normal,Hypertension,1
+07/06/2024 04:56,9097,Indoor,Traffic,76.8245873,60.80339747,62,Female,No,Normal,Healthy,1
+07/06/2024 04:41,9823,Outdoor,Industrial,56.90318012,53.93871156,34,Female,No,Moderate,Other,0
+07/06/2024 04:26,7025,Indoor,Industrial,51.84383696,54.58925487,61,Female,Yes,Severe,Hypertension,0
+07/06/2024 04:11,2737,Outdoor,Workplace,67.44696612,85.5273812,27,Female,No,Severe,Heart Disease,0
+07/06/2024 03:56,6285,Outdoor,Industrial,53.90861021,69.99423501,63,Other,No,Normal,Hypertension,0
+07/06/2024 03:41,4499,Indoor,Industrial,73.57760243,74.06086027,60,Female,Yes,Mild,Hypertension,0
+07/06/2024 03:26,4838,Indoor,Traffic,63.68824738,52.56776412,57,Male,No,Severe,Healthy,0
+07/06/2024 03:11,2800,Indoor,Industrial,81.05501532,75.69053142,30,Female,Yes,Severe,Hypertension,1
+07/06/2024 02:56,7001,Outdoor,Industrial,81.49946497,66.07405178,55,Male,No,Moderate,Hypertension,1
+07/06/2024 02:41,5413,Outdoor,Residential,80.52047609,64.20353383,61,Female,No,Normal,Healthy,1
+07/06/2024 02:26,1544,Indoor,Workplace,69.02937541,52.17270507,33,Other,No,Mild,Heart Disease,0
+07/06/2024 02:11,3699,Indoor,Residential,55.54242371,64.73592277,56,Female,No,Mild,Diabetes,0
+07/06/2024 01:56,1703,Indoor,Industrial,50.16876685,102.1661615,50,Male,Yes,Severe,Other,0
+07/06/2024 01:41,5683,Outdoor,Workplace,70.94613276,72.07132955,44,Other,Yes,Moderate,Other,0
+07/06/2024 01:26,8145,Indoor,Traffic,71.69366528,94.18223461,54,Other,No,Mild,Hypertension,0
+07/06/2024 01:11,5669,Outdoor,Residential,67.62024881,22.26108259,33,Other,Yes,Mild,Diabetes,0
+07/06/2024 00:56,1372,Indoor,Traffic,51.71133933,61.44601822,32,Other,Yes,Normal,Diabetes,0
+07/06/2024 00:41,4154,Indoor,Industrial,57.02356554,76.41944699,33,Other,Yes,Mild,Hypertension,0
+07/06/2024 00:26,2468,Outdoor,Industrial,65.83321531,67.73359284,23,Male,No,Moderate,Other,0
+07/06/2024 00:11,5157,Indoor,Workplace,58.86868022,70.30040139,46,Female,Yes,Severe,Other,0
+06/06/2024 23:56,3661,Outdoor,Traffic,57.2411897,52.22506933,57,Male,No,Severe,Diabetes,0
+06/06/2024 23:41,1094,Indoor,Industrial,55.33462113,84.22598741,34,Male,Yes,Moderate,Diabetes,0
+06/06/2024 23:26,5529,Outdoor,Traffic,63.64684659,27.98455605,57,Female,No,Normal,Hypertension,0
+06/06/2024 23:11,4190,Outdoor,Traffic,62.92546683,57.00812922,24,Female,No,Normal,Other,0
+06/06/2024 22:56,2926,Outdoor,Workplace,56.73354679,62.48397599,51,Female,No,Severe,Other,0
+06/06/2024 22:41,6033,Indoor,Workplace,65.10252657,48.54380925,62,Other,Yes,Normal,Hypertension,0
+06/06/2024 22:26,1672,Indoor,Industrial,67.49436689,60.55874363,53,Other,Yes,Moderate,Hypertension,0
+06/06/2024 22:11,1238,Indoor,Industrial,68.52951581,20.70501957,43,Other,No,Normal,Heart Disease,0
+06/06/2024 21:56,9937,Outdoor,Traffic,55.42577552,34.0721041,43,Other,Yes,Moderate,Diabetes,0
+06/06/2024 21:41,3786,Outdoor,Residential,61.92870291,85.40478477,28,Female,Yes,Moderate,Diabetes,0
+06/06/2024 21:26,6046,Indoor,Industrial,65.16042486,64.8682279,42,Female,Yes,Normal,Diabetes,0
+06/06/2024 21:11,7920,Indoor,Traffic,66.25177243,52.42399025,53,Female,Yes,Mild,Healthy,0
+06/06/2024 20:56,5901,Outdoor,Traffic,51.65004598,79.59514904,59,Other,No,Normal,Healthy,0
+06/06/2024 20:41,7497,Indoor,Recreational,61.58788828,87.7436938,19,Female,No,Moderate,Hypertension,0
+06/06/2024 20:26,8979,Outdoor,Recreational,70.92719977,96.19457299,58,Male,Yes,Severe,Heart Disease,0
+06/06/2024 20:11,5413,Indoor,Residential,59.0613094,22.26082854,45,Female,No,Severe,Healthy,0
+06/06/2024 19:56,7890,Indoor,Workplace,68.55656291,87.65738958,18,Other,No,Severe,Diabetes,0
+06/06/2024 19:41,1808,Indoor,Residential,65.14609165,36.78068606,23,Female,Yes,Mild,Heart Disease,0
+06/06/2024 19:26,2590,Outdoor,Residential,60.40096082,66.03310009,57,Male,No,Normal,Other,0
+06/06/2024 19:11,1718,Indoor,Industrial,77.61707323,72.22656757,53,Female,No,Mild,Hypertension,1
+06/06/2024 18:56,3446,Indoor,Traffic,61.9732397,92.17756283,18,Other,Yes,Moderate,Healthy,0
+06/06/2024 18:41,4549,Outdoor,Residential,62.8960164,69.3857637,32,Other,Yes,Normal,Heart Disease,0
+06/06/2024 18:26,8610,Indoor,Workplace,60.1522682,65.57978181,18,Male,Yes,Normal,Healthy,0
+06/06/2024 18:11,4757,Outdoor,Traffic,79.80476734,43.24409912,36,Male,Yes,Severe,Healthy,1
+06/06/2024 17:56,8245,Indoor,Industrial,78.90735116,26.24688657,42,Other,Yes,Mild,Hypertension,1
+06/06/2024 17:41,3658,Indoor,Recreational,76.46772455,42.72223075,31,Male,Yes,Normal,Healthy,1
+06/06/2024 17:26,1275,Outdoor,Residential,73.69473758,88.13201175,39,Male,No,Severe,Hypertension,0
+06/06/2024 17:11,1742,Outdoor,Traffic,56.15803727,60.65623473,40,Female,Yes,Mild,Hypertension,0
+06/06/2024 16:56,7212,Outdoor,Recreational,60.50196259,93.22499928,24,Male,No,Mild,Other,0
+06/06/2024 16:41,4232,Indoor,Industrial,57.29326168,45.65144803,51,Other,Yes,Moderate,Diabetes,0
+06/06/2024 16:26,9347,Outdoor,Workplace,75.30328472,75.70750482,28,Male,No,Normal,Other,1
+06/06/2024 16:11,3228,Outdoor,Industrial,88.35586371,63.35527956,33,Male,Yes,Mild,Healthy,1
+06/06/2024 15:56,7819,Indoor,Workplace,71.79261092,85.90515611,64,Male,Yes,Mild,Other,0
+06/06/2024 15:41,8345,Indoor,Workplace,81.76009426,55.5336492,55,Male,Yes,Mild,Heart Disease,1
+06/06/2024 15:26,6770,Indoor,Workplace,69.57364742,57.44996642,26,Male,Yes,Mild,Other,0
+06/06/2024 15:11,7777,Indoor,Industrial,68.16773598,84.3423634,21,Male,Yes,Moderate,Other,0
+06/06/2024 14:56,7833,Outdoor,Residential,59.19894292,18.20746213,62,Other,No,Normal,Other,0
+06/06/2024 14:41,5715,Indoor,Recreational,71.13027101,57.13729725,57,Female,Yes,Normal,Hypertension,0
+06/06/2024 14:26,3079,Indoor,Traffic,74.12976964,26.77849433,52,Other,No,Moderate,Diabetes,0
+06/06/2024 14:11,8190,Outdoor,Residential,75.53716391,59.4107764,40,Female,Yes,Normal,Other,1
+06/06/2024 13:56,7316,Indoor,Residential,66.0342686,51.59204145,41,Female,Yes,Moderate,Other,0
+06/06/2024 13:41,4881,Outdoor,Traffic,66.97905079,72.04498732,21,Other,Yes,Severe,Diabetes,0
+06/06/2024 13:26,2439,Indoor,Traffic,64.38999497,69.32439644,47,Male,Yes,Normal,Other,0
+06/06/2024 13:11,4542,Outdoor,Recreational,59.35390024,54.28796254,57,Other,Yes,Severe,Diabetes,0
+06/06/2024 12:56,4639,Outdoor,Residential,73.81237449,40.76537919,49,Male,Yes,Mild,Other,0
+06/06/2024 12:41,3356,Outdoor,Recreational,46.04743973,61.56659834,55,Female,No,Moderate,Other,0
+06/06/2024 12:26,6546,Outdoor,Residential,48.27619437,86.10088336,51,Female,No,Normal,Heart Disease,0
+06/06/2024 12:11,3897,Outdoor,Traffic,59.53031138,40.39443978,51,Female,No,Mild,Heart Disease,0
+06/06/2024 11:56,4954,Indoor,Workplace,52.26405525,29.93492584,48,Male,Yes,Severe,Heart Disease,0
+06/06/2024 11:41,1764,Indoor,Recreational,75.85997296,23.13638692,48,Male,Yes,Moderate,Hypertension,1
+06/06/2024 11:26,1086,Indoor,Recreational,60.57276271,29.30714156,49,Female,Yes,Mild,Healthy,0
+06/06/2024 11:11,4349,Indoor,Workplace,73.77055767,59.85489893,53,Female,Yes,Severe,Heart Disease,0
+06/06/2024 10:56,3145,Outdoor,Residential,78.04756981,31.89187471,39,Other,Yes,Moderate,Healthy,1
+06/06/2024 10:41,4042,Indoor,Workplace,65.61368577,52.50088946,36,Male,Yes,Moderate,Diabetes,0
+06/06/2024 10:26,2487,Indoor,Workplace,68.27082589,69.23271927,62,Female,Yes,Severe,Healthy,0
+06/06/2024 10:11,8808,Outdoor,Industrial,77.26725406,17.42875226,52,Female,Yes,Moderate,Diabetes,1
+06/06/2024 09:56,6104,Outdoor,Residential,74.99244103,79.73645196,55,Other,Yes,Mild,Healthy,0
+06/06/2024 09:41,5018,Indoor,Workplace,44.29073745,88.54896769,59,Other,No,Normal,Diabetes,0
+06/06/2024 09:26,6161,Indoor,Workplace,60.87758127,97.29172611,32,Male,No,Severe,Heart Disease,0
+06/06/2024 09:11,8987,Indoor,Industrial,70.12605172,89.4811211,55,Other,No,Severe,Heart Disease,0
+06/06/2024 08:56,7622,Outdoor,Industrial,67.1568146,108.2540504,25,Male,No,Normal,Heart Disease,0
+06/06/2024 08:41,3543,Indoor,Industrial,55.07427081,64.60107658,49,Female,No,Moderate,Diabetes,0
+06/06/2024 08:26,5311,Indoor,Traffic,47.92454429,76.12007483,53,Female,No,Moderate,Hypertension,0
+06/06/2024 08:11,7078,Outdoor,Recreational,71.11219077,54.97644683,54,Female,Yes,Normal,Healthy,0
+06/06/2024 07:56,9672,Indoor,Industrial,56.56602391,73.25578073,47,Other,No,Normal,Diabetes,0
+06/06/2024 07:41,8356,Indoor,Residential,63.65663615,62.74959192,40,Female,Yes,Severe,Heart Disease,0
+06/06/2024 07:26,5029,Outdoor,Traffic,66.44732449,26.74009384,60,Male,No,Normal,Healthy,0
+06/06/2024 07:11,8038,Indoor,Recreational,63.37234888,29.91436031,24,Female,No,Moderate,Heart Disease,0
+06/06/2024 06:56,8319,Indoor,Traffic,55.68247524,96.17981573,39,Male,No,Normal,Hypertension,0
+06/06/2024 06:41,2069,Outdoor,Industrial,64.17283122,63.10286949,53,Other,No,Normal,Other,0
+06/06/2024 06:26,9830,Indoor,Workplace,59.555419,88.40653898,56,Other,No,Mild,Heart Disease,0
+06/06/2024 06:11,1909,Indoor,Workplace,81.55787886,48.66445585,45,Other,Yes,Moderate,Other,1
+06/06/2024 05:56,2699,Indoor,Traffic,67.13364948,42.15076471,29,Other,No,Normal,Hypertension,0
+06/06/2024 05:41,4417,Outdoor,Recreational,90.66438428,58.28364478,20,Other,No,Mild,Other,1
+06/06/2024 05:26,9156,Indoor,Recreational,51.81589929,75.70364084,62,Male,No,Mild,Heart Disease,0
+06/06/2024 05:11,2475,Outdoor,Residential,61.9911711,87.84169722,55,Other,Yes,Moderate,Hypertension,0
+06/06/2024 04:56,8197,Outdoor,Industrial,61.95675337,63.72450298,61,Female,Yes,Severe,Healthy,0
+06/06/2024 04:41,2915,Indoor,Workplace,57.23143017,73.07308531,53,Female,No,Severe,Other,0
+06/06/2024 04:26,7463,Outdoor,Recreational,61.48757372,57.12699661,38,Male,Yes,Normal,Other,0
+06/06/2024 04:11,9823,Outdoor,Residential,60.20031361,89.11646653,39,Other,No,Normal,Diabetes,0
+06/06/2024 03:56,9967,Indoor,Traffic,55.21295339,89.4205764,40,Other,Yes,Moderate,Heart Disease,0
+06/06/2024 03:41,6983,Outdoor,Residential,82.94634243,44.29503986,24,Other,Yes,Severe,Heart Disease,1
+06/06/2024 03:26,5071,Outdoor,Workplace,64.16560478,67.66151504,24,Other,Yes,Mild,Other,0
+06/06/2024 03:11,8198,Outdoor,Industrial,74.26974537,40.08847134,38,Male,Yes,Moderate,Other,0
+06/06/2024 02:56,1620,Indoor,Residential,74.90235601,76.32539185,61,Male,Yes,Severe,Other,0
+06/06/2024 02:41,7532,Outdoor,Traffic,79.28111442,52.11280144,31,Other,No,Mild,Heart Disease,1
+06/06/2024 02:26,8523,Outdoor,Residential,55.17688127,44.05443192,59,Male,No,Normal,Diabetes,0
+06/06/2024 02:11,6523,Indoor,Traffic,77.66377369,19.19980358,24,Other,No,Moderate,Other,1
+06/06/2024 01:56,3703,Outdoor,Residential,64.25970483,81.66000977,22,Other,No,Moderate,Heart Disease,0
+06/06/2024 01:41,1874,Indoor,Workplace,85.35686429,63.85619295,54,Female,Yes,Normal,Heart Disease,1
+06/06/2024 01:26,5694,Indoor,Recreational,70.2483514,65.02149125,36,Male,Yes,Severe,Diabetes,0
+06/06/2024 01:11,8306,Indoor,Industrial,53.47214264,76.63618813,42,Female,Yes,Mild,Diabetes,0
+06/06/2024 00:56,6744,Indoor,Traffic,77.57851547,44.76335799,29,Female,No,Mild,Diabetes,1
+06/06/2024 00:41,3415,Indoor,Workplace,76.59258131,41.63588921,26,Male,Yes,Severe,Healthy,1
+06/06/2024 00:26,9918,Indoor,Traffic,52.08239216,70.98617692,18,Female,No,Moderate,Healthy,0
+06/06/2024 00:11,4516,Indoor,Recreational,72.44898071,83.16231895,60,Female,No,Severe,Other,0
+05/06/2024 23:56,7942,Outdoor,Traffic,81.0351943,70.64227026,46,Female,Yes,Severe,Heart Disease,1
+05/06/2024 23:41,7874,Outdoor,Recreational,69.78864378,92.05545135,60,Other,No,Severe,Diabetes,0
+05/06/2024 23:26,9412,Outdoor,Recreational,55.26194797,71.28786282,36,Female,No,Mild,Healthy,0
+05/06/2024 23:11,2228,Indoor,Traffic,75.10296584,70.19707244,32,Other,No,Mild,Other,1
+05/06/2024 22:56,2516,Indoor,Workplace,71.65492503,76.44449186,53,Male,No,Normal,Heart Disease,0
+05/06/2024 22:41,1482,Indoor,Residential,62.69252985,55.36133746,35,Other,No,Mild,Diabetes,0
+05/06/2024 22:26,3620,Outdoor,Workplace,60.39757959,35.15030378,39,Other,Yes,Normal,Healthy,0
+05/06/2024 22:11,3440,Indoor,Workplace,71.60810302,60.38020335,39,Other,Yes,Mild,Healthy,0
+05/06/2024 21:56,7961,Indoor,Workplace,55.8930123,74.27697709,47,Female,Yes,Normal,Heart Disease,0
+05/06/2024 21:41,9206,Indoor,Traffic,67.01834452,42.81049252,24,Male,No,Severe,Healthy,0
+05/06/2024 21:26,7423,Outdoor,Residential,76.98657518,31.87870842,23,Female,Yes,Moderate,Heart Disease,1
+05/06/2024 21:11,1634,Indoor,Residential,80.19856277,45.48017456,30,Female,No,Severe,Diabetes,1
+05/06/2024 20:56,7607,Indoor,Recreational,59.74677339,86.70700585,31,Other,No,Moderate,Heart Disease,0
+05/06/2024 20:41,2302,Indoor,Residential,49.13265414,69.9130068,19,Female,No,Severe,Diabetes,0
+05/06/2024 20:26,6622,Outdoor,Workplace,57.92760046,57.48035717,59,Other,No,Moderate,Hypertension,0
+05/06/2024 20:11,2683,Outdoor,Traffic,73.16392157,40.64609365,33,Male,Yes,Mild,Healthy,0
+05/06/2024 19:56,1556,Outdoor,Residential,57.59210366,65.50601325,56,Male,Yes,Moderate,Hypertension,0
+05/06/2024 19:41,5214,Indoor,Recreational,75.82721111,63.70320379,63,Other,No,Moderate,Heart Disease,1
+05/06/2024 19:26,1291,Indoor,Residential,57.57081697,69.12511393,50,Male,Yes,Normal,Diabetes,0
+05/06/2024 19:11,2928,Indoor,Traffic,59.42650136,110.083212,18,Female,No,Severe,Healthy,0
+05/06/2024 18:56,2450,Outdoor,Workplace,63.2712664,69.87740634,47,Female,Yes,Normal,Other,0
+05/06/2024 18:41,5540,Indoor,Residential,74.4458268,46.1185169,28,Other,No,Moderate,Healthy,0
+05/06/2024 18:26,1917,Indoor,Traffic,49.16385271,32.29842789,31,Male,No,Moderate,Other,0
+05/06/2024 18:11,3692,Indoor,Recreational,67.79982539,48.80934096,54,Female,No,Mild,Healthy,0
+05/06/2024 17:56,9803,Outdoor,Workplace,67.62075967,50.86183464,54,Female,No,Mild,Diabetes,0
+05/06/2024 17:41,6084,Indoor,Recreational,55.08583173,76.57557211,52,Male,No,Severe,Heart Disease,0
+05/06/2024 17:26,2227,Outdoor,Industrial,68.5606206,47.63691699,31,Female,No,Severe,Diabetes,0
+05/06/2024 17:11,2570,Outdoor,Recreational,63.20082311,40.16257047,39,Male,Yes,Severe,Healthy,0
+05/06/2024 16:56,7403,Indoor,Recreational,53.6879332,70.76083477,48,Female,Yes,Mild,Other,0
+05/06/2024 16:41,4280,Indoor,Residential,64.26063402,47.62181185,35,Male,Yes,Mild,Diabetes,0
+05/06/2024 16:26,3516,Outdoor,Residential,54.57739277,71.53117082,27,Other,No,Normal,Diabetes,0
+05/06/2024 16:11,1337,Outdoor,Recreational,58.59500706,43.07963601,41,Female,Yes,Severe,Other,0
+05/06/2024 15:56,9264,Indoor,Traffic,73.79959711,50.56130312,41,Female,Yes,Severe,Hypertension,0
+05/06/2024 15:41,6197,Outdoor,Industrial,61.87925086,48.36086794,49,Male,Yes,Mild,Healthy,0
+05/06/2024 15:26,3319,Indoor,Residential,73.59470882,68.22644262,54,Other,No,Moderate,Diabetes,0
+05/06/2024 15:11,8402,Outdoor,Workplace,63.43067609,57.1214966,51,Female,Yes,Severe,Diabetes,0
+05/06/2024 14:56,4330,Indoor,Traffic,55.37365781,35.56625708,27,Male,Yes,Normal,Healthy,0
+05/06/2024 14:41,8229,Indoor,Residential,69.79905243,33.89314073,63,Other,Yes,Normal,Other,0
+05/06/2024 14:26,3176,Outdoor,Workplace,70.60161246,53.68106501,31,Male,No,Severe,Healthy,0
+05/06/2024 14:11,9509,Indoor,Workplace,52.6956557,31.69120227,40,Male,No,Mild,Heart Disease,0
+05/06/2024 13:56,2184,Indoor,Recreational,76.35729741,51.71575913,49,Other,No,Mild,Heart Disease,1
+05/06/2024 13:41,3729,Indoor,Industrial,80.20859436,65.12768517,64,Male,No,Severe,Diabetes,1
+05/06/2024 13:26,9612,Outdoor,Residential,71.26675632,36.35055963,29,Female,No,Normal,Heart Disease,0
+05/06/2024 13:11,7707,Indoor,Recreational,65.77374648,76.96837752,58,Female,No,Moderate,Healthy,0
+05/06/2024 12:56,8409,Outdoor,Recreational,85.11695503,87.67183734,41,Other,No,Moderate,Diabetes,1
+05/06/2024 12:41,5130,Indoor,Industrial,70.3905513,81.66965608,51,Female,Yes,Severe,Heart Disease,0
+05/06/2024 12:26,5782,Outdoor,Traffic,66.97223503,73.37626949,64,Other,No,Severe,Other,0
+05/06/2024 12:11,3177,Outdoor,Recreational,81.99898206,68.43667891,37,Male,No,Moderate,Heart Disease,1
+05/06/2024 11:56,7571,Indoor,Traffic,81.02668741,64.79760249,46,Other,No,Mild,Other,1
+05/06/2024 11:41,4657,Outdoor,Industrial,50.60825337,67.39866146,33,Female,No,Severe,Heart Disease,0
+05/06/2024 11:26,8817,Indoor,Recreational,59.9582959,47.90043931,57,Female,No,Moderate,Other,0
+05/06/2024 11:11,1331,Outdoor,Residential,70.85666296,59.49825762,59,Other,No,Moderate,Healthy,0
+05/06/2024 10:56,9377,Indoor,Traffic,77.27349667,62.97208396,26,Female,No,Severe,Healthy,1
+05/06/2024 10:41,5079,Indoor,Industrial,53.34472368,72.82100815,61,Other,No,Normal,Hypertension,0
+05/06/2024 10:26,9469,Outdoor,Workplace,74.07863223,28.19834934,20,Female,Yes,Severe,Healthy,0
+05/06/2024 10:11,6672,Indoor,Recreational,60.95428712,64.22017007,27,Other,Yes,Mild,Heart Disease,0
+05/06/2024 09:56,5739,Indoor,Recreational,72.1746577,81.23903327,57,Female,Yes,Severe,Diabetes,0
+05/06/2024 09:41,5817,Indoor,Recreational,59.33029976,47.94974055,18,Female,No,Moderate,Other,0
+05/06/2024 09:26,3069,Outdoor,Residential,41.67100539,57.81086762,24,Other,Yes,Moderate,Healthy,0
+05/06/2024 09:11,4643,Outdoor,Residential,47.28839282,22.73028077,48,Female,Yes,Mild,Diabetes,0
+05/06/2024 08:56,1485,Indoor,Workplace,53.73919454,61.32760331,58,Female,Yes,Severe,Other,0
+05/06/2024 08:41,1371,Indoor,Recreational,59.08445063,30.22675222,30,Male,No,Moderate,Other,0
+05/06/2024 08:26,3182,Indoor,Industrial,64.92816371,48.93287384,39,Male,No,Severe,Other,0
+05/06/2024 08:11,6255,Outdoor,Residential,59.82409836,59.02312043,33,Male,No,Normal,Healthy,0
+05/06/2024 07:56,9459,Indoor,Residential,64.52627193,47.86363975,39,Other,No,Moderate,Other,0
+05/06/2024 07:41,5490,Outdoor,Workplace,60.03615829,56.71958885,23,Other,Yes,Moderate,Hypertension,0
+05/06/2024 07:26,4301,Outdoor,Industrial,64.95309417,67.46596942,63,Female,Yes,Moderate,Healthy,0
+05/06/2024 07:11,4606,Indoor,Traffic,74.30669257,59.23230041,18,Female,Yes,Normal,Diabetes,0
+05/06/2024 06:56,1277,Indoor,Residential,64.85026971,62.82495825,19,Male,No,Severe,Hypertension,0
+05/06/2024 06:41,8852,Outdoor,Industrial,70.40851107,22.60599933,44,Female,Yes,Normal,Hypertension,0
+05/06/2024 06:26,3069,Outdoor,Traffic,72.14362969,56.84696853,29,Other,No,Moderate,Healthy,0
+05/06/2024 06:11,8206,Indoor,Residential,63.4216258,15.59478956,23,Other,Yes,Moderate,Other,0
+05/06/2024 05:56,2832,Outdoor,Residential,47.09149484,52.0821127,19,Female,No,Moderate,Hypertension,0
+05/06/2024 05:41,3103,Indoor,Industrial,67.52695725,96.82366316,54,Female,No,Normal,Heart Disease,0
+05/06/2024 05:26,7978,Outdoor,Residential,58.25903933,78.72967555,27,Other,No,Normal,Diabetes,0
+05/06/2024 05:11,2147,Outdoor,Traffic,73.62409362,31.44813544,34,Female,Yes,Severe,Heart Disease,0
+05/06/2024 04:56,1657,Outdoor,Residential,78.65658964,49.13707798,34,Other,Yes,Severe,Healthy,1
+05/06/2024 04:41,3444,Indoor,Recreational,62.42458873,56.4806485,23,Male,No,Mild,Hypertension,0
+05/06/2024 04:26,9213,Indoor,Traffic,66.6392853,70.12974952,18,Other,Yes,Moderate,Other,0
+05/06/2024 04:11,7152,Indoor,Industrial,71.67862338,77.01194622,37,Other,No,Severe,Other,0
+05/06/2024 03:56,6512,Outdoor,Industrial,56.87110512,92.58790024,35,Female,Yes,Moderate,Hypertension,0
+05/06/2024 03:41,5799,Indoor,Residential,65.09227282,40.91077404,26,Male,Yes,Normal,Hypertension,0
+05/06/2024 03:26,4808,Indoor,Traffic,49.52492074,64.35966195,49,Other,Yes,Mild,Other,0
+05/06/2024 03:11,4122,Indoor,Industrial,75.44316796,24.73619494,34,Male,No,Moderate,Diabetes,1
+05/06/2024 02:56,8993,Outdoor,Recreational,81.86096846,68.19600283,36,Male,No,Moderate,Healthy,1
+05/06/2024 02:41,4861,Indoor,Workplace,65.99942202,69.85325723,30,Female,Yes,Severe,Diabetes,0
+05/06/2024 02:26,1619,Outdoor,Recreational,57.48197275,60.40098604,18,Other,No,Mild,Other,0
+05/06/2024 02:11,8196,Indoor,Recreational,67.61507313,73.07148148,62,Male,Yes,Mild,Healthy,0
+05/06/2024 01:56,7838,Indoor,Traffic,52.25101017,42.776516,55,Male,Yes,Normal,Healthy,0
+05/06/2024 01:41,8800,Indoor,Residential,60.64061864,33.60925832,61,Other,No,Normal,Other,0
+05/06/2024 01:26,6065,Outdoor,Industrial,60.81808877,40.98605557,55,Other,No,Moderate,Other,0
+05/06/2024 01:11,7367,Outdoor,Residential,59.7827455,67.40059207,53,Other,Yes,Severe,Hypertension,0
+05/06/2024 00:56,8437,Outdoor,Traffic,67.19204279,86.21052627,27,Other,No,Mild,Hypertension,0
+05/06/2024 00:41,5881,Indoor,Traffic,69.3393728,42.82998194,52,Male,Yes,Severe,Hypertension,0
+05/06/2024 00:26,1709,Outdoor,Industrial,65.14257821,46.3318342,43,Male,No,Mild,Other,0
+05/06/2024 00:11,9145,Outdoor,Recreational,74.00908657,62.30530512,50,Female,No,Normal,Diabetes,0
+04/06/2024 23:56,1281,Outdoor,Traffic,68.90345983,128.9242538,57,Other,Yes,Moderate,Healthy,0
+04/06/2024 23:41,8282,Indoor,Industrial,60.05941767,51.04692483,25,Male,Yes,Mild,Diabetes,0
+04/06/2024 23:26,3322,Indoor,Recreational,63.91971945,79.28095635,37,Male,Yes,Moderate,Heart Disease,0
+04/06/2024 23:11,5933,Indoor,Workplace,64.19103832,56.42939137,19,Other,No,Normal,Diabetes,0
+04/06/2024 22:56,5225,Indoor,Workplace,61.16753863,49.19333638,56,Other,No,Moderate,Heart Disease,0
+04/06/2024 22:41,4283,Indoor,Traffic,70.09648791,33.41251358,57,Female,Yes,Normal,Heart Disease,0
+04/06/2024 22:26,2229,Indoor,Industrial,43.68554295,53.92096642,45,Male,No,Severe,Healthy,0
+04/06/2024 22:11,9160,Outdoor,Workplace,65.32109591,76.98542714,46,Male,No,Moderate,Healthy,0
+04/06/2024 21:56,3755,Indoor,Residential,68.09306838,42.60300219,42,Male,Yes,Mild,Heart Disease,0
+04/06/2024 21:41,7068,Outdoor,Residential,70.99052818,61.92688875,43,Male,No,Moderate,Other,0
+04/06/2024 21:26,4300,Outdoor,Industrial,76.08335165,42.92481046,25,Female,No,Severe,Heart Disease,1
+04/06/2024 21:11,7268,Outdoor,Residential,63.59323024,51.64729311,47,Other,No,Severe,Hypertension,0
+04/06/2024 20:56,4208,Indoor,Traffic,73.31766215,29.71131338,18,Other,Yes,Mild,Healthy,0
+04/06/2024 20:41,1262,Indoor,Workplace,71.10560267,106.3648168,45,Other,Yes,Mild,Diabetes,0
+04/06/2024 20:26,1820,Outdoor,Workplace,67.64242993,66.12873013,47,Other,No,Mild,Healthy,0
+04/06/2024 20:11,2230,Indoor,Industrial,51.0861684,53.4712465,30,Male,Yes,Normal,Other,0
+04/06/2024 19:56,9154,Outdoor,Recreational,75.90472913,85.81524645,58,Female,No,Mild,Hypertension,1
+04/06/2024 19:41,4696,Indoor,Workplace,65.96333551,58.19027867,38,Other,Yes,Moderate,Other,0
+04/06/2024 19:26,3553,Indoor,Recreational,62.47958839,69.18248745,38,Other,Yes,Normal,Diabetes,0
+04/06/2024 19:11,4716,Indoor,Recreational,53.43019722,91.2498699,57,Male,Yes,Mild,Healthy,0
+04/06/2024 18:56,8766,Indoor,Industrial,40.55843883,89.4742818,28,Other,No,Mild,Diabetes,0
+04/06/2024 18:41,5014,Outdoor,Recreational,84.02281997,37.12869776,44,Other,Yes,Normal,Hypertension,1
+04/06/2024 18:26,8660,Indoor,Recreational,68.06855546,60.25392557,22,Male,Yes,Normal,Diabetes,0
+04/06/2024 18:11,5969,Outdoor,Industrial,53.93008975,85.54161985,30,Female,Yes,Mild,Heart Disease,0
+04/06/2024 17:56,2281,Indoor,Industrial,52.39323875,38.37318771,29,Male,No,Normal,Hypertension,0
+04/06/2024 17:41,7536,Indoor,Industrial,62.21335027,54.84428813,57,Female,Yes,Mild,Other,0
+04/06/2024 17:26,5499,Outdoor,Industrial,73.08033724,54.11464407,50,Female,No,Mild,Other,0
+04/06/2024 17:11,6972,Indoor,Industrial,71.31171059,70.02188943,47,Female,Yes,Mild,Diabetes,0
+04/06/2024 16:56,5860,Indoor,Residential,71.8196205,76.05042919,20,Male,Yes,Severe,Hypertension,0
+04/06/2024 16:41,5283,Indoor,Traffic,56.12614285,83.00129078,40,Male,No,Normal,Diabetes,0
+04/06/2024 16:26,1721,Outdoor,Workplace,63.21157071,61.65308428,48,Other,Yes,Moderate,Heart Disease,0
+04/06/2024 16:11,8732,Indoor,Industrial,66.27086357,39.18491819,23,Male,Yes,Severe,Hypertension,0
+04/06/2024 15:56,7876,Indoor,Recreational,64.43280002,52.90800934,28,Male,Yes,Severe,Healthy,0
+04/06/2024 15:41,6489,Indoor,Workplace,70.45859938,38.84458592,54,Female,Yes,Moderate,Other,0
+04/06/2024 15:26,8503,Indoor,Industrial,80.73698965,46.35772977,56,Other,Yes,Severe,Diabetes,1
+04/06/2024 15:11,8959,Outdoor,Residential,67.10371651,74.17882361,64,Other,Yes,Normal,Heart Disease,0
+04/06/2024 14:56,2222,Outdoor,Recreational,59.15108062,31.29887464,62,Male,Yes,Normal,Other,0
+04/06/2024 14:41,1931,Indoor,Residential,50.47197647,48.94420217,54,Male,No,Moderate,Hypertension,0
+04/06/2024 14:26,3852,Indoor,Traffic,66.75849824,77.81589126,56,Male,No,Normal,Other,0
+04/06/2024 14:11,6265,Outdoor,Traffic,58.40315594,73.69079049,23,Male,Yes,Severe,Other,0
+04/06/2024 13:56,7877,Outdoor,Industrial,69.28607935,43.95350249,35,Female,No,Severe,Healthy,0
+04/06/2024 13:41,2768,Outdoor,Traffic,68.64641558,42.00336606,18,Other,No,Moderate,Healthy,0
+04/06/2024 13:26,2118,Indoor,Industrial,80.6351842,91.5085572,35,Female,No,Mild,Heart Disease,1
+04/06/2024 13:11,8247,Indoor,Industrial,67.13825429,67.49578096,28,Other,Yes,Normal,Heart Disease,0
+04/06/2024 12:56,8291,Indoor,Traffic,69.55592963,43.74218149,59,Other,No,Mild,Diabetes,0
+04/06/2024 12:41,9179,Outdoor,Traffic,58.44734278,59.17832459,23,Other,No,Severe,Healthy,0
+04/06/2024 12:26,4720,Outdoor,Residential,50.67829508,81.72962294,22,Female,Yes,Severe,Hypertension,0
+04/06/2024 12:11,1280,Indoor,Residential,75.74467785,42.1192079,41,Other,No,Severe,Diabetes,1
+04/06/2024 11:56,1056,Indoor,Residential,77.0651746,41.70269065,19,Female,No,Moderate,Hypertension,1
+04/06/2024 11:41,7468,Outdoor,Recreational,61.69236054,64.41225122,52,Other,Yes,Severe,Healthy,0
+04/06/2024 11:26,1090,Outdoor,Recreational,45.66062468,32.95462351,51,Female,Yes,Normal,Hypertension,0
+04/06/2024 11:11,1003,Indoor,Workplace,78.60866103,46.53486338,59,Other,Yes,Mild,Hypertension,1
+04/06/2024 10:56,9724,Outdoor,Industrial,76.88201324,51.29951993,19,Female,No,Mild,Healthy,1
+04/06/2024 10:41,8626,Indoor,Industrial,63.83246348,6.861232369,29,Male,No,Normal,Healthy,0
+04/06/2024 10:26,9606,Indoor,Recreational,75.68819243,61.66256944,19,Female,No,Mild,Other,1
+04/06/2024 10:11,9827,Outdoor,Recreational,64.58971282,72.25072318,64,Male,Yes,Normal,Hypertension,0
+04/06/2024 09:56,6328,Indoor,Industrial,67.1704479,99.00487105,52,Female,No,Mild,Diabetes,0
+04/06/2024 09:41,9454,Outdoor,Workplace,48.73956762,71.93439343,46,Male,Yes,Mild,Heart Disease,0
+04/06/2024 09:26,9936,Outdoor,Traffic,77.22027878,39.47823812,50,Male,Yes,Mild,Other,1
+04/06/2024 09:11,6744,Indoor,Workplace,47.46965466,50.96293236,22,Female,Yes,Moderate,Heart Disease,0
+04/06/2024 08:56,7258,Outdoor,Recreational,82.2145334,97.22362172,60,Other,No,Severe,Diabetes,1
+04/06/2024 08:41,1310,Outdoor,Recreational,83.22871435,69.07763705,60,Other,Yes,Severe,Diabetes,1
+04/06/2024 08:26,9798,Outdoor,Traffic,39.45453668,80.96263996,50,Other,Yes,Severe,Healthy,0
+04/06/2024 08:11,6827,Outdoor,Traffic,80.56960829,48.53247019,56,Other,No,Normal,Hypertension,1
+04/06/2024 07:56,7969,Indoor,Workplace,62.61238049,55.67736846,30,Other,Yes,Mild,Healthy,0
+04/06/2024 07:41,1108,Outdoor,Industrial,69.22248801,58.62041361,48,Other,Yes,Severe,Hypertension,0
+04/06/2024 07:26,3333,Outdoor,Industrial,50.89474081,78.40693922,53,Female,No,Normal,Other,0
+04/06/2024 07:11,7615,Outdoor,Residential,61.77414967,51.4305786,36,Male,No,Severe,Healthy,0
+04/06/2024 06:56,5463,Outdoor,Workplace,53.18907875,72.05416964,42,Female,Yes,Mild,Healthy,0
+04/06/2024 06:41,6225,Outdoor,Recreational,57.10718626,59.98623133,60,Male,Yes,Severe,Diabetes,0
+04/06/2024 06:26,5095,Outdoor,Residential,77.22233707,35.73743244,52,Male,No,Severe,Hypertension,1
+04/06/2024 06:11,5156,Indoor,Workplace,74.99150098,59.94240876,54,Female,Yes,Severe,Diabetes,0
+04/06/2024 05:56,3294,Indoor,Industrial,73.20478771,82.0846696,56,Male,Yes,Moderate,Healthy,0
+04/06/2024 05:41,5518,Indoor,Traffic,59.60896421,60.12204016,50,Female,No,Moderate,Hypertension,0
+04/06/2024 05:26,7411,Outdoor,Recreational,58.09662575,53.42715884,60,Female,Yes,Severe,Hypertension,0
+04/06/2024 05:11,1337,Outdoor,Residential,48.50634298,88.47436457,20,Other,No,Moderate,Other,0
+04/06/2024 04:56,6572,Indoor,Traffic,71.78000602,67.79781716,64,Male,Yes,Moderate,Diabetes,0
+04/06/2024 04:41,1612,Indoor,Recreational,84.36636863,32.36753915,59,Other,Yes,Normal,Other,1
+04/06/2024 04:26,8795,Indoor,Industrial,79.55782436,54.22288953,41,Female,Yes,Severe,Diabetes,1
+04/06/2024 04:11,3811,Indoor,Industrial,65.30686896,65.35718533,20,Female,Yes,Moderate,Diabetes,0
+04/06/2024 03:56,7923,Outdoor,Industrial,69.93339634,64.70669198,24,Male,Yes,Moderate,Hypertension,0
+04/06/2024 03:41,4318,Outdoor,Workplace,67.4742909,70.21924351,30,Other,Yes,Severe,Hypertension,0
+04/06/2024 03:26,3735,Indoor,Recreational,74.09456406,56.77340067,41,Other,No,Moderate,Heart Disease,0
+04/06/2024 03:11,4430,Outdoor,Workplace,82.42100017,55.76236478,55,Male,No,Moderate,Healthy,1
+04/06/2024 02:56,5019,Outdoor,Industrial,59.30411208,60.28161642,47,Female,No,Moderate,Other,0
+04/06/2024 02:41,8404,Indoor,Recreational,59.67598414,75.88966102,22,Female,Yes,Normal,Heart Disease,0
+04/06/2024 02:26,9708,Outdoor,Recreational,62.12865508,46.31186996,40,Male,Yes,Moderate,Other,0
+04/06/2024 02:11,3802,Outdoor,Industrial,64.67150175,58.5587876,58,Male,Yes,Moderate,Other,0
+04/06/2024 01:56,3131,Indoor,Workplace,72.28326628,64.9588268,61,Male,No,Severe,Healthy,0
+04/06/2024 01:41,7138,Indoor,Residential,64.32791682,49.23720431,44,Other,Yes,Moderate,Other,0
+04/06/2024 01:26,9527,Outdoor,Industrial,56.46579779,69.24790371,35,Male,Yes,Normal,Other,0
+04/06/2024 01:11,4325,Indoor,Industrial,56.59784431,66.97823537,57,Female,Yes,Severe,Hypertension,0
+04/06/2024 00:56,7614,Outdoor,Residential,53.24767044,18.62305425,37,Male,No,Normal,Hypertension,0
+04/06/2024 00:41,9255,Indoor,Residential,63.9296952,60.67821781,23,Other,No,Severe,Hypertension,0
+04/06/2024 00:26,4897,Indoor,Recreational,75.33800585,88.34516751,47,Other,No,Moderate,Healthy,1
+04/06/2024 00:11,3301,Indoor,Residential,69.2033711,89.92897493,23,Male,Yes,Moderate,Hypertension,0
+03/06/2024 23:56,6528,Indoor,Recreational,70.63385391,73.64953479,34,Female,Yes,Mild,Heart Disease,0
+03/06/2024 23:41,8220,Indoor,Residential,54.15791129,85.40019676,60,Male,No,Normal,Heart Disease,0
+03/06/2024 23:26,1383,Indoor,Workplace,53.27205209,56.9401569,53,Other,Yes,Normal,Heart Disease,0
+03/06/2024 23:11,9316,Outdoor,Recreational,66.78373693,71.39072874,32,Female,Yes,Severe,Healthy,0
+03/06/2024 22:56,3579,Indoor,Workplace,77.46324475,63.27658109,34,Other,Yes,Mild,Diabetes,1
+03/06/2024 22:41,5072,Outdoor,Residential,73.44837412,73.37391433,42,Other,No,Mild,Diabetes,0
+03/06/2024 22:26,7786,Outdoor,Workplace,58.26434079,96.89650865,61,Other,No,Moderate,Heart Disease,0
+03/06/2024 22:11,5354,Indoor,Industrial,87.91225912,80.04636897,47,Male,No,Moderate,Diabetes,1
+03/06/2024 21:56,7058,Indoor,Residential,44.70278211,53.15037203,60,Other,No,Mild,Other,0
+03/06/2024 21:41,3283,Indoor,Recreational,65.29013736,91.60688079,57,Male,Yes,Normal,Healthy,0
+03/06/2024 21:26,6932,Outdoor,Residential,66.02726239,64.95923329,34,Male,No,Severe,Heart Disease,0
+03/06/2024 21:11,3260,Indoor,Traffic,62.90861986,73.03652291,22,Male,No,Normal,Heart Disease,0
+03/06/2024 20:56,5863,Outdoor,Industrial,70.25663427,55.27842145,61,Other,No,Moderate,Heart Disease,0
+03/06/2024 20:41,1425,Indoor,Recreational,62.97725541,74.74743424,59,Other,Yes,Severe,Other,0
+03/06/2024 20:26,8353,Indoor,Residential,50.04626397,67.97954141,59,Other,Yes,Severe,Hypertension,0
+03/06/2024 20:11,4635,Outdoor,Industrial,64.11449597,82.63386376,52,Female,No,Normal,Heart Disease,0
+03/06/2024 19:56,9112,Outdoor,Recreational,66.64590343,49.9526415,28,Female,Yes,Normal,Diabetes,0
+03/06/2024 19:41,9331,Outdoor,Industrial,74.11559305,79.01254135,45,Female,No,Mild,Hypertension,0
+03/06/2024 19:26,7706,Indoor,Recreational,79.17556401,11.22571096,61,Female,No,Moderate,Other,1
+03/06/2024 19:11,4041,Indoor,Industrial,56.44512145,47.68145138,37,Female,No,Severe,Heart Disease,0
+03/06/2024 18:56,6254,Indoor,Recreational,81.72195109,33.09340624,19,Other,Yes,Normal,Hypertension,1
+03/06/2024 18:41,1114,Outdoor,Recreational,60.71889836,66.74820401,58,Other,Yes,Normal,Heart Disease,0
+03/06/2024 18:26,6562,Indoor,Traffic,59.8949988,79.22733965,50,Other,No,Moderate,Heart Disease,0
+03/06/2024 18:11,1039,Outdoor,Recreational,60.89017812,59.8163419,53,Male,Yes,Normal,Other,0
+03/06/2024 17:56,4505,Indoor,Traffic,45.48717539,87.11440123,27,Male,Yes,Severe,Diabetes,0
+03/06/2024 17:41,1109,Outdoor,Residential,60.77486206,44.51306628,62,Other,No,Moderate,Other,0
+03/06/2024 17:26,1536,Indoor,Residential,78.11006014,31.97112535,36,Other,Yes,Severe,Other,1
+03/06/2024 17:11,7079,Indoor,Industrial,69.77353061,74.4629041,42,Other,No,Mild,Diabetes,0
+03/06/2024 16:56,8522,Indoor,Workplace,67.27562224,83.40862621,44,Other,Yes,Moderate,Hypertension,0
+03/06/2024 16:41,5651,Indoor,Workplace,68.50700536,62.10891257,52,Male,Yes,Mild,Other,0
+03/06/2024 16:26,3048,Indoor,Residential,77.61447133,96.44395543,40,Male,No,Normal,Heart Disease,1
+03/06/2024 16:11,6712,Indoor,Traffic,56.22009983,70.16773315,60,Other,No,Mild,Other,0
+03/06/2024 15:56,6547,Outdoor,Recreational,74.03878604,67.95372741,51,Other,Yes,Severe,Diabetes,0
+03/06/2024 15:41,6433,Indoor,Industrial,65.66522502,51.39358884,25,Other,No,Normal,Hypertension,0
+03/06/2024 15:26,8468,Outdoor,Recreational,57.16135992,33.93636846,19,Female,Yes,Mild,Diabetes,0
+03/06/2024 15:11,8609,Indoor,Recreational,69.63647312,54.66583122,42,Other,No,Moderate,Heart Disease,0
+03/06/2024 14:56,6282,Indoor,Workplace,65.83823502,91.61795839,26,Other,Yes,Normal,Hypertension,0
+03/06/2024 14:41,6795,Outdoor,Residential,56.93269804,63.81833348,42,Other,Yes,Normal,Other,0
+03/06/2024 14:26,4625,Outdoor,Traffic,54.30464743,52.17554881,62,Female,No,Mild,Hypertension,0
+03/06/2024 14:11,5097,Outdoor,Workplace,60.65107382,41.90006104,46,Female,Yes,Moderate,Other,0
+03/06/2024 13:56,7929,Outdoor,Recreational,59.88989652,70.77587813,39,Other,Yes,Severe,Other,0
+03/06/2024 13:41,7122,Indoor,Recreational,77.20961853,37.50001515,31,Female,Yes,Moderate,Healthy,1
+03/06/2024 13:26,5918,Indoor,Residential,62.85750233,67.13933307,60,Female,No,Mild,Other,0
+03/06/2024 13:11,7175,Outdoor,Traffic,61.26909139,50.77624922,28,Male,Yes,Mild,Other,0
+03/06/2024 12:56,9176,Outdoor,Residential,76.28805137,54.78676679,30,Other,Yes,Moderate,Other,1
+03/06/2024 12:41,1228,Indoor,Industrial,78.49661509,72.84239878,50,Male,No,Mild,Healthy,1
+03/06/2024 12:26,1777,Indoor,Industrial,56.6852853,41.00136009,20,Other,Yes,Severe,Hypertension,0
+03/06/2024 12:11,1370,Outdoor,Workplace,52.56227317,60.13072167,64,Other,Yes,Moderate,Healthy,0
+03/06/2024 11:56,1101,Outdoor,Residential,70.15226047,29.45598862,53,Female,No,Normal,Diabetes,0
+03/06/2024 11:41,4242,Outdoor,Recreational,62.92615004,57.73886414,59,Other,Yes,Normal,Other,0
+03/06/2024 11:26,7662,Outdoor,Industrial,59.54782042,69.93981306,49,Female,No,Moderate,Healthy,0
+03/06/2024 11:11,7388,Outdoor,Workplace,75.38306326,75.82796879,53,Female,Yes,Mild,Healthy,1
+03/06/2024 10:56,5684,Indoor,Industrial,62.39416144,82.68515926,60,Male,Yes,Severe,Hypertension,0
+03/06/2024 10:41,9086,Indoor,Industrial,84.18197115,73.17145855,53,Female,No,Mild,Hypertension,1
+03/06/2024 10:26,3762,Indoor,Industrial,65.47685928,51.86421538,52,Male,No,Mild,Hypertension,0
+03/06/2024 10:11,8138,Indoor,Industrial,66.64127213,23.79243392,22,Female,No,Severe,Heart Disease,0
+03/06/2024 09:56,3183,Outdoor,Residential,87.39764051,79.81313817,29,Male,No,Severe,Hypertension,1
+03/06/2024 09:41,5566,Outdoor,Recreational,68.09647165,49.50803005,36,Other,No,Normal,Other,0
+03/06/2024 09:26,9969,Outdoor,Residential,57.93752411,31.06766838,57,Other,No,Severe,Healthy,0
+03/06/2024 09:11,9587,Indoor,Workplace,54.79531743,97.43125152,44,Female,Yes,Normal,Diabetes,0
+03/06/2024 08:56,1478,Outdoor,Workplace,60.38074468,58.78894563,52,Other,No,Moderate,Diabetes,0
+03/06/2024 08:41,8626,Outdoor,Workplace,67.3601729,69.77945014,27,Other,No,Moderate,Diabetes,0
+03/06/2024 08:26,9345,Outdoor,Recreational,74.11005587,64.56231771,45,Other,Yes,Mild,Other,0
+03/06/2024 08:11,9196,Indoor,Residential,49.95888181,59.71172774,50,Female,Yes,Normal,Healthy,0
+03/06/2024 07:56,9114,Indoor,Workplace,65.03159757,52.25960247,64,Other,Yes,Moderate,Heart Disease,0
+03/06/2024 07:41,6806,Outdoor,Residential,77.78747771,48.32421581,64,Other,No,Mild,Heart Disease,1
+03/06/2024 07:26,1774,Outdoor,Recreational,67.62182112,104.5097902,60,Other,No,Moderate,Hypertension,0
+03/06/2024 07:11,2315,Indoor,Recreational,78.55870033,30.84809583,53,Male,No,Normal,Heart Disease,1
+03/06/2024 06:56,8686,Outdoor,Workplace,49.92039528,51.33915646,52,Other,No,Normal,Healthy,0
+03/06/2024 06:41,9445,Outdoor,Residential,62.73424853,42.194482,34,Other,No,Normal,Hypertension,0
+03/06/2024 06:26,3403,Indoor,Traffic,66.20467099,70.35614867,28,Male,Yes,Normal,Other,0
+03/06/2024 06:11,7897,Outdoor,Recreational,70.53169587,51.72042774,53,Female,Yes,Moderate,Diabetes,0
+03/06/2024 05:56,4253,Indoor,Workplace,56.48612385,50.02059772,54,Female,Yes,Mild,Diabetes,0
+03/06/2024 05:41,4028,Outdoor,Recreational,69.15961748,72.83545183,35,Male,Yes,Normal,Hypertension,0
+03/06/2024 05:26,8158,Indoor,Residential,69.93935854,98.70243704,48,Male,No,Mild,Hypertension,0
+03/06/2024 05:11,1578,Indoor,Traffic,64.26494747,43.39175853,52,Female,No,Severe,Hypertension,0
+03/06/2024 04:56,9294,Indoor,Traffic,69.69939969,28.97332378,45,Other,Yes,Severe,Healthy,0
+03/06/2024 04:41,2293,Indoor,Traffic,68.16313245,61.25074014,18,Female,Yes,Severe,Hypertension,0
+03/06/2024 04:26,3042,Indoor,Traffic,58.41624451,76.75225144,48,Female,Yes,Normal,Healthy,0
+03/06/2024 04:11,5440,Indoor,Industrial,63.41877979,55.69401725,44,Female,Yes,Moderate,Hypertension,0
+03/06/2024 03:56,8140,Outdoor,Residential,52.51019344,72.65777617,57,Male,Yes,Normal,Healthy,0
+03/06/2024 03:41,3020,Outdoor,Traffic,50.04101574,49.03488732,29,Other,Yes,Moderate,Healthy,0
+03/06/2024 03:26,3254,Outdoor,Residential,67.54332055,107.8375113,29,Other,No,Severe,Heart Disease,0
+03/06/2024 03:11,4479,Outdoor,Industrial,46.05992956,72.28538954,44,Other,Yes,Severe,Heart Disease,0
+03/06/2024 02:56,5345,Outdoor,Workplace,62.58162544,50.31066515,44,Other,No,Normal,Hypertension,0
+03/06/2024 02:41,3357,Indoor,Industrial,69.13402426,44.95952269,63,Female,Yes,Severe,Hypertension,0
+03/06/2024 02:26,8809,Indoor,Recreational,65.16439961,65.40749548,34,Other,Yes,Normal,Healthy,0
+03/06/2024 02:11,2660,Indoor,Residential,86.85432391,73.47597814,42,Other,Yes,Moderate,Healthy,1
+03/06/2024 01:56,4417,Indoor,Workplace,69.26759811,33.84696741,47,Other,No,Mild,Heart Disease,0
+03/06/2024 01:41,7290,Indoor,Traffic,62.31399823,60.22240167,27,Other,No,Severe,Other,0
+03/06/2024 01:26,1676,Indoor,Workplace,71.0804524,74.85730144,57,Male,Yes,Mild,Diabetes,0
+03/06/2024 01:11,7624,Indoor,Industrial,51.87837118,66.67508114,32,Male,No,Severe,Diabetes,0
+03/06/2024 00:56,9287,Indoor,Traffic,75.00202438,72.47837709,36,Other,No,Normal,Other,1
+03/06/2024 00:41,5310,Indoor,Industrial,59.95021528,89.81833911,21,Other,No,Normal,Other,0
+03/06/2024 00:26,3762,Outdoor,Recreational,76.06550325,-2.187782914,32,Other,Yes,Mild,Diabetes,1
+03/06/2024 00:11,7292,Indoor,Traffic,69.00346023,64.36820771,54,Male,No,Moderate,Heart Disease,0
+02/06/2024 23:56,8006,Indoor,Residential,71.25633913,12.9719395,32,Female,Yes,Severe,Diabetes,0
+02/06/2024 23:41,4385,Outdoor,Traffic,59.46140676,59.09873628,50,Other,No,Normal,Other,0
+02/06/2024 23:26,4106,Outdoor,Workplace,53.55259342,85.98196308,30,Male,No,Moderate,Diabetes,0
+02/06/2024 23:11,4379,Outdoor,Workplace,53.37502191,57.42813687,34,Female,No,Severe,Diabetes,0
+02/06/2024 22:56,9990,Outdoor,Traffic,47.84276598,41.3113697,36,Male,No,Mild,Other,0
+02/06/2024 22:41,2868,Indoor,Workplace,61.16551001,76.51144549,30,Other,No,Normal,Heart Disease,0
+02/06/2024 22:26,5329,Indoor,Industrial,59.12586024,62.79691075,23,Female,Yes,Mild,Diabetes,0
+02/06/2024 22:11,8378,Outdoor,Residential,75.1181232,63.78188682,57,Other,No,Mild,Hypertension,1
+02/06/2024 21:56,9329,Outdoor,Recreational,54.66405631,103.1483956,47,Male,Yes,Moderate,Hypertension,0
+02/06/2024 21:41,1559,Indoor,Industrial,86.939488,29.85961661,53,Male,No,Moderate,Diabetes,1
+02/06/2024 21:26,4557,Outdoor,Recreational,54.98431185,47.2728477,48,Male,Yes,Moderate,Other,0
+02/06/2024 21:11,3884,Outdoor,Residential,55.92517749,67.52221894,30,Female,No,Moderate,Hypertension,0
+02/06/2024 20:56,7398,Indoor,Traffic,50.19998342,84.38004977,41,Female,No,Normal,Diabetes,0
+02/06/2024 20:41,6486,Indoor,Workplace,65.09694611,40.7907224,46,Male,Yes,Normal,Other,0
+02/06/2024 20:26,2099,Outdoor,Traffic,61.78089893,51.78273364,63,Female,Yes,Normal,Hypertension,0
+02/06/2024 20:11,1748,Indoor,Traffic,63.92122695,58.63072589,19,Male,No,Moderate,Heart Disease,0
+02/06/2024 19:56,6593,Outdoor,Residential,69.06874277,56.95717514,33,Male,No,Mild,Other,0
+02/06/2024 19:41,7958,Outdoor,Industrial,74.82653491,73.94946082,29,Male,No,Normal,Hypertension,0
+02/06/2024 19:26,9362,Outdoor,Residential,53.30172703,58.99693915,45,Female,No,Moderate,Healthy,0
+02/06/2024 19:11,3076,Outdoor,Traffic,65.19603802,72.9917623,43,Female,No,Normal,Healthy,0
+02/06/2024 18:56,5597,Indoor,Recreational,73.55334115,35.94225855,49,Other,Yes,Normal,Other,0
+02/06/2024 18:41,1540,Outdoor,Residential,54.05872157,62.89303713,59,Female,No,Severe,Hypertension,0
+02/06/2024 18:26,7907,Indoor,Industrial,92.64336611,60.6914801,21,Other,Yes,Normal,Heart Disease,1
+02/06/2024 18:11,5570,Outdoor,Residential,88.41248528,76.87357314,22,Other,No,Moderate,Other,1
+02/06/2024 17:56,9398,Indoor,Workplace,64.24861757,110.396088,34,Male,Yes,Normal,Other,0
+02/06/2024 17:41,2507,Indoor,Industrial,53.93341733,79.12578688,37,Female,Yes,Severe,Heart Disease,0
+02/06/2024 17:26,1347,Indoor,Workplace,55.22063395,45.92915016,57,Female,No,Mild,Diabetes,0
+02/06/2024 17:11,2470,Outdoor,Recreational,67.33736051,72.66531713,46,Other,No,Normal,Diabetes,0
+02/06/2024 16:56,1907,Outdoor,Traffic,71.39721989,58.99643663,42,Male,No,Moderate,Heart Disease,0
+02/06/2024 16:41,7040,Outdoor,Workplace,46.57796659,53.22599179,35,Male,No,Moderate,Heart Disease,0
+02/06/2024 16:26,6255,Indoor,Workplace,55.54008131,49.42251969,39,Male,Yes,Normal,Hypertension,0
+02/06/2024 16:11,8796,Indoor,Traffic,66.418022,48.36035742,25,Male,Yes,Normal,Heart Disease,0
+02/06/2024 15:56,3423,Outdoor,Recreational,50.95589512,37.11213068,57,Other,Yes,Mild,Healthy,0
+02/06/2024 15:41,7640,Outdoor,Traffic,62.02929417,34.09076559,64,Female,No,Mild,Healthy,0
+02/06/2024 15:26,9543,Indoor,Workplace,69.31197196,73.10065703,57,Female,Yes,Mild,Diabetes,0
+02/06/2024 15:11,7532,Outdoor,Residential,63.37981236,52.87434185,27,Male,Yes,Severe,Healthy,0
+02/06/2024 14:56,2170,Outdoor,Workplace,57.6574331,63.64131523,34,Female,No,Moderate,Healthy,0
+02/06/2024 14:41,4146,Indoor,Traffic,65.87012185,42.60391564,63,Other,No,Normal,Hypertension,0
+02/06/2024 14:26,6399,Indoor,Industrial,70.06886921,71.58120268,37,Other,No,Normal,Diabetes,0
+02/06/2024 14:11,4237,Outdoor,Industrial,55.79157048,45.92697804,44,Female,No,Normal,Hypertension,0
+02/06/2024 13:56,1966,Indoor,Traffic,68.44351784,33.22243688,19,Other,Yes,Severe,Other,0
+02/06/2024 13:41,8727,Indoor,Industrial,68.24532002,91.36240158,46,Male,Yes,Moderate,Healthy,0
+02/06/2024 13:26,2922,Indoor,Traffic,70.19179972,64.15490503,23,Other,No,Mild,Healthy,0
+02/06/2024 13:11,3251,Outdoor,Residential,67.62875661,53.75555721,37,Other,No,Severe,Hypertension,0
+02/06/2024 12:56,5569,Indoor,Traffic,66.30070105,56.1567018,54,Female,Yes,Severe,Other,0
+02/06/2024 12:41,9935,Indoor,Residential,63.44034326,52.81537023,36,Other,No,Moderate,Healthy,0
+02/06/2024 12:26,6492,Outdoor,Industrial,62.00894527,69.86476747,28,Other,No,Moderate,Heart Disease,0
+02/06/2024 12:11,5261,Outdoor,Recreational,72.22993024,29.05145867,35,Other,Yes,Normal,Hypertension,0
+02/06/2024 11:56,1796,Indoor,Industrial,64.04543908,23.89559856,56,Male,Yes,Moderate,Diabetes,0
+02/06/2024 11:41,3992,Outdoor,Traffic,70.35087169,62.25111334,39,Male,Yes,Mild,Other,0
+02/06/2024 11:26,9698,Indoor,Industrial,70.1942474,25.14939841,31,Female,Yes,Normal,Healthy,0
+02/06/2024 11:11,8413,Indoor,Recreational,55.60231194,21.86800908,59,Male,Yes,Normal,Healthy,0
+02/06/2024 10:56,6849,Indoor,Industrial,61.81350649,78.05890103,23,Other,Yes,Severe,Diabetes,0
+02/06/2024 10:41,3890,Outdoor,Recreational,64.47163526,63.33569723,38,Female,Yes,Severe,Healthy,0
+02/06/2024 10:26,5453,Indoor,Workplace,65.90112192,63.60562055,25,Other,No,Severe,Heart Disease,0
+02/06/2024 10:11,7681,Indoor,Traffic,69.29264166,37.6234073,35,Male,No,Normal,Heart Disease,0
+02/06/2024 09:56,9937,Outdoor,Traffic,66.78701082,87.80323775,39,Other,Yes,Mild,Other,0
+02/06/2024 09:41,9806,Indoor,Recreational,65.41958629,80.11902177,23,Female,Yes,Severe,Heart Disease,0
+02/06/2024 09:26,5219,Indoor,Residential,60.64764687,32.81752311,52,Male,Yes,Severe,Other,0
+02/06/2024 09:11,7527,Outdoor,Recreational,75.56928678,57.82488998,52,Male,Yes,Severe,Other,1
+02/06/2024 08:56,1923,Outdoor,Workplace,68.47508544,51.80786034,63,Female,No,Moderate,Hypertension,0
+02/06/2024 08:41,9651,Indoor,Traffic,63.87897933,59.10720937,62,Female,Yes,Normal,Healthy,0
+02/06/2024 08:26,3751,Outdoor,Traffic,61.10374855,81.75339084,26,Female,No,Moderate,Healthy,0
+02/06/2024 08:11,6522,Outdoor,Industrial,67.7984044,52.38226717,33,Other,Yes,Normal,Heart Disease,0
+02/06/2024 07:56,9805,Outdoor,Recreational,65.29599524,79.67448248,28,Male,Yes,Mild,Healthy,0
+02/06/2024 07:41,4758,Indoor,Workplace,49.76130707,25.38875012,38,Other,Yes,Moderate,Other,0
+02/06/2024 07:26,7995,Indoor,Industrial,55.0944388,47.69692023,59,Other,No,Severe,Other,0
+02/06/2024 07:11,4119,Indoor,Residential,78.04576317,51.9651117,40,Other,No,Moderate,Diabetes,1
+02/06/2024 06:56,8958,Indoor,Industrial,68.70449706,49.18871159,62,Male,No,Moderate,Healthy,0
+02/06/2024 06:41,9657,Indoor,Workplace,58.60282069,60.48725114,37,Female,Yes,Mild,Healthy,0
+02/06/2024 06:26,4038,Outdoor,Recreational,61.2711536,63.15812367,34,Male,No,Severe,Heart Disease,0
+02/06/2024 06:11,3436,Indoor,Residential,56.38032424,64.60851865,48,Other,Yes,Severe,Heart Disease,0
+02/06/2024 05:56,5650,Outdoor,Traffic,59.75352657,77.72517439,35,Female,No,Mild,Hypertension,0
+02/06/2024 05:41,9731,Outdoor,Industrial,75.24500709,74.669138,46,Male,Yes,Severe,Heart Disease,1
+02/06/2024 05:26,2609,Outdoor,Workplace,63.18945353,29.95856087,49,Female,Yes,Mild,Other,0
+02/06/2024 05:11,7893,Indoor,Recreational,73.33196877,62.99836678,25,Other,Yes,Mild,Other,0
+02/06/2024 04:56,3579,Outdoor,Industrial,81.27667916,47.7588853,26,Female,No,Severe,Healthy,1
+02/06/2024 04:41,2603,Outdoor,Workplace,61.04852555,76.39232737,63,Other,No,Normal,Diabetes,0
+02/06/2024 04:26,5973,Indoor,Residential,52.04894171,85.9106826,23,Female,No,Moderate,Healthy,0
+02/06/2024 04:11,2986,Indoor,Industrial,69.32927065,76.83241031,22,Other,Yes,Mild,Diabetes,0
+02/06/2024 03:56,6662,Indoor,Industrial,56.79692892,98.12061781,62,Female,No,Normal,Heart Disease,0
+02/06/2024 03:41,4249,Outdoor,Recreational,65.0060694,75.06091637,30,Male,No,Moderate,Hypertension,0
+02/06/2024 03:26,6587,Outdoor,Workplace,66.68521727,79.97794297,42,Other,Yes,Severe,Hypertension,0
+02/06/2024 03:11,4114,Outdoor,Workplace,83.57195324,44.11916331,48,Female,No,Normal,Hypertension,1
+02/06/2024 02:56,3904,Outdoor,Traffic,68.22903358,59.50242994,51,Male,No,Mild,Heart Disease,0
+02/06/2024 02:41,9751,Indoor,Traffic,60.42898773,73.79839806,34,Female,Yes,Normal,Diabetes,0
+02/06/2024 02:26,8891,Indoor,Workplace,71.25842632,65.77113932,43,Male,No,Moderate,Healthy,0
+02/06/2024 02:11,5840,Indoor,Industrial,73.15156139,41.72885098,37,Female,No,Mild,Hypertension,0
+02/06/2024 01:56,7260,Indoor,Residential,77.04845689,41.52976095,23,Male,No,Mild,Healthy,1
+02/06/2024 01:41,4050,Outdoor,Traffic,55.77109989,23.79057038,49,Male,No,Normal,Hypertension,0
+02/06/2024 01:26,3843,Indoor,Traffic,77.90917053,67.44117821,50,Female,Yes,Severe,Diabetes,1
+02/06/2024 01:11,4550,Outdoor,Residential,87.86168376,39.39130315,37,Female,No,Moderate,Heart Disease,1
+02/06/2024 00:56,3680,Indoor,Recreational,77.68605199,73.43327981,64,Male,No,Mild,Diabetes,1
+02/06/2024 00:41,2736,Outdoor,Industrial,79.50517974,74.48245819,28,Other,No,Normal,Diabetes,1
+02/06/2024 00:26,8416,Indoor,Traffic,60.65265306,64.43646788,64,Male,Yes,Severe,Other,0
+02/06/2024 00:11,4301,Indoor,Recreational,81.89424966,67.89846113,27,Female,Yes,Moderate,Hypertension,1
+01/06/2024 23:56,4408,Outdoor,Workplace,60.23919114,80.37084142,60,Male,Yes,Mild,Diabetes,0
+01/06/2024 23:41,2480,Indoor,Traffic,64.61231491,83.00114541,56,Male,Yes,Mild,Other,0
+01/06/2024 23:26,5241,Outdoor,Residential,60.35473944,15.38678482,36,Other,Yes,Normal,Healthy,0
+01/06/2024 23:11,6384,Outdoor,Workplace,59.18820618,74.10434018,44,Other,Yes,Severe,Diabetes,0
+01/06/2024 22:56,6217,Outdoor,Workplace,64.94759866,69.74051793,57,Female,No,Normal,Heart Disease,0
+01/06/2024 22:41,3435,Outdoor,Industrial,53.46244756,65.9183318,51,Other,No,Severe,Other,0
+01/06/2024 22:26,9746,Indoor,Recreational,58.12849622,69.4607403,53,Male,Yes,Severe,Heart Disease,0
+01/06/2024 22:11,6854,Indoor,Industrial,55.2737607,53.68994885,37,Female,Yes,Moderate,Other,0
+01/06/2024 21:56,4546,Outdoor,Workplace,80.34192794,12.05540417,63,Female,No,Normal,Hypertension,1
+01/06/2024 21:41,6144,Indoor,Industrial,81.20039221,47.88803568,22,Female,Yes,Mild,Healthy,1
+01/06/2024 21:26,5311,Indoor,Residential,90.45363334,23.43754503,27,Other,No,Mild,Heart Disease,1
+01/06/2024 21:11,6972,Outdoor,Traffic,64.33084636,26.96335054,49,Male,Yes,Moderate,Diabetes,0
+01/06/2024 20:56,8835,Indoor,Residential,65.29432865,81.391929,57,Other,No,Severe,Healthy,0
+01/06/2024 20:41,1712,Indoor,Workplace,72.71460257,49.10655669,57,Male,No,Moderate,Healthy,0
+01/06/2024 20:26,2091,Outdoor,Industrial,52.23612494,65.37637238,45,Female,No,Moderate,Diabetes,0
+01/06/2024 20:11,5164,Indoor,Recreational,55.21573001,60.08755521,46,Female,Yes,Normal,Heart Disease,0
+01/06/2024 19:56,5976,Outdoor,Recreational,49.02833072,86.77659778,39,Male,No,Severe,Heart Disease,0
+01/06/2024 19:41,7668,Indoor,Workplace,73.36789645,61.49419051,26,Female,No,Mild,Hypertension,0
+01/06/2024 19:26,8825,Outdoor,Traffic,56.38880165,48.04904095,19,Male,No,Normal,Other,0
+01/06/2024 19:11,2160,Indoor,Industrial,75.01646278,89.61801445,30,Other,Yes,Mild,Healthy,1
+01/06/2024 18:56,8001,Outdoor,Residential,60.38201561,50.02477328,52,Male,No,Moderate,Healthy,0
+01/06/2024 18:41,1745,Outdoor,Residential,65.03738762,68.34473997,44,Other,No,Severe,Hypertension,0
+01/06/2024 18:26,9491,Outdoor,Recreational,63.28855221,69.95408686,47,Female,No,Mild,Other,0
+01/06/2024 18:11,5634,Indoor,Residential,66.90330581,35.16006375,46,Female,Yes,Mild,Other,0
+01/06/2024 17:56,6288,Outdoor,Traffic,60.10982159,78.40940518,52,Male,Yes,Moderate,Other,0
+01/06/2024 17:41,6469,Indoor,Workplace,75.39678629,87.07917518,54,Male,Yes,Severe,Diabetes,1
+01/06/2024 17:26,2439,Indoor,Industrial,63.32371475,37.3258884,43,Male,Yes,Moderate,Hypertension,0
+01/06/2024 17:11,5677,Indoor,Residential,68.63988105,60.59087767,21,Female,No,Mild,Diabetes,0
+01/06/2024 16:56,2751,Outdoor,Workplace,66.0955504,86.79755651,52,Male,No,Normal,Other,0
+01/06/2024 16:41,6672,Outdoor,Industrial,54.86407116,27.49279588,27,Male,Yes,Severe,Diabetes,0
+01/06/2024 16:26,2177,Outdoor,Workplace,78.49239719,72.57130271,37,Other,Yes,Severe,Healthy,1
+01/06/2024 16:11,2635,Indoor,Residential,58.4836179,35.01628279,27,Female,No,Severe,Diabetes,0
+01/06/2024 15:56,1676,Outdoor,Workplace,73.0874795,53.60994965,47,Male,No,Moderate,Diabetes,0
+01/06/2024 15:41,9419,Outdoor,Traffic,72.28973764,55.77770799,28,Other,Yes,Moderate,Heart Disease,0
+01/06/2024 15:26,8361,Outdoor,Recreational,50.01071109,36.4373052,33,Male,Yes,Normal,Hypertension,0
+01/06/2024 15:11,7428,Outdoor,Industrial,63.20276154,41.786008,24,Female,No,Normal,Other,0
+01/06/2024 14:56,2897,Outdoor,Industrial,70.79820971,58.5465868,40,Male,No,Normal,Hypertension,0
+01/06/2024 14:41,2255,Outdoor,Traffic,62.10473868,87.53578618,57,Male,No,Normal,Healthy,0
+01/06/2024 14:26,4315,Indoor,Workplace,63.72030935,69.6196048,18,Female,No,Severe,Other,0
+01/06/2024 14:11,1264,Indoor,Industrial,67.17046976,27.21686653,62,Other,No,Moderate,Healthy,0
+01/06/2024 13:56,8070,Outdoor,Recreational,61.24046099,69.31417015,24,Female,No,Severe,Diabetes,0
+01/06/2024 13:41,2492,Indoor,Residential,68.57198316,60.82013783,58,Other,Yes,Normal,Heart Disease,0
+01/06/2024 13:26,4170,Indoor,Industrial,65.42582394,47.33868087,21,Female,No,Normal,Other,0
+01/06/2024 13:11,4676,Outdoor,Traffic,63.03008175,51.25505401,19,Male,No,Normal,Healthy,0
+01/06/2024 12:56,9849,Indoor,Traffic,55.29473298,69.95108453,34,Female,No,Severe,Diabetes,0
+01/06/2024 12:41,6043,Indoor,Recreational,69.0557547,28.56001065,57,Female,Yes,Severe,Other,0
+01/06/2024 12:26,8325,Outdoor,Traffic,40.9095997,47.06114293,26,Female,Yes,Mild,Other,0
+01/06/2024 12:11,9586,Outdoor,Workplace,67.62293662,37.0909426,28,Female,Yes,Moderate,Hypertension,0
+01/06/2024 11:56,9472,Outdoor,Industrial,65.14855376,44.01674552,61,Other,Yes,Moderate,Other,0
+01/06/2024 11:41,7809,Indoor,Industrial,56.86952436,66.58695959,36,Other,No,Normal,Healthy,0
+01/06/2024 11:26,4721,Indoor,Industrial,51.10519122,60.9752666,31,Female,Yes,Moderate,Heart Disease,0
+01/06/2024 11:11,1588,Indoor,Workplace,69.18260136,73.42377993,32,Other,Yes,Normal,Other,0
+01/06/2024 10:56,8839,Outdoor,Workplace,62.52895043,14.92907059,64,Female,Yes,Moderate,Healthy,0
+01/06/2024 10:41,9860,Outdoor,Industrial,66.38631114,54.60181712,25,Male,Yes,Normal,Diabetes,0
+01/06/2024 10:26,2698,Outdoor,Industrial,46.62555642,57.86157184,50,Female,No,Moderate,Diabetes,0
+01/06/2024 10:11,9755,Outdoor,Traffic,69.76582639,27.2348592,19,Female,No,Mild,Other,0
+01/06/2024 09:56,6235,Outdoor,Residential,74.39661346,46.23238554,19,Female,No,Mild,Heart Disease,0
+01/06/2024 09:41,6755,Indoor,Workplace,63.4733494,59.57421565,37,Male,No,Normal,Other,0
+01/06/2024 09:26,1907,Outdoor,Traffic,56.03091616,66.41436084,40,Male,Yes,Severe,Hypertension,0
+01/06/2024 09:11,5271,Indoor,Industrial,69.34133007,66.94677942,35,Male,Yes,Normal,Other,0
+01/06/2024 08:56,7130,Indoor,Industrial,62.15797393,20.57622463,47,Other,Yes,Moderate,Hypertension,0
+01/06/2024 08:41,7406,Outdoor,Industrial,73.63349779,47.39517199,38,Male,Yes,Mild,Hypertension,0
+01/06/2024 08:26,3758,Outdoor,Residential,65.20738028,29.40748603,53,Male,No,Severe,Hypertension,0
+01/06/2024 08:11,9276,Indoor,Workplace,43.57720276,59.88271283,20,Male,Yes,Normal,Hypertension,0
+01/06/2024 07:56,7894,Indoor,Industrial,41.50906319,51.3794561,34,Male,Yes,Moderate,Hypertension,0
+01/06/2024 07:41,2603,Indoor,Traffic,57.89568683,47.49377125,41,Other,Yes,Mild,Diabetes,0
+01/06/2024 07:26,7316,Outdoor,Recreational,69.52899442,123.3435324,55,Other,No,Mild,Other,0
+01/06/2024 07:11,6775,Outdoor,Recreational,60.07672109,38.96331809,21,Other,No,Moderate,Other,0
+01/06/2024 06:56,7750,Outdoor,Residential,69.92132816,59.66968939,26,Male,No,Moderate,Hypertension,0
+01/06/2024 06:41,4152,Indoor,Workplace,58.37924476,69.5715905,50,Other,No,Moderate,Hypertension,0
+01/06/2024 06:26,8836,Outdoor,Workplace,85.62622305,67.15782319,51,Female,No,Normal,Hypertension,1
+01/06/2024 06:11,7376,Indoor,Residential,63.12015094,71.56863568,62,Other,No,Mild,Other,0
+01/06/2024 05:56,6657,Indoor,Recreational,67.69209526,67.10705756,49,Other,Yes,Normal,Hypertension,0
+01/06/2024 05:41,6065,Outdoor,Recreational,55.41448378,53.39287885,25,Other,No,Moderate,Hypertension,0
+01/06/2024 05:26,5686,Outdoor,Industrial,60.81799376,60.22089609,32,Male,No,Normal,Heart Disease,0
+01/06/2024 05:11,9862,Outdoor,Traffic,69.93876022,46.87978494,48,Male,Yes,Moderate,Other,0
+01/06/2024 04:56,4196,Outdoor,Industrial,64.53802938,45.15876371,22,Other,Yes,Normal,Heart Disease,0
+01/06/2024 04:41,1257,Outdoor,Workplace,37.18382102,33.63511216,59,Male,Yes,Normal,Healthy,0
+01/06/2024 04:26,1692,Outdoor,Industrial,69.99103034,75.75131019,59,Female,Yes,Severe,Heart Disease,0
+01/06/2024 04:11,1054,Indoor,Workplace,71.09148989,82.07686717,46,Female,Yes,Moderate,Heart Disease,0
+01/06/2024 03:56,9343,Outdoor,Industrial,72.30833738,48.2560858,31,Other,Yes,Normal,Healthy,0
+01/06/2024 03:41,7811,Indoor,Traffic,75.99394269,58.45038005,30,Female,No,Moderate,Heart Disease,1
+01/06/2024 03:26,2797,Outdoor,Industrial,66.80753578,91.99579494,43,Other,No,Severe,Heart Disease,0
+01/06/2024 03:11,3471,Indoor,Industrial,88.95583861,82.43761046,37,Female,No,Mild,Hypertension,1
+01/06/2024 02:56,7607,Outdoor,Industrial,67.33596661,77.82121091,48,Other,No,Mild,Healthy,0
+01/06/2024 02:41,4830,Outdoor,Workplace,41.974948,65.38665565,53,Male,Yes,Mild,Hypertension,0
+01/06/2024 02:26,2654,Indoor,Industrial,67.23675178,47.4430422,44,Male,No,Mild,Diabetes,0
+01/06/2024 02:11,5289,Outdoor,Recreational,76.20838209,49.69268677,54,Male,No,Mild,Other,1
+01/06/2024 01:56,3300,Outdoor,Recreational,51.22238272,64.70433969,50,Other,No,Normal,Heart Disease,0
+01/06/2024 01:41,8415,Outdoor,Traffic,62.2949824,68.77059706,46,Other,Yes,Mild,Diabetes,0
+01/06/2024 01:26,1833,Outdoor,Residential,77.1284527,40.62230424,44,Female,No,Mild,Healthy,1
+01/06/2024 01:11,6330,Indoor,Industrial,59.3535868,84.92258979,21,Male,Yes,Severe,Diabetes,0
+01/06/2024 00:56,5336,Outdoor,Industrial,62.62423866,88.15042067,28,Male,No,Severe,Healthy,0
+01/06/2024 00:41,3234,Outdoor,Workplace,72.80804051,75.87833222,42,Other,Yes,Normal,Healthy,0
+01/06/2024 00:26,4478,Indoor,Residential,52.17948777,90.0707887,22,Other,No,Mild,Healthy,0
+01/06/2024 00:11,6642,Outdoor,Residential,64.88242366,72.76504006,19,Female,No,Mild,Heart Disease,0
+31/05/2024 23:56,2743,Outdoor,Industrial,55.28259494,65.48303769,57,Other,No,Severe,Healthy,0
+31/05/2024 23:41,2564,Indoor,Industrial,62.31841392,61.02430895,30,Female,No,Severe,Heart Disease,0
+31/05/2024 23:26,7134,Indoor,Industrial,67.36791444,53.66117615,44,Female,Yes,Normal,Diabetes,0
+31/05/2024 23:11,7246,Indoor,Residential,75.60313261,59.89602795,56,Male,Yes,Normal,Diabetes,1
+31/05/2024 22:56,8686,Indoor,Recreational,68.12464779,39.1827958,34,Male,Yes,Severe,Heart Disease,0
+31/05/2024 22:41,3213,Outdoor,Workplace,59.34849044,58.32797371,48,Other,Yes,Moderate,Diabetes,0
+31/05/2024 22:26,1003,Outdoor,Recreational,76.97218206,36.63304012,28,Female,No,Severe,Hypertension,1
+31/05/2024 22:11,4637,Indoor,Industrial,71.15363246,43.98357987,26,Female,No,Moderate,Diabetes,0
+31/05/2024 21:56,5347,Outdoor,Residential,45.58349459,84.57103208,28,Female,No,Moderate,Hypertension,0
+31/05/2024 21:41,8415,Outdoor,Recreational,73.37966416,83.64337532,24,Female,Yes,Normal,Diabetes,0
+31/05/2024 21:26,1471,Outdoor,Residential,65.64915725,43.25534977,54,Male,Yes,Severe,Diabetes,0
+31/05/2024 21:11,8069,Indoor,Industrial,64.67124814,77.40208583,23,Other,Yes,Moderate,Healthy,0
+31/05/2024 20:56,3313,Outdoor,Recreational,76.90429665,48.2324738,47,Female,Yes,Normal,Hypertension,1
+31/05/2024 20:41,6747,Indoor,Residential,62.95689746,46.72267752,46,Other,Yes,Severe,Heart Disease,0
+31/05/2024 20:26,6672,Outdoor,Traffic,73.94149019,87.84611726,48,Other,No,Severe,Healthy,0
+31/05/2024 20:11,2207,Outdoor,Recreational,77.77389566,38.11230252,40,Male,Yes,Mild,Hypertension,1
+31/05/2024 19:56,6893,Outdoor,Workplace,65.62216787,24.25387484,30,Other,No,Severe,Healthy,0
+31/05/2024 19:41,2789,Indoor,Residential,69.47364119,46.68989703,54,Male,No,Moderate,Other,0
+31/05/2024 19:26,4169,Outdoor,Industrial,71.94005906,47.96128698,29,Female,No,Mild,Healthy,0
+31/05/2024 19:11,6014,Outdoor,Industrial,69.62480753,52.53807558,62,Other,No,Severe,Heart Disease,0
+31/05/2024 18:56,4413,Indoor,Recreational,73.89341757,25.58572588,35,Female,Yes,Normal,Other,0
+31/05/2024 18:41,1795,Outdoor,Industrial,54.55601152,67.02532084,29,Female,No,Severe,Heart Disease,0
+31/05/2024 18:26,8058,Indoor,Traffic,58.58588617,97.92842674,20,Male,No,Normal,Heart Disease,0
+31/05/2024 18:11,8737,Indoor,Workplace,52.40420944,66.03224951,53,Male,Yes,Severe,Hypertension,0
+31/05/2024 17:56,8868,Outdoor,Recreational,81.86027062,55.57487088,34,Female,No,Normal,Diabetes,1
+31/05/2024 17:41,2703,Indoor,Recreational,48.2425344,73.36315022,27,Female,No,Severe,Healthy,0
+31/05/2024 17:26,3644,Outdoor,Industrial,78.207146,61.49847284,30,Other,Yes,Mild,Heart Disease,1
+31/05/2024 17:11,4040,Outdoor,Residential,69.72261963,61.14194826,40,Female,No,Mild,Other,0
+31/05/2024 16:56,5482,Indoor,Industrial,56.23791664,58.3537209,47,Other,No,Mild,Hypertension,0
+31/05/2024 16:41,1903,Outdoor,Residential,52.28637432,64.35123497,45,Female,Yes,Severe,Healthy,0
+31/05/2024 16:26,2446,Indoor,Industrial,64.61990335,51.78398563,40,Other,No,Moderate,Healthy,0
+31/05/2024 16:11,4497,Indoor,Residential,62.75565784,27.43454405,22,Male,Yes,Normal,Hypertension,0
+31/05/2024 15:56,6339,Indoor,Residential,68.95496667,96.97493399,47,Male,No,Mild,Healthy,0
+31/05/2024 15:41,6403,Indoor,Traffic,43.0054013,70.59962129,26,Other,Yes,Moderate,Diabetes,0
+31/05/2024 15:26,3835,Indoor,Traffic,63.11437688,45.96868765,51,Other,Yes,Mild,Diabetes,0
+31/05/2024 15:11,6197,Outdoor,Traffic,56.23437513,67.02306145,43,Other,No,Normal,Healthy,0
+31/05/2024 14:56,5132,Outdoor,Industrial,77.76517463,37.40044294,34,Female,No,Moderate,Healthy,1
+31/05/2024 14:41,4433,Outdoor,Workplace,69.09305226,67.60851961,51,Female,No,Moderate,Hypertension,0
+31/05/2024 14:26,4601,Outdoor,Traffic,59.92492007,74.85050178,21,Male,Yes,Moderate,Other,0
+31/05/2024 14:11,2220,Indoor,Recreational,79.2129352,80.65882236,31,Other,No,Moderate,Heart Disease,1
+31/05/2024 13:56,5856,Outdoor,Workplace,60.64307442,71.37594987,19,Male,No,Moderate,Heart Disease,0
+31/05/2024 13:41,4383,Indoor,Recreational,63.95941785,56.20101345,23,Other,No,Moderate,Other,0
+31/05/2024 13:26,7081,Outdoor,Traffic,67.70578411,80.48453113,26,Other,Yes,Severe,Healthy,0
+31/05/2024 13:11,2812,Indoor,Recreational,74.09248588,48.9597944,41,Male,No,Normal,Heart Disease,0
+31/05/2024 12:56,3319,Outdoor,Industrial,65.11887085,65.96503164,31,Other,Yes,Normal,Diabetes,0
+31/05/2024 12:41,1675,Indoor,Recreational,79.20392324,45.40985548,30,Other,Yes,Moderate,Hypertension,1
+31/05/2024 12:26,1098,Outdoor,Workplace,60.98198845,64.59545106,28,Other,No,Normal,Other,0
+31/05/2024 12:11,6203,Outdoor,Traffic,55.19081711,89.88298866,57,Male,Yes,Normal,Heart Disease,0
+31/05/2024 11:56,1097,Indoor,Recreational,80.92559166,75.45705749,42,Other,No,Mild,Other,1
+31/05/2024 11:41,2260,Outdoor,Recreational,61.86578003,78.44118939,47,Male,No,Mild,Healthy,0
+31/05/2024 11:26,1370,Outdoor,Recreational,70.93257761,82.27395642,41,Female,No,Severe,Heart Disease,0
+31/05/2024 11:11,2174,Indoor,Recreational,72.68295963,58.59725477,51,Male,Yes,Mild,Other,0
+31/05/2024 10:56,5088,Indoor,Workplace,85.82712607,42.53951141,40,Other,Yes,Moderate,Heart Disease,1
+31/05/2024 10:41,7790,Indoor,Residential,62.02894062,22.92815425,36,Male,No,Mild,Heart Disease,0
+31/05/2024 10:26,8218,Indoor,Industrial,70.27670336,38.3193703,18,Male,Yes,Normal,Heart Disease,0
+31/05/2024 10:11,5780,Outdoor,Traffic,57.17012605,62.34012666,32,Male,Yes,Severe,Other,0
+31/05/2024 09:56,5547,Outdoor,Residential,60.18771225,19.3420208,58,Female,Yes,Severe,Hypertension,0
+31/05/2024 09:41,2071,Outdoor,Industrial,57.42210501,63.54089142,63,Other,No,Mild,Hypertension,0
+31/05/2024 09:26,4454,Indoor,Recreational,73.46949778,69.87807856,33,Female,No,Moderate,Other,0
+31/05/2024 09:11,4150,Outdoor,Residential,74.19810181,28.71637727,51,Female,No,Moderate,Diabetes,0
+31/05/2024 08:56,7468,Indoor,Industrial,68.68860647,77.58467306,60,Female,No,Severe,Healthy,0
+31/05/2024 08:41,4263,Indoor,Industrial,57.24255508,51.57155843,18,Female,No,Severe,Other,0
+31/05/2024 08:26,2770,Indoor,Residential,58.49064417,27.2936954,39,Other,No,Normal,Diabetes,0
+31/05/2024 08:11,1945,Outdoor,Recreational,57.98146583,26.14348923,19,Male,No,Severe,Other,0
+31/05/2024 07:56,3952,Outdoor,Recreational,68.56917915,58.88725721,30,Female,Yes,Normal,Healthy,0
+31/05/2024 07:41,9235,Outdoor,Traffic,49.18981338,61.69626018,52,Other,Yes,Mild,Other,0
+31/05/2024 07:26,3264,Indoor,Industrial,61.03319749,59.70453965,38,Female,Yes,Severe,Heart Disease,0
+31/05/2024 07:11,2727,Outdoor,Traffic,51.60901454,80.73951922,58,Male,Yes,Mild,Other,0
+31/05/2024 06:56,6073,Outdoor,Recreational,70.06370313,61.24152684,25,Female,Yes,Mild,Diabetes,0
+31/05/2024 06:41,2034,Outdoor,Industrial,55.08890889,48.39177008,46,Other,No,Moderate,Other,0
+31/05/2024 06:26,1568,Outdoor,Traffic,84.5812331,53.5902962,63,Male,No,Mild,Hypertension,1
+31/05/2024 06:11,1104,Outdoor,Traffic,75.45362217,81.63057613,26,Male,No,Mild,Other,1
+31/05/2024 05:56,4664,Outdoor,Traffic,64.10925167,37.58853484,21,Male,Yes,Normal,Diabetes,0
+31/05/2024 05:41,9812,Outdoor,Industrial,69.13457041,63.18038756,20,Other,No,Severe,Other,0
+31/05/2024 05:26,3902,Outdoor,Workplace,69.68390868,64.10120478,60,Female,No,Moderate,Hypertension,0
+31/05/2024 05:11,3054,Outdoor,Workplace,55.39759883,80.45666285,21,Female,No,Severe,Other,0
+31/05/2024 04:56,3689,Outdoor,Recreational,77.38167814,62.23382391,44,Other,Yes,Moderate,Healthy,1
+31/05/2024 04:41,3709,Outdoor,Industrial,64.04300289,40.86851533,54,Other,Yes,Severe,Hypertension,0
+31/05/2024 04:26,5343,Outdoor,Industrial,57.3208396,63.84357701,63,Male,Yes,Normal,Healthy,0
+31/05/2024 04:11,4968,Outdoor,Residential,70.4158683,74.38644986,47,Female,No,Moderate,Hypertension,0
+31/05/2024 03:56,2633,Outdoor,Traffic,53.77174413,62.79530056,32,Female,No,Normal,Diabetes,0
+31/05/2024 03:41,9228,Outdoor,Recreational,71.55833856,81.92780856,33,Female,No,Normal,Other,0
+31/05/2024 03:26,7794,Indoor,Industrial,68.43018759,33.86475082,45,Female,No,Normal,Other,0
+31/05/2024 03:11,5668,Indoor,Residential,58.49985575,56.84838866,29,Other,Yes,Mild,Healthy,0
+31/05/2024 02:56,5749,Outdoor,Residential,74.56489974,60.12010307,42,Other,No,Severe,Hypertension,0
+31/05/2024 02:41,7727,Indoor,Industrial,72.05305514,75.44842509,45,Male,Yes,Mild,Diabetes,0
+31/05/2024 02:26,1878,Outdoor,Recreational,61.78139583,77.98982529,63,Male,Yes,Moderate,Hypertension,0
+31/05/2024 02:11,4334,Indoor,Recreational,70.39058944,60.48462493,21,Other,Yes,Normal,Heart Disease,0
+31/05/2024 01:56,3638,Indoor,Workplace,51.67820607,52.78260965,52,Female,Yes,Mild,Healthy,0
+31/05/2024 01:41,2448,Indoor,Workplace,69.91502336,63.76222827,56,Male,Yes,Severe,Hypertension,0
+31/05/2024 01:26,1739,Indoor,Recreational,50.41003091,37.18762344,22,Other,Yes,Moderate,Healthy,0
+31/05/2024 01:11,6325,Indoor,Residential,66.28393499,50.2143777,46,Female,No,Moderate,Heart Disease,0
+31/05/2024 00:56,7845,Indoor,Workplace,71.89256827,71.39954367,34,Other,No,Normal,Hypertension,0
+31/05/2024 00:41,8971,Indoor,Residential,68.38419748,67.07156235,48,Other,No,Normal,Hypertension,0
+31/05/2024 00:26,2150,Outdoor,Workplace,80.5337699,46.75436852,29,Male,No,Moderate,Healthy,1
+31/05/2024 00:11,8245,Outdoor,Residential,57.0660061,44.36271129,53,Other,No,Moderate,Heart Disease,0
+30/05/2024 23:56,1352,Indoor,Traffic,69.08731206,44.01160561,48,Other,No,Moderate,Diabetes,0
+30/05/2024 23:41,6689,Outdoor,Industrial,43.67605872,45.3894272,28,Male,No,Mild,Other,0
+30/05/2024 23:26,6878,Indoor,Recreational,59.8781912,62.94554405,63,Other,No,Severe,Healthy,0
+30/05/2024 23:11,5283,Indoor,Traffic,61.97347529,84.02363965,56,Male,Yes,Severe,Healthy,0
+30/05/2024 22:56,5686,Indoor,Recreational,80.67361596,86.44160722,47,Other,No,Mild,Other,1
+30/05/2024 22:41,1229,Outdoor,Residential,64.7638897,41.56265362,49,Other,Yes,Moderate,Hypertension,0
+30/05/2024 22:26,1320,Indoor,Workplace,74.13104487,66.59906674,25,Female,Yes,Moderate,Healthy,0
+30/05/2024 22:11,3533,Outdoor,Workplace,55.95595584,65.63453489,27,Male,Yes,Moderate,Diabetes,0
+30/05/2024 21:56,4738,Outdoor,Workplace,61.67084835,64.23649582,28,Female,Yes,Mild,Heart Disease,0
+30/05/2024 21:41,7662,Outdoor,Industrial,56.63273217,40.46382375,44,Female,No,Severe,Hypertension,0
+30/05/2024 21:26,9384,Indoor,Industrial,55.06178117,45.15629578,23,Female,No,Normal,Healthy,0
+30/05/2024 21:11,7987,Outdoor,Recreational,55.74760174,66.89766129,58,Female,Yes,Severe,Diabetes,0
+30/05/2024 20:56,1808,Outdoor,Workplace,58.8606453,52.30382217,23,Male,No,Normal,Other,0
+30/05/2024 20:41,2833,Indoor,Traffic,85.42737551,61.81075912,56,Other,Yes,Moderate,Hypertension,1
+30/05/2024 20:26,5514,Indoor,Recreational,64.41509952,39.72768048,47,Female,Yes,Mild,Diabetes,0
+30/05/2024 20:11,7024,Outdoor,Industrial,51.47218992,50.20766749,35,Male,Yes,Mild,Healthy,0
+30/05/2024 19:56,1816,Outdoor,Industrial,59.757137,33.32120059,56,Other,Yes,Moderate,Other,0
+30/05/2024 19:41,7549,Indoor,Workplace,75.16542302,65.28610471,56,Other,No,Severe,Healthy,1
+30/05/2024 19:26,3363,Outdoor,Industrial,57.98282487,53.03652483,31,Female,Yes,Moderate,Heart Disease,0
+30/05/2024 19:11,3426,Indoor,Residential,79.87620275,65.31457423,32,Male,Yes,Moderate,Healthy,1
+30/05/2024 18:56,1894,Indoor,Industrial,75.29634486,52.66780412,53,Female,No,Mild,Other,1
+30/05/2024 18:41,7017,Outdoor,Workplace,63.05668706,64.71327286,40,Other,No,Severe,Heart Disease,0
+30/05/2024 18:26,3974,Outdoor,Recreational,58.44012448,96.10304931,53,Other,Yes,Normal,Heart Disease,0
+30/05/2024 18:11,8205,Outdoor,Industrial,55.49209425,49.52446127,42,Male,Yes,Mild,Hypertension,0
+30/05/2024 17:56,5740,Indoor,Traffic,66.9239876,69.82892534,26,Other,Yes,Mild,Healthy,0
+30/05/2024 17:41,3247,Outdoor,Traffic,69.1498001,46.81401048,54,Other,Yes,Mild,Hypertension,0
+30/05/2024 17:26,1571,Indoor,Residential,78.40013906,57.35906302,41,Male,Yes,Normal,Other,1
+30/05/2024 17:11,6727,Indoor,Recreational,68.56799885,69.4584728,36,Female,No,Normal,Hypertension,0
+30/05/2024 16:56,2145,Indoor,Residential,61.47621175,65.66491178,53,Male,No,Normal,Hypertension,0
+30/05/2024 16:41,4299,Indoor,Residential,78.74363196,73.81642993,51,Male,No,Severe,Other,1
+30/05/2024 16:26,6664,Indoor,Workplace,73.19266633,79.12872025,28,Female,Yes,Moderate,Heart Disease,0
+30/05/2024 16:11,7751,Indoor,Workplace,58.12340061,73.29587666,52,Other,No,Severe,Healthy,0
+30/05/2024 15:56,4345,Outdoor,Workplace,64.16906037,78.40481082,45,Male,Yes,Severe,Hypertension,0
+30/05/2024 15:41,6379,Indoor,Traffic,71.60459092,64.26007865,58,Female,Yes,Normal,Diabetes,0
+30/05/2024 15:26,7315,Outdoor,Industrial,68.04891669,45.42817822,48,Male,Yes,Moderate,Heart Disease,0
+30/05/2024 15:11,7381,Indoor,Recreational,54.9214362,76.01304718,53,Male,No,Severe,Hypertension,0
+30/05/2024 14:56,2394,Outdoor,Workplace,66.75864652,52.37205643,50,Female,No,Severe,Diabetes,0
+30/05/2024 14:41,8777,Indoor,Recreational,58.24360065,73.8782148,32,Female,No,Moderate,Other,0
+30/05/2024 14:26,3160,Indoor,Residential,65.6349849,34.89925316,19,Other,No,Normal,Hypertension,0
+30/05/2024 14:11,5260,Indoor,Industrial,52.00335169,52.88452594,56,Female,Yes,Moderate,Healthy,0
+30/05/2024 13:56,4471,Indoor,Traffic,56.09093529,46.17599757,44,Female,Yes,Mild,Heart Disease,0
+30/05/2024 13:41,8909,Outdoor,Recreational,85.98639675,67.84925201,64,Female,No,Moderate,Hypertension,1
+30/05/2024 13:26,4978,Indoor,Industrial,60.73762362,48.45790521,33,Other,No,Mild,Healthy,0
+30/05/2024 13:11,7770,Indoor,Recreational,76.13456588,59.69537787,20,Other,No,Severe,Hypertension,1
+30/05/2024 12:56,7744,Indoor,Residential,63.74133646,57.09337162,44,Other,No,Moderate,Diabetes,0
+30/05/2024 12:41,9495,Outdoor,Workplace,52.9708066,80.53114659,49,Other,Yes,Moderate,Heart Disease,0
+30/05/2024 12:26,8122,Indoor,Residential,54.20026755,69.41696458,52,Other,No,Normal,Healthy,0
+30/05/2024 12:11,1071,Indoor,Recreational,57.0703834,65.79447896,41,Male,Yes,Severe,Healthy,0
+30/05/2024 11:56,6765,Outdoor,Traffic,86.45733935,60.40687543,24,Other,No,Mild,Other,1
+30/05/2024 11:41,6378,Indoor,Recreational,62.68886121,44.65822038,57,Female,Yes,Mild,Heart Disease,0
+30/05/2024 11:26,4768,Indoor,Traffic,66.81065685,42.46596509,36,Female,Yes,Normal,Hypertension,0
+30/05/2024 11:11,2664,Indoor,Traffic,71.81786243,65.54473966,22,Female,No,Mild,Diabetes,0
+30/05/2024 10:56,8938,Indoor,Recreational,70.0459152,31.71860536,56,Other,No,Mild,Hypertension,0
+30/05/2024 10:41,9982,Outdoor,Recreational,73.64989597,59.24744383,25,Female,No,Mild,Diabetes,0
+30/05/2024 10:26,8835,Indoor,Traffic,59.7458258,62.14618266,42,Other,No,Mild,Other,0
+30/05/2024 10:11,8151,Indoor,Recreational,53.16162657,31.78666614,39,Female,Yes,Normal,Healthy,0
+30/05/2024 09:56,1594,Indoor,Industrial,55.55449563,58.87628975,19,Male,Yes,Severe,Diabetes,0
+30/05/2024 09:41,6004,Outdoor,Traffic,49.68136067,60.1253562,57,Other,Yes,Normal,Healthy,0
+30/05/2024 09:26,2261,Indoor,Traffic,59.79826933,101.5739788,63,Female,Yes,Moderate,Healthy,0
+30/05/2024 09:11,5380,Outdoor,Recreational,27.73858725,60.18840178,27,Female,Yes,Normal,Hypertension,0
+30/05/2024 08:56,7518,Indoor,Residential,72.24598622,77.503841,35,Female,No,Moderate,Diabetes,0
+30/05/2024 08:41,3432,Outdoor,Industrial,70.72092695,68.93060648,42,Female,Yes,Mild,Diabetes,0
+30/05/2024 08:26,6690,Outdoor,Recreational,55.2453133,65.15927153,33,Male,Yes,Normal,Healthy,0
+30/05/2024 08:11,5544,Indoor,Workplace,51.23138226,76.5996907,32,Male,Yes,Severe,Diabetes,0
+30/05/2024 07:56,5305,Outdoor,Industrial,80.27920112,31.13440432,24,Other,No,Severe,Heart Disease,1
+30/05/2024 07:41,8710,Outdoor,Workplace,74.66485581,58.22763994,29,Male,No,Severe,Other,0
+30/05/2024 07:26,5417,Outdoor,Industrial,62.42620542,65.62694212,49,Other,Yes,Moderate,Heart Disease,0
+30/05/2024 07:11,6378,Outdoor,Traffic,58.24883651,40.74977735,20,Other,No,Severe,Hypertension,0
+30/05/2024 06:56,4757,Outdoor,Industrial,65.38039205,59.06574256,18,Male,No,Moderate,Hypertension,0
+30/05/2024 06:41,8595,Indoor,Recreational,50.59105273,61.88120675,60,Other,No,Mild,Heart Disease,0
+30/05/2024 06:26,4240,Indoor,Workplace,67.92966748,56.62595784,40,Other,Yes,Moderate,Other,0
+30/05/2024 06:11,5620,Indoor,Residential,52.9788404,42.24995462,52,Male,No,Mild,Diabetes,0
+30/05/2024 05:56,5617,Indoor,Workplace,41.09125669,44.92432826,18,Male,No,Normal,Other,0
+30/05/2024 05:41,6553,Indoor,Traffic,56.8616725,53.58681758,61,Female,Yes,Mild,Other,0
+30/05/2024 05:26,7566,Indoor,Traffic,54.84916355,67.69251257,61,Female,No,Normal,Diabetes,0
+30/05/2024 05:11,9143,Indoor,Residential,83.06914866,61.90187501,37,Female,No,Severe,Diabetes,1
+30/05/2024 04:56,1938,Outdoor,Industrial,81.74698177,63.98531087,33,Male,No,Severe,Diabetes,1
+30/05/2024 04:41,1340,Outdoor,Industrial,53.83675443,55.37555872,54,Other,Yes,Severe,Diabetes,0
+30/05/2024 04:26,8977,Indoor,Traffic,63.99907938,43.19179009,62,Male,Yes,Normal,Healthy,0
+30/05/2024 04:11,5474,Indoor,Residential,58.43695423,53.86292007,52,Other,No,Moderate,Heart Disease,0
+30/05/2024 03:56,8556,Outdoor,Traffic,83.37805686,43.3436659,54,Other,No,Severe,Healthy,1
+30/05/2024 03:41,5622,Outdoor,Workplace,46.7981921,-0.558543765,18,Other,Yes,Mild,Heart Disease,0
+30/05/2024 03:26,1905,Indoor,Industrial,69.65119949,59.7290794,64,Male,Yes,Severe,Heart Disease,0
+30/05/2024 03:11,5608,Indoor,Workplace,77.77981563,54.79454275,51,Female,No,Mild,Heart Disease,1
+30/05/2024 02:56,7473,Outdoor,Workplace,59.54326459,84.73071374,38,Other,No,Severe,Other,0
+30/05/2024 02:41,8518,Indoor,Recreational,65.23604517,73.78075825,43,Female,No,Moderate,Heart Disease,0
+30/05/2024 02:26,5123,Indoor,Industrial,75.53096088,69.52337888,31,Female,Yes,Mild,Diabetes,1
+30/05/2024 02:11,6156,Outdoor,Traffic,53.93065931,40.00984558,35,Female,Yes,Mild,Other,0
+30/05/2024 01:56,6978,Outdoor,Traffic,71.36542932,80.39322321,41,Female,Yes,Moderate,Other,0
+30/05/2024 01:41,6685,Outdoor,Workplace,49.51583721,62.82453171,52,Female,Yes,Normal,Healthy,0
+30/05/2024 01:26,7774,Indoor,Residential,49.04649594,52.85760323,18,Other,No,Mild,Hypertension,0
+30/05/2024 01:11,5490,Outdoor,Recreational,73.50601749,44.34277149,64,Other,No,Severe,Other,0
+30/05/2024 00:56,9484,Outdoor,Recreational,55.3304204,46.90111047,60,Other,Yes,Normal,Diabetes,0
+30/05/2024 00:41,8829,Outdoor,Workplace,66.79337735,54.86881376,33,Male,Yes,Moderate,Other,0
+30/05/2024 00:26,1969,Indoor,Recreational,53.2187289,39.46571597,63,Male,Yes,Moderate,Healthy,0
+30/05/2024 00:11,7699,Indoor,Recreational,67.80606626,60.76650804,56,Male,No,Normal,Other,0
+29/05/2024 23:56,2668,Outdoor,Workplace,48.40880043,56.69577972,55,Female,No,Mild,Hypertension,0
+29/05/2024 23:41,3302,Indoor,Traffic,77.95637715,73.73196386,38,Other,No,Normal,Heart Disease,1
+29/05/2024 23:26,4279,Indoor,Workplace,73.1342287,57.01562029,41,Female,No,Mild,Other,0
+29/05/2024 23:11,2207,Outdoor,Workplace,58.98715344,23.58097937,43,Male,No,Normal,Healthy,0
+29/05/2024 22:56,9594,Outdoor,Industrial,46.36988439,53.80933013,64,Female,No,Moderate,Hypertension,0
+29/05/2024 22:41,2038,Indoor,Traffic,62.95308274,37.41828125,63,Female,Yes,Mild,Heart Disease,0
+29/05/2024 22:26,3354,Outdoor,Workplace,61.41663061,48.06737878,56,Female,No,Mild,Other,0
+29/05/2024 22:11,6272,Outdoor,Industrial,59.55618983,41.12236715,35,Male,Yes,Mild,Diabetes,0
+29/05/2024 21:56,8860,Outdoor,Recreational,75.50630451,101.8025389,58,Female,Yes,Moderate,Other,1
+29/05/2024 21:41,4243,Outdoor,Residential,77.13529299,53.20305923,41,Other,No,Moderate,Diabetes,1
+29/05/2024 21:26,6619,Outdoor,Traffic,69.27559067,74.35167279,61,Female,Yes,Mild,Healthy,0
+29/05/2024 21:11,1805,Outdoor,Industrial,79.90590655,53.87259069,45,Female,Yes,Moderate,Heart Disease,1
+29/05/2024 20:56,6165,Indoor,Traffic,36.96838063,55.46288006,37,Male,No,Normal,Other,0
+29/05/2024 20:41,5198,Outdoor,Industrial,61.95912369,50.49555248,56,Female,No,Normal,Heart Disease,0
+29/05/2024 20:26,9942,Indoor,Recreational,61.48239968,46.07880521,34,Other,Yes,Severe,Diabetes,0
+29/05/2024 20:11,9815,Outdoor,Recreational,73.4210104,46.50361254,38,Other,No,Severe,Hypertension,0
+29/05/2024 19:56,3875,Indoor,Residential,61.81569594,67.48943598,35,Male,Yes,Severe,Healthy,0
+29/05/2024 19:41,4835,Indoor,Recreational,70.55432016,58.802545,19,Male,Yes,Moderate,Other,0
+29/05/2024 19:26,4610,Outdoor,Recreational,60.18381074,86.58284122,54,Female,Yes,Moderate,Hypertension,0
+29/05/2024 19:11,2492,Outdoor,Residential,58.25969082,55.59566353,53,Female,No,Mild,Healthy,0
+29/05/2024 18:56,8457,Outdoor,Traffic,73.01071741,54.47478909,34,Female,Yes,Moderate,Diabetes,0
+29/05/2024 18:41,6441,Outdoor,Recreational,64.98168062,60.81354206,60,Female,Yes,Mild,Healthy,0
+29/05/2024 18:26,7792,Outdoor,Traffic,68.07110602,72.11709056,23,Female,No,Severe,Heart Disease,0
+29/05/2024 18:11,4895,Indoor,Residential,52.59704878,62.32043824,52,Female,Yes,Severe,Diabetes,0
+29/05/2024 17:56,7495,Indoor,Workplace,71.77832981,86.91451069,57,Female,No,Normal,Healthy,0
+29/05/2024 17:41,9777,Outdoor,Recreational,54.22920836,111.5596161,51,Other,Yes,Mild,Heart Disease,0
+29/05/2024 17:26,3773,Outdoor,Traffic,82.13164652,76.38464032,39,Other,No,Moderate,Heart Disease,1
+29/05/2024 17:11,1900,Indoor,Industrial,62.43507253,67.52002016,54,Male,Yes,Severe,Other,0
+29/05/2024 16:56,1160,Indoor,Industrial,60.85970658,19.98294555,49,Male,Yes,Normal,Other,0
+29/05/2024 16:41,9016,Outdoor,Workplace,73.92187384,87.69618295,27,Male,Yes,Mild,Healthy,0
+29/05/2024 16:26,4541,Indoor,Recreational,64.48294124,84.54573719,23,Female,Yes,Moderate,Heart Disease,0
+29/05/2024 16:11,8122,Indoor,Recreational,72.17495748,90.69211119,30,Other,No,Moderate,Hypertension,0
+29/05/2024 15:56,2724,Indoor,Recreational,62.01097137,75.92594172,23,Female,No,Severe,Heart Disease,0
+29/05/2024 15:41,1930,Outdoor,Industrial,72.13524345,41.01508917,53,Female,Yes,Moderate,Diabetes,0
+29/05/2024 15:26,4307,Indoor,Workplace,64.23559265,40.69585793,50,Other,Yes,Normal,Healthy,0
+29/05/2024 15:11,1594,Outdoor,Industrial,73.66851673,38.19075919,19,Female,Yes,Moderate,Healthy,0
