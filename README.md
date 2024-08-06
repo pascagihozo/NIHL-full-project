@@ -10,9 +10,9 @@ This repository contains the full project for an AI-powered mobile application d
 
 The project is organized into the following directories:
 
-- **backend**: Contains the backend code, including API endpoints, data processing, and machine learning model integration.
+- **backend**: Contains the backend code, including API endpoints, data processing,models, and machine learning model integration.
 - **frontend**: Contains the React Native code for the mobile application interface.
-- **ml**: Contains the machine learning models and scripts used to predict the risk of hearing damage.
+- **ml**: Contains the machine learning models,dataset and scripts used to predict the risk of hearing damage.
 
 ## Features
 
