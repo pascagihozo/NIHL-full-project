@@ -12,7 +12,7 @@ The project is organized into the following directories:
 
 - **backend**: Contains the backend code, including API endpoints, data processing,models, and machine learning model integration.
 - **frontend**: Contains the React Native code for the mobile application interface.
-- **ml**: Contains the machine learning models,dataset and scripts used to predict the risk of hearing damage.
+- **ml**: Contains the dataset and ipynb script used to predict the risk of hearing damage.
 
 ## Features
 
